@@ -1,0 +1,852 @@
+[{
+        "question": "¿De cuántos títulos consta la Constitución española de 1978?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Nueve títulos."
+            }, {
+                "id": "b",
+                "name": "Diez títulos."
+            }, {
+                "id": "c",
+                "name": "Once títulos."
+            }, {
+                "id": "d",
+                "name": "Doce títulos."
+            }
+        ]
+    }, {
+        "question": "¿Qué título de la Constitución española regula la Corona?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Título I."
+            }, {
+                "id": "b",
+                "name": "Título II."
+            }, {
+                "id": "c",
+                "name": "Título III."
+            }, {
+                "id": "d",
+                "name": "Título IV."
+            }
+        ]
+    }, {
+        "question": "¿Qué título de la Constitución española regula las Cortes Generales?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Título VI."
+            }, {
+                "id": "b",
+                "name": "Título V."
+            }, {
+                "id": "c",
+                "name": "Título III."
+            }, {
+                "id": "d",
+                "name": "Título IV."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 1 de la Constitución española, ¿en qué tipo de Estado se constituye España?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Un Estado democrático y plural."
+            }, {
+                "id": "b",
+                "name": "Un Estado social y monárquico."
+            }, {
+                "id": "c",
+                "name": "Un Estado parlamentario democrático."
+            }, {
+                "id": "d",
+                "name": "Un Estado social y democrático de derecho."
+            }
+        ]
+    }, {
+        "question": "¿Dónde se regula que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el título preliminar de la Constitución española."
+            }, {
+                "id": "b",
+                "name": "En el preámbulo de la Constitución española."
+            }, {
+                "id": "c",
+                "name": "En el título I de la Constitución española."
+            }, {
+                "id": "d",
+                "name": "En el título II de la Constitución española."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 1 de la Constitución española, ¿Cuál es la forma política del Estado español?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La democracia popular."
+            }, {
+                "id": "b",
+                "name": "La monarquía presidencialista."
+            }, {
+                "id": "c",
+                "name": "La monarquía parlamentaria."
+            }, {
+                "id": "d",
+                "name": "La democracia parlamentaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 2 de la Constitución española, la Constitución se fundamenta:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En la indisoluble unidad de la Nación Española."
+            }, {
+                "id": "b",
+                "name": "En el principio democrático y social."
+            }, {
+                "id": "c",
+                "name": "En la soberanía nacional que reside en el pueblo."
+            }, {
+                "id": "d",
+                "name": "En el principio de justicia social."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 3 de la Constitución española, las diferentes modalidades lingüísticas de España son:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Un derecho de los ciudadanos españoles."
+            }, {
+                "id": "b",
+                "name": "Un patrimonio cultural, objeto de especial respeto y protección."
+            }, {
+                "id": "c",
+                "name": "Un valor fundamental de la cultura española."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas."
+            }
+        ]
+    }, {
+        "question": "¿La Constitución española establece que el castellano es la lengua española oficial del Estado?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Sí, en el preámbulo."
+            }, {
+                "id": "b",
+                "name": "No."
+            }, {
+                "id": "c",
+                "name": "Sí, en el título preliminar."
+            }, {
+                "id": "d",
+                "name": "Sí, en el título I."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 6 de la Constitución española, la estructura interna y el funcionamiento de los partidos políticos deben ser:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Plurales."
+            }, {
+                "id": "b",
+                "name": "Independientes."
+            }, {
+                "id": "c",
+                "name": "Objetivos."
+            }, {
+                "id": "d",
+                "name": "Democráticos."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 1 de la Constitución española, los poderes del Estado emanan de:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La corona."
+            }, {
+                "id": "b",
+                "name": "El pueblo español."
+            }, {
+                "id": "c",
+                "name": "El rey."
+            }, {
+                "id": "d",
+                "name": "Las Cortes Generales."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 4 de la Constitución española, ¿las comunidades autónomas pueden reconocer banderas y enseñas propias?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Sí, con autorización previa del Congreso y del Senado."
+            }, {
+                "id": "b",
+                "name": "Sí, con autorización previa del Gobierno."
+            }, {
+                "id": "c",
+                "name": "Sí, si está reconocido por el Estatuto de autonomía correspondiente."
+            }, {
+                "id": "d",
+                "name": "Las respuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 4 de la Constitución española, las banderas y enseñas propias de las comunidades autónomas:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Sólo se utilizarán en sus edificios públicos."
+            }, {
+                "id": "b",
+                "name": "Se utilizarán junto con la bandera de España en sus edificios públicos."
+            }, {
+                "id": "c",
+                "name": "Se utilizarán junto con la bandera de España y de la Unión Europea en sus edificios públicos."
+            }, {
+                "id": "d",
+                "name": "Se utilizarán junto con la bandera de España en sus edificios públicos y en sus actos oficiales."
+            }
+        ]
+    }, {
+        "question": "¿Dónde se regula que se reconoce y garantiza el derecho a la autonomía de las nacionalidades y de las regiones que  integran la Nación española y la solidaridad entre todas ellas?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el título preliminar de la Constitución española."
+            }, {
+                "id": "b",
+                "name": "En el preámbulo de la Constitución española."
+            }, {
+                "id": "c",
+                "name": "En el título I de la Constitución española."
+            }, {
+                "id": "d",
+                "name": "En el título II de la Constitución española."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 6 de la Constitución española, los partidos políticos:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Contribuyen a la defensa y a la promoción de los intereses económicos y sociales."
+            }, {
+                "id": "b",
+                "name": "Defienden el ordenamiento constitucional."
+            }, {
+                "id": "c",
+                "name": "Expresan el pluralismo político."
+            }, {
+                "id": "d",
+                "name": "Garantizan la participación democrática."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 7 de la Constitución española, los Sindicatos:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Contribuyen a la defensa y a la promoción de los intereses económicos y sociales que les son propios."
+            }, {
+                "id": "b",
+                "name": "Defienden el ordenamiento constitucional."
+            }, {
+                "id": "c",
+                "name": "Expresan el pluralismo social."
+            }, {
+                "id": "d",
+                "name": "Garantizan la participación democrática."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 7 de la Constitución española, ¿quién contribuye a la defensa y a la promoción de los intereses económicos y sociales que les son propios?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Los partidos políticos."
+            }, {
+                "id": "b",
+                "name": "Los sindicatos de trabajadores."
+            }, {
+                "id": "c",
+                "name": "Las asociaciones empresariales."
+            }, {
+                "id": "d",
+                "name": "Las respuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 8 de la Constitución española, ¿quién tiene como misión garantizar la soberanía y la independencia de España?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "El poder judicial."
+            }, {
+                "id": "b",
+                "name": "Las fuerzas armadas."
+            }, {
+                "id": "c",
+                "name": "El rey."
+            }, {
+                "id": "d",
+                "name": "El Gobierno."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 8 de la Constitución española, las Fuerzas Armadas tienen como misión:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Garantizar la soberanía y la independencia de España."
+            }, {
+                "id": "b",
+                "name": "Defender la integridad territorial de España."
+            }, {
+                "id": "c",
+                "name": "Defender el ordenamiento constitucional español."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 9 de la Constitución española, los ciudadanos y los poderes públicos están sujetos a:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La Constitución."
+            }, {
+                "id": "b",
+                "name": "La Constitución y las leyes."
+            }, {
+                "id": "c",
+                "name": "La Constitución y el resto del ordenamiento jurídico."
+            }, {
+                "id": "d",
+                "name": "Las leyes."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 9 de la Constitución española, se garantiza el principio de:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Jerarquía institucional."
+            }, {
+                "id": "b",
+                "name": "Retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+            }, {
+                "id": "c",
+                "name": " Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+            }, {
+                "id": "d",
+                "name": "Solidaridad."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 9 de la Constitución española, se garantiza el principio de:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Jerarquía normativa."
+            }, {
+                "id": "b",
+                "name": "Retroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+            }, {
+                "id": "c",
+                "name": "Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 10 de la Constitución española, las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La Declaración Universal de Derechos Humanos."
+            }, {
+                "id": "b",
+                "name": "La Carta Social Europea."
+            }, {
+                "id": "c",
+                "name": "El Convenio de Derechos Humanos y Sociales Europeo."
+            }, {
+                "id": "d",
+                "name": "La Directiva 5/2017 de derechos humanos."
+            }
+        ]
+    }, {
+        "question": "¿Dónde se regula la mayoría de edad de los españoles?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "En el título preliminar de la Constitución española."
+            }, {
+                "id": "b",
+                "name": "En el  preámbulo de la Constitución española."
+            }, {
+                "id": "c",
+                "name": "En el título I de la Constitución española."
+            }, {
+                "id": "d",
+                "name": "En el título II de la Constitución española."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 11 de la Constitución española, ¿puede el Estado español concertar tratados de doble nacionalidad con otros países?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "No."
+            }, {
+                "id": "b",
+                "name": "Sí, con los países iberoamericanos."
+            }, {
+                "id": "c",
+                "name": "Sí, con los países que hayan tenido o tengan una vinculación particular con España."
+            }, {
+                "id": "d",
+                "name": "Las respuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 11 de la Constitución española, ¿puede un español de origen ser privado de su nacionalidad?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Sí, en los casos previstos por ley."
+            }, {
+                "id": "b",
+                "name": "En ningún caso."
+            }, {
+                "id": "c",
+                "name": "Sólo en caso de terrorismo o pertenencia a banda armada."
+            }, {
+                "id": "d",
+                "name": "Sólo en caso de delito flagrante."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 13 de la Constitución española, ¿en qué caso queda excluida la extradición?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En los delitos políticos."
+            }, {
+                "id": "b",
+                "name": "En los delitos de hacienda."
+            }, {
+                "id": "c",
+                "name": "En los actos de terrorismo."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 16 de la Constitución española, ¿qué confesión religiosa tiene el carácter de estatal?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Ninguna."
+            }, {
+                "id": "b",
+                "name": "La religión cristiana."
+            }, {
+                "id": "c",
+                "name": "La religión católica."
+            }, {
+                "id": "d",
+                "name": "La creencia religiosa que histórica y tradicionalmente es propia de España."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 17 de la Constitución española, ¿cuánto puede durar como máximo la detención preventiva?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Sesenta y cinco horas."
+            }, {
+                "id": "b",
+                "name": "Sesenta y dos horas."
+            }, {
+                "id": "c",
+                "name": "Setenta y cinco horas."
+            }, {
+                "id": "d",
+                "name": "Setenta y dos horas."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 17 de la Constitución española, una persona detenida tiene derecho a:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Ser informada inmediatamente de sus derechos y de las razones de la detención."
+            }, {
+                "id": "b",
+                "name": "No ser obligada a declarar."
+            }, {
+                "id": "c",
+                "name": "La asistencia de un abogado."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 22 de la Constitución española, ¿qué tipo de asociaciones están prohibidas?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Ninguna."
+            }, {
+                "id": "b",
+                "name": "Las asociaciones de carácter lucrativo."
+            }, {
+                "id": "c",
+                "name": "Las asociaciones secretas y las de carácter paramilitar."
+            }, {
+                "id": "d",
+                "name": "Ninguna, excepto las de carácter paramilitar."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 25 de la Constitución española, las penas privativas de libertad estarán orientadas a:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La reeducación."
+            }, {
+                "id": "b",
+                "name": "Al cumplimiento estricto de la pena."
+            }, {
+                "id": "c",
+                "name": "La reinserción social."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 25 de la Constitución española, ¿qué tipo de sanciones no puede imponer la Administración civil?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Sanciones que directa o subsidiariamente impliquen privación de libertad."
+            }, {
+                "id": "b",
+                "name": "Sanciones pecuniarias."
+            }, {
+                "id": "c",
+                "name": "Sanciones administrativas."
+            }, {
+                "id": "d",
+                "name": "Multas."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 26 de la Constitución española, ¿qué tipo de tribunales están prohibidos en el ámbito de la Administración civil y de las organizaciones profesionales?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Tribunales castrenses."
+            }, {
+                "id": "b",
+                "name": "Tribunales de honor."
+            }, {
+                "id": "c",
+                "name": "Jurados populares."
+            }, {
+                "id": "d",
+                "name": "Tribunales civiles."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 28 de la Constitución española, sobre la libertad de sindicación, ¿tienen todos derecho a sindicarse libremente?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Sí, sin excepciones."
+            }, {
+                "id": "b",
+                "name": "No, la ley puede limitar o exceptuar el ejercicio de este derecho a las Fuerzas o Institutos armados u otros cuerpos con disciplina militar."
+            }, {
+                "id": "c",
+                "name": "No, se exceptúa a los jueces y magistrados."
+            }, {
+                "id": "d",
+                "name": "Las respuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 54 de la Constitución española, ¿a quién se designa como alto comisionado de las Cortes Generales?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Al fiscal general del estado."
+            }, {
+                "id": "b",
+                "name": "Al Presidente del Consejo General del Poder Judicial."
+            }, {
+                "id": "c",
+                "name": "Al Defensor del Pueblo."
+            }, {
+                "id": "d",
+                "name": "Al presidente del Consejo del Estado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 54 de la Constitución española, ¿qué norma regula la institución del Defensor del Poble?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Una ley orgánica."
+            }, {
+                "id": "b",
+                "name": "Una ley ordinaria."
+            }, {
+                "id": "c",
+                "name": "Un reglamento."
+            }, {
+                "id": "d",
+                "name": "Un decreto ley."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 53 de la Constitución española, ¿qué tipo de recurso judicial se puede interponer para defender la objeción de conciencia ante el Tribunal Constitucional?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Un recurso de apelación."
+            }, {
+                "id": "b",
+                "name": "Un recurso de inconstitucionalidad."
+            }, {
+                "id": "c",
+                "name": "Un recurso de amparo."
+            }, {
+                "id": "d",
+                "name": "Un recurso de casación."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 55 de la Constitución española, ¿en qué caso la garantía al derecho del secreto de las comunicaciones puede ser suspendida?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Cuando sea acordada la declaración del estado de excepción."
+            }, {
+                "id": "b",
+                "name": "Nunca, en ningún caso."
+            }, {
+                "id": "c",
+                "name": "Cuando sea acordada la declaración del estado de sitio."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 54 de la Constitución española, ¿quién tiene la misión de defender los derechos fundamentales comprendidos en el título I?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El Defensor del Pueblo."
+            }, {
+                "id": "b",
+                "name": "El Ministerio Fiscal."
+            }, {
+                "id": "c",
+                "name": "Los tribunales de justicia."
+            }, {
+                "id": "d",
+                "name": "El ministro competente en materia de justicia."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 166 de la Constitución española, ¿quién puede tener la iniciativa de reforma constitucional?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El Gobierno y el Congreso."
+            }, {
+                "id": "b",
+                "name": "Las Cortes Generales y las asambleas legislativas autonómicas."
+            }, {
+                "id": "c",
+                "name": "El Gobierno, el Congreso , el Senado y las asambleas legislativas autonómicas."
+            }, {
+                "id": "d",
+                "name": "El Gobierno estatal y los gobiernos autonómicos."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 167 de la Constitución española, ¿qué mayoría se requiere en cada una de las cámaras de las Cortes Generales para aprobar un proyecto de reforma constitucional no esencial?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Mayoría de dos tercios."
+            }, {
+                "id": "b",
+                "name": "Mayoría de tres quintas partes."
+            }, {
+                "id": "c",
+                "name": "Mayoría absoluta."
+            }, {
+                "id": "d",
+                "name": "Mayoría de tres cuartas partes."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 167 de la Constitución española, ¿una vez aprobada una reforma constitucional no esencial por parte de las Cortes Generales se requiere de un referéndum para ser ratificada?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "No, nunca."
+            }, {
+                "id": "b",
+                "name": "Sí, siempre."
+            }, {
+                "id": "c",
+                "name": "Sí, siempre que lo solicite una décima parte de los miembros de cualquiera de las cámaras."
+            }, {
+                "id": "d",
+                "name": "Sí, siempre que lo solicite una quinta parte de los miembros de cualquiera de las cámaras."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 168 de la Constitución española, sobre la reforma constitucional, ¿en qué caso se produce la disolución inmediata de las Cortes Generales?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Nunca."
+            }, {
+                "id": "b",
+                "name": "Con cualquier tipo de reforma constitucional."
+            }, {
+                "id": "c",
+                "name": "Si se propone la revisión total de la Constitución."
+            }, {
+                "id": "d",
+                "name": "Si se propone la revisión parcial que afecte al título III."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 168 de la Constitución española, ¿qué se requiere para aprobar una reforma parcial de la Constitución que afecte al título II?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La aprobación de la reforma por mayoría de dos tercios de cada cámara."
+            }, {
+                "id": "b",
+                "name": "La disolución inmediata de las Cortes Generales."
+            }, {
+                "id": "c",
+                "name": "La aprobación de la reforma por mayoría absoluta de cada cámara."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 168 de la Constitución española, ¿qué se requiere para aprobar una reforma parcial de la Constitución que afecte al título preliminar?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La aprobación de la reforma por mayoría de dos tercios de cada cámara."
+            }, {
+                "id": "b",
+                "name": "La aprobación de la reforma por mayoría absoluta de cada cámara."
+            }, {
+                "id": "c",
+                "name": "La disolución inmediata de las Cortes Generales."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 168 de la Constitución española, una vez aprobada por las Cortes Generales una reforma parcial de la Constitución que afecte al título Preliminar ¿qué se requiere para ratificarla?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Un referéndum."
+            }, {
+                "id": "b",
+                "name": "La sanción por parte del rey."
+            }, {
+                "id": "c",
+                "name": "La publicación en el Boletín Oficial del Estado."
+            }, {
+                "id": "d",
+                "name": "Las repuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 168 de la Constitución española, ¿es necesario someter a referéndum la reforma del título preliminar una vez aprobada por las Cortes Generales?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "No, no es necesario."
+            }, {
+                "id": "b",
+                "name": "Sí, en todo caso."
+            }, {
+                "id": "c",
+                "name": "Sí, siempre que lo solicite una décima parte de los miembros de cualquiera de las cámaras."
+            }, {
+                "id": "d",
+                "name": "Únicamente en caso de desacuerdo entre el Congreso y el Senado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 169 de la Constitución española, ¿cuándo no se puede iniciar una reforma constitucional?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "No hay limitaciones, se puede iniciar en cualquier momento."
+            }, {
+                "id": "b",
+                "name": "En tiempo de guerra."
+            }, {
+                "id": "c",
+                "name": "En un proceso electoral."
+            }, {
+                "id": "d",
+                "name": "En una moción de censura."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 169 de la Constitución española, ¿se puede iniciar una reforma constitucional en cualquier momento?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Sí, siempre."
+            }, {
+                "id": "b",
+                "name": "Sí, excepto en tiempo de guerra."
+            }, {
+                "id": "c",
+                "name": "Sí, excepto durante un proceso electoral."
+            }, {
+                "id": "d",
+                "name": "Sí, excepto en tiempo de guerra o de vigencia de los Estados de alarma, de excepción y de sitio."
+            }
+        ]
+    }
+]

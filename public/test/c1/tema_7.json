@@ -1,0 +1,852 @@
+[{
+        "question": "Es una fuente exclusiva del Derecho administrativo:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La ley."
+            }, {
+                "id": "b",
+                "name": "Los Decretos legislativos."
+            }, {
+                "id": "c",
+                "name": "Los Reglamentos."
+            }, {
+                "id": "d",
+                "name": "La costumbre."
+            }
+        ]
+    }, {
+        "question": "Las fuentes del derecho son las siguientes:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La ley, la costumbre y los principios generales del Derecho."
+            }, {
+                "id": "b",
+                "name": "La Constitución."
+            }, {
+                "id": "c",
+                "name": "La ley, la jurisprudencia del Tribunal Supremo, la costumbre y los principios generales del derecho."
+            }, {
+                "id": "d",
+                "name": "Las mismas que se citan como fuentes materiales, es decir, el Parlamento y el Gobierno, entre otras."
+            }
+        ]
+    }, {
+        "question": "No se considera en el Código Civil como fuente del Derecho:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La costumbre."
+            }, {
+                "id": "b",
+                "name": "Los principios generales del Derecho."
+            }, {
+                "id": "c",
+                "name": "La doctrina científica."
+            }, {
+                "id": "d",
+                "name": "La ley."
+            }
+        ]
+    }, {
+        "question": "Desde el punto de vista del ordenamiento jurídico español, la Constitución de 1978 es:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La ley suprema."
+            }, {
+                "id": "b",
+                "name": "Una de las leyes más importantes."
+            }, {
+                "id": "c",
+                "name": "La segunda ley, después de los Estatutos de Autonomía."
+            }, {
+                "id": "d",
+                "name": "No forma parte del grupo de fuentes."
+            }
+        ]
+    }, {
+        "question": "Al no existir una teoría especial sobre la jerarquía de fuentes del Derecho administrativo, se aplican, por extensión, las que con carácter general se recogen en:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La Constitución."
+            }, {
+                "id": "b",
+                "name": "La jurisprudencia del Tribunal Supremo."
+            }, {
+                "id": "c",
+                "name": "El Código Civil."
+            }, {
+                "id": "d",
+                "name": "La Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las Administraciones Públicas."
+            }
+        ]
+    }, {
+        "question": "Señale en qué clase de fuente, dentro de las directas o indirectas, se incluirían los Tratados internacionales:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "En las indirectas, sin ninguna excepción."
+            }, {
+                "id": "b",
+                "name": "En las directas, en todo caso."
+            }, {
+                "id": "c",
+                "name": "No son fuente del derecho, salvo que estén publicados oficialmente en España."
+            }, {
+                "id": "d",
+                "name": "Siempre son fuentes indirectas."
+            }
+        ]
+    }, {
+        "question": "Los principios generales del derecho se aplican en defecto de:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Ley y jurisprudencia."
+            }, {
+                "id": "b",
+                "name": "Jurisprudencia y costumbre."
+            }, {
+                "id": "c",
+                "name": "Ley y costumbre."
+            }, {
+                "id": "d",
+                "name": "Todas las respuestas anteriores son correctas."
+            }
+        ]
+    }, {
+        "question": "La aprobación de un proyecto de ley corresponde:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Al Gobierno."
+            }, {
+                "id": "b",
+                "name": "Al Presidente del Gobierno."
+            }, {
+                "id": "c",
+                "name": "Al ministro de la Presidencia."
+            }, {
+                "id": "d",
+                "name": "Al ministro de Relaciones con las Cortes."
+            }
+        ]
+    }, {
+        "question": "El principio que ordena las fuentes según su importancia dentro del ordenamiento jurídico (es decir, según su mayor o menor rango)se denomina:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Jerarquía administrativa."
+            }, {
+                "id": "b",
+                "name": "Jerarquía normativa."
+            }, {
+                "id": "c",
+                "name": "Descentralización de las fuentes."
+            }, {
+                "id": "d",
+                "name": "Competencia jerárquica."
+            }
+        ]
+    }, {
+        "question": "Las disposiciones legislativas provisionales del Ejecutivo, se denominan también:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Decretos legislativos."
+            }, {
+                "id": "b",
+                "name": "Decretos."
+            }, {
+                "id": "c",
+                "name": "Decretos leyes."
+            }, {
+                "id": "d",
+                "name": "Leyes ejecutivas."
+            }
+        ]
+    }, {
+        "question": "Si el Estado quiere dictar una ley que contenga los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas en una materia, dictará:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Una ley orgánica."
+            }, {
+                "id": "b",
+                "name": "Una ley ordinaria."
+            }, {
+                "id": "c",
+                "name": "Una ley de armonización."
+            }, {
+                "id": "d",
+                "name": "Una ley de delegación."
+            }
+        ]
+    }, {
+        "question": "Los Reglamentos que se encargan de desarrollar una ley se denominan:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Reglamentos independientes."
+            }, {
+                "id": "b",
+                "name": "Reglamentos normativos."
+            }, {
+                "id": "c",
+                "name": "Reglamentos ad extra."
+            }, {
+                "id": "d",
+                "name": "Reglamentos ejecutivos."
+            }
+        ]
+    }, {
+        "question": "No existen los Reglamentos:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Estatales."
+            }, {
+                "id": "b",
+                "name": "Autonómicos."
+            }, {
+                "id": "c",
+                "name": "Discrecionales."
+            }, {
+                "id": "d",
+                "name": "Institucionales."
+            }
+        ]
+    }, {
+        "question": "Los Reglamentos estatales no pueden exteriorizarse mediante:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Un Decreto legislativo."
+            }, {
+                "id": "b",
+                "name": "Órdenes ministeriales."
+            }, {
+                "id": "c",
+                "name": "Resoluciones o circulares."
+            }, {
+                "id": "d",
+                "name": "Un Real Decreto."
+            }
+        ]
+    }, {
+        "question": "La figura del Real Decreto Ley está permitida en los supuestos siguientes:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Extraordinarios o urgentes."
+            }, {
+                "id": "b",
+                "name": "De urgencia, siendo suficiente esta circunstancia para poderlos dictar."
+            }, {
+                "id": "c",
+                "name": "En los casos de extraordinaria y urgente necesidad."
+            }, {
+                "id": "d",
+                "name": "En los casos de extraordinaria necesidad, aunque no sea urgente."
+            }
+        ]
+    }, {
+        "question": "Si una proposición de ley fuera contraria a una delegación legislativa en vigor:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Las Cortes Generales se reunirán para aprobar una moción de censura contra el Ejecutivo."
+            }, {
+                "id": "b",
+                "name": "Se acudirá al Tribunal Constitucional para que derogue la proposición de ley."
+            }, {
+                "id": "c",
+                "name": "El Gobierno está facultado para oponerse a su tramitación."
+            }, {
+                "id": "d",
+                "name": "Ninguna de las respuestas es correcta."
+            }
+        ]
+    }, {
+        "question": "Un Real Decreto Ley convalidado podrá tramitarse posteriormente como:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Proyecto de ley."
+            }, {
+                "id": "b",
+                "name": "Ley orgánica."
+            }, {
+                "id": "c",
+                "name": "Proposición de ley por la vía de urgencia."
+            }, {
+                "id": "d",
+                "name": "Proyecto de ley por la vía de urgencia."
+            }
+        ]
+    }, {
+        "question": "Las disposiciones del Ejecutivo que desarrollan una ley deben aprobarse:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Por el presidente del Gobierno."
+            }, {
+                "id": "b",
+                "name": "Por el Consejo de ministros."
+            }, {
+                "id": "c",
+                "name": "Por el ministro competente por razón de la materia."
+            }, {
+                "id": "d",
+                "name": "Por las Cortes Generales con la aprobación previa del Gobierno."
+            }
+        ]
+    }, {
+        "question": "Los Reglamentos ejecutivos requieren como trámite o trámites preceptivos:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El dictamen previo de la Comisión Permanente del Consejo de Estado."
+            }, {
+                "id": "b",
+                "name": "El dictamen previo del Pleno del Consejo de Estado."
+            }, {
+                "id": "c",
+                "name": "En todo caso, el informe del Ministro de la Presidencia."
+            }, {
+                "id": "d",
+                "name": "En todo caso, el informe del Ministro de Administraciones Públicas."
+            }
+        ]
+    }, {
+        "question": "El Reglamento es, jerárquicamente:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Superior a un Decreto Legislativo."
+            }, {
+                "id": "b",
+                "name": "Inferior a un Texto Articulado."
+            }, {
+                "id": "c",
+                "name": "De igual rango a un Real Decreto-Ley."
+            }, {
+                "id": "d",
+                "name": "Todas las respuestas son incorrectas."
+            }
+        ]
+    }, {
+        "question": "Un reglamento que no haya sido informado preceptivamente por la Secretaria General Técnica de un Departamento Ministerial:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Es anulable."
+            }, {
+                "id": "b",
+                "name": "Es nulo."
+            }, {
+                "id": "c",
+                "name": "Es irregular."
+            }, {
+                "id": "d",
+                "name": "Es válido."
+            }
+        ]
+    }, {
+        "question": "Las leyes orgánicas tienen:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El mismo rango jerárquico que las leyes ordinarias."
+            }, {
+                "id": "b",
+                "name": "Mayor rango jerárquico que las leyes ordinarias."
+            }, {
+                "id": "c",
+                "name": "Menor rango jerárquico que las leyes ordinarias."
+            }, {
+                "id": "d",
+                "name": "Mayor rango jerárquico que los Decretos Legislativos."
+            }
+        ]
+    }, {
+        "question": "La potestad legislativa corresponde en exclusiva:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "A las Cortes Generales."
+            }, {
+                "id": "b",
+                "name": "Al Congreso de los Diputados."
+            }, {
+                "id": "c",
+                "name": "Al Senado."
+            }, {
+                "id": "d",
+                "name": "Todas las respuestas son incorrectas."
+            }
+        ]
+    }, {
+        "question": "Las leyes entran en vigor, si no disponen lo contrario:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "A los diez días de su completa publicación en el Boletín Oficial del Estado."
+            }, {
+                "id": "b",
+                "name": "A los quince días de su completa publicación en el Boletín Oficial del Estado."
+            }, {
+                "id": "c",
+                "name": "A los veinte días de su completa publicación en el Boletín Oficial del Estado."
+            }, {
+                "id": "d",
+                "name": "A los veinticinco días de su completa publicación en el Boletín Oficial del Estado."
+            }
+        ]
+    }, {
+        "question": "La iniciativa legislativa popular puede ejercerse en las siguientes materias:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "En  materias tributarias."
+            }, {
+                "id": "b",
+                "name": "En materias de carácter internacional."
+            }, {
+                "id": "c",
+                "name": "En materias relativas a prerrogativa de gracia."
+            }, {
+                "id": "d",
+                "name": "En materias relacionadas con las comunidades de vecinos."
+            }
+        ]
+    }, {
+        "question": "¿Cuál de los siguientes requisitos debe cumplirse en la tramitación de proposiciones de ley?:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Deben ser remitidas exclusivamente a la Mesa del Congreso."
+            }, {
+                "id": "b",
+                "name": "Deben remitirse al Gobierno para dar su aprobación antes de ser tramitadas en algunos casos."
+            }, {
+                "id": "c",
+                "name": "Deben remitirse siempre a la Mesa del Senado."
+            }, {
+                "id": "d",
+                "name": "No deben remitirse a ningún órgano externo al Congreso, en ningún caso."
+            }
+        ]
+    }, {
+        "question": "En relación con el contenido de las leyes, la regla general es:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Que siempre tienen efecto retroactivo."
+            }, {
+                "id": "b",
+                "name": "Que nunca tienen  efecto retroactivo."
+            }, {
+                "id": "c",
+                "name": "Que solamente tienen efecto retroactivo cuando lo establezca su contenido."
+            }, {
+                "id": "d",
+                "name": "Que solamente tienen efecto irretroactivo cuando lo establezca su contenido."
+            }
+        ]
+    }, {
+        "question": "El Senado, para oponer un veto a una proposición de ley aprobada en el Congreso de los Diputados, necesita:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Mayoría simple."
+            }, {
+                "id": "b",
+                "name": "Mayoría absoluta."
+            }, {
+                "id": "c",
+                "name": "Mayoría de dos tercios."
+            }, {
+                "id": "d",
+                "name": "Mayoría de tres quintos."
+            }
+        ]
+    }, {
+        "question": "Para sancionar las leyes, el Rey dispone de un plazo de:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Treinta días"
+            }, {
+                "id": "b",
+                "name": "Veinte días."
+            }, {
+                "id": "c",
+                "name": "Quince días."
+            }, {
+                "id": "d",
+                "name": "Diez días."
+            }
+        ]
+    }, {
+        "question": "No se requiere el desarrollo mediante una ley orgánica para regular:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La alteración de los límites provinciales."
+            }, {
+                "id": "b",
+                "name": "La alteración del nombre de una provincia."
+            }, {
+                "id": "c",
+                "name": "La regulación de las funciones de las Fuerzas y Cuerpos de Seguridad del Estado."
+            }, {
+                "id": "d",
+                "name": "La regulación del funcionamiento del Tribunal Supremo."
+            }
+        ]
+    }, {
+        "question": "La elaboración de leyes orgánicas puede delegarse:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "En las Comisiones legislativas de las Cámaras."
+            }, {
+                "id": "b",
+                "name": "En el Gobierno."
+            }, {
+                "id": "c",
+                "name": "En la Diputación Permanente de las Cámaras."
+            }, {
+                "id": "d",
+                "name": "Es indelegable."
+            }
+        ]
+    }, {
+        "question": "El Decreto Ley es convalidado:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Por el Congreso de los Diputados."
+            }, {
+                "id": "b",
+                "name": "Por el Senado."
+            }, {
+                "id": "c",
+                "name": "Por las Cortes Generales."
+            }, {
+                "id": "d",
+                "name": "Por el Gobierno."
+            }
+        ]
+    }, {
+        "question": "Para la convalidación de un Decreto Ley, el órgano competente dispone de un plazo de:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Diez días."
+            }, {
+                "id": "b",
+                "name": "Quince días."
+            }, {
+                "id": "c",
+                "name": "Veinte días."
+            }, {
+                "id": "d",
+                "name": "Treinta días."
+            }
+        ]
+    }, {
+        "question": "En relación con la autorización contenida en la ley de delegación, señala la respuesta incorrecta:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Debe otorgarse de manera concreta."
+            }, {
+                "id": "b",
+                "name": "Puede otorgarse de forma tácita."
+            }, {
+                "id": "c",
+                "name": "Debe otorgarse por tiempo determinado."
+            }, {
+                "id": "d",
+                "name": "Debe otorgarse de forma expresa."
+            }
+        ]
+    }, {
+        "question": "El Gobierno puede subdelegar la facultad de dictar legislación delegada:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Sí, siempre que lo autorice la ley de delegación."
+            }, {
+                "id": "b",
+                "name": "Sí, siempre que delegue en autoridades administrativas."
+            }, {
+                "id": "c",
+                "name": "Sí, siempre que delegue en órganos administrativos."
+            }, {
+                "id": "d",
+                "name": "No, en ningún caso."
+            }
+        ]
+    }, {
+        "question": "Las normas con rango de ley aprobadas por el Gobierno que contienen legislación delegada se denominan:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Decretos leyes."
+            }, {
+                "id": "b",
+                "name": "Decretos legislativos."
+            }, {
+                "id": "c",
+                "name": "Reales Decretos."
+            }, {
+                "id": "d",
+                "name": "Decretos."
+            }
+        ]
+    }, {
+        "question": "Para la aprobación de una Ley orgánica se requiere:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La mayoría simple en el Congreso de los Diputados y la mayoría absoluta en el Senado.."
+            }, {
+                "id": "b",
+                "name": "La mayoría simple tanto en el Congreso de los Diputados como en el Senado."
+            }, {
+                "id": "c",
+                "name": "La mayoría absoluta en el Congreso de los Diputados y la mayoría simple en el Senado."
+            }, {
+                "id": "d",
+                "name": " La mayoría absoluta tanto en el Congreso de los Diputados como en el Senado."
+            }
+        ]
+    }, {
+        "question": "Las leyes dictadas por las Asambleas Legislativas de las Comunidades Autónomas se publican siempre:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el Boletín Oficial del Estado y en el Boletín Oficial de la Comunidad Autónoma donde ha sido aprobada la ley."
+            }, {
+                "id": "b",
+                "name": "En el Boletín Oficial del Estado, únicamente."
+            }, {
+                "id": "c",
+                "name": "En el Boletín Oficial de cada Comunidad Autónoma."
+            }, {
+                "id": "d",
+                "name": " En el Diario de la Unión Europea."
+            }
+        ]
+    }, {
+        "question": "Para ejercer la iniciativa legislativa popular se necesitan necesariamente:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "No menos de 500.000 firmas."
+            }, {
+                "id": "b",
+                "name": "500.000 firmas."
+            }, {
+                "id": "c",
+                "name": "600.000 firmas."
+            }, {
+                "id": "d",
+                "name": "Más de 600.000 firmas."
+            }
+        ]
+    }, {
+        "question": "Las leyes aprobadas por las Asambleas Legislativas de las Comunidades Autónomas:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Tienen el mismo rango jerárquico que las aprobadas por las Cortes Generales."
+            }, {
+                "id": "b",
+                "name": "Tienen superior rango jerárquico que las aprobadas por las Cortes Generales."
+            }, {
+                "id": "c",
+                "name": "Tienen inferior rango jerárquico que las aprobadas por las Cortes Generales."
+            }, {
+                "id": "d",
+                "name": "Tienen el mismo rango jerárquico si las aprobadas por las Cortes Generales son anteriores."
+            }
+        ]
+    }, {
+        "question": "La relación entre las leyes emanadas de las Cortes Generales y las de las Asambleas Legislativas de las Comunidades Autónomas se articulan en virtud del principio de:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Jerarquía."
+            }, {
+                "id": "b",
+                "name": "Unidad."
+            }, {
+                "id": "c",
+                "name": "Competencia."
+            }, {
+                "id": "d",
+                "name": "Territorialidad."
+            }
+        ]
+    }, {
+        "question": "Respecto de la Ley, el Reglamento es una norma:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Prioritaria."
+            }, {
+                "id": "b",
+                "name": "Superior."
+            }, {
+                "id": "c",
+                "name": "Igualitaria."
+            }, {
+                "id": "d",
+                "name": "Complementaria."
+            }
+        ]
+    }, {
+        "question": "Las normas con rango de Ley emanadas del Gobierno en caso de extraordinaria y urgente necesidad se denominan:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Decretos Leyes."
+            }, {
+                "id": "b",
+                "name": "Decretos Legislativos."
+            }, {
+                "id": "c",
+                "name": "Decretos orgánicos."
+            }, {
+                "id": "d",
+                "name": "Decretos gubernativos."
+            }
+        ]
+    }, {
+        "question": "Las normas con rango de Ley emanadas del Gobierno haciendo uso de la delegación legislativa autorizada por las Cortes Generales se denominan:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Decretos Leyes."
+            }, {
+                "id": "b",
+                "name": "Decretos Legislativos."
+            }, {
+                "id": "c",
+                "name": "Decretos orgánicos."
+            }, {
+                "id": "d",
+                "name": "Decretos gubernativos."
+            }
+        ]
+    }, {
+        "question": "Los Decretos-Leyes pueden regular las materias siguientes:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El régimen de las comunidades autónomas."
+            }, {
+                "id": "b",
+                "name": "El derecho electoral general."
+            }, {
+                "id": "c",
+                "name": "Las materias objeto de ley ordinaria."
+            }, {
+                "id": "d",
+                "name": "Los derechos y deberes de los ciudadanos regulados en el Título I de la Constitución."
+            }
+        ]
+    }, {
+        "question": "Las disposiciones emanadas del Presidente del Gobierno tienen el siguiente rango:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Superior a un Real Decreto del Consejo de Ministros."
+            }, {
+                "id": "b",
+                "name": "Inferior a un Real Decreto del Consejo de Ministros."
+            }, {
+                "id": "c",
+                "name": "Idéntico a un Real Decreto del Consejo de Ministros."
+            }, {
+                "id": "d",
+                "name": "Superior a un Decreto del Consejo de Gobierno de una Comunidad Autónoma."
+            }
+        ]
+    }, {
+        "question": "Las disposiciones emanadas de las Comisiones Delegadas del Gobierno adoptan la forma de:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Reales Decretos."
+            }, {
+                "id": "b",
+                "name": "Órdenes del ministro competente."
+            }, {
+                "id": "c",
+                "name": "Órdenes del Ministro de la Presidencia, a propuesta del ministerio interesado."
+            }, {
+                "id": "d",
+                "name": "Órdenes del Consejo de Ministros."
+            }
+        ]
+    }, {
+        "question": "¿Qué clase de ley no existe?:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Ley Marco."
+            }, {
+                "id": "b",
+                "name": "Ley armonizadoras."
+            }, {
+                "id": "c",
+                "name": "Ley de transferencia."
+            }, {
+                "id": "d",
+                "name": "Ley reglamentarias"
+            }
+        ]
+    }, {
+        "question": "En ningún caso, existen:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Órdenes de las Comisiones Delegadas del Gobierno."
+            }, {
+                "id": "b",
+                "name": "Reales Decretos Ministeriales."
+            }, {
+                "id": "c",
+                "name": "Órdenes Ministeriales."
+            }, {
+                "id": "d",
+                "name": "Reales Decretos del Consejo de Ministros."
+            }
+        ]
+    }, {
+        "question": "El Reglamento entrará en vigor:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "En la fecha que el mismo señale o, en su defecto, a los veinte días de su completa publicación en el Diario de la Unión Europea."
+            }, {
+                "id": "b",
+                "name": "En la fecha que el mismo señale o, en su defecto, a los veinte días de su completa publicación en el Boletín Oficial del Estado, exclusivamente."
+            }, {
+                "id": "c",
+                "name": "En la fecha que el mismo señale o, en su defecto, a los veinte días de su completa publicación en el Boletín Oficial correspondiente."
+            }, {
+                "id": "d",
+                "name": "Todas las respuestas son incorrectas."
+            }
+        ]
+    }
+]

@@ -1,0 +1,852 @@
+[{
+        "question": "¿Quién elige al Defensor del Pueblo Europeo?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El Consejo Europeo."
+            }, {
+                "id": "b",
+                "name": "El Tribunal de Justicia."
+            }, {
+                "id": "c",
+                "name": "El Parlamento Europeo."
+            }, {
+                "id": "d",
+                "name": "La Comisión Europea."
+            }
+        ]
+    }, {
+        "question": "¿En qué año fue creado el Consejo Europeo?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "En 1986."
+            }, {
+                "id": "b",
+                "name": "En 1974."
+            }, {
+                "id": "c",
+                "name": "En 1955."
+            }, {
+                "id": "d",
+                "name": "En 1925."
+            }
+        ]
+    }, {
+        "question": "¿Cuál de las siguientes no es una institución de la Unión Europea?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "El Parlamento Europeo."
+            }, {
+                "id": "b",
+                "name": "Comité Europeo de Protección de Datos."
+            }, {
+                "id": "c",
+                "name": "El Consejo Europeo."
+            }, {
+                "id": "d",
+                "name": "La Comisión Europea."
+            }
+        ]
+    }, {
+        "question": "¿Dónde tiene su sede el Parlamento Europeo?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "París."
+            }, {
+                "id": "b",
+                "name": "Roma."
+            }, {
+                "id": "c",
+                "name": "Barcelona."
+            }, {
+                "id": "d",
+                "name": "Estrasburgo."
+            }
+        ]
+    }, {
+        "question": "¿Cuándo se firmó el Tratado de Roma?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "El 2 de septiembre de 2009."
+            }, {
+                "id": "b",
+                "name": "El 25 de marzo de 1957."
+            }, {
+                "id": "c",
+                "name": "El 8 de mayo de 1965."
+            }, {
+                "id": "d",
+                "name": "El 1 de julio de 1935."
+            }
+        ]
+    }, {
+        "question": "El Tratado de la Unión Europea se firmó en Maastricht: ",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "El 25 de junio de 1979. "
+            }, {
+                "id": "b",
+                "name": "El 16 de marzo de 1993. "
+            }, {
+                "id": "c",
+                "name": "El 17 de octubre de 1971. "
+            }, {
+                "id": "d",
+                "name": "El 7 de febrero de 1992."
+            }
+        ]
+    }, {
+        "question": "¿Durante qué meses el Consejo celebra sus reuniones en Luxemburgo?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Abril, junio y octubre."
+            }, {
+                "id": "b",
+                "name": "Enero, febrero y marzo."
+            }, {
+                "id": "c",
+                "name": "El Consejo se reúne cuando lo convoca el presidente."
+            }, {
+                "id": "d",
+                "name": "Junio, julio y agosto."
+            }
+        ]
+    }, {
+        "question": "Señale la respuesta correcta en relación con el Tribunal de Justicia de la Unión Europea:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Interpreta el derecho de los estados miembros."
+            }, {
+                "id": "b",
+                "name": "Aplica e interpreta el derecho comunitario."
+            }, {
+                "id": "c",
+                "name": "Interpreta pero no aplica el derecho comunitario."
+            }, {
+                "id": "d",
+                "name": "Aplica el derecho comunitario en colaboración con los ministros de asuntos exteriores de cada país miembro."
+            }
+        ]
+    }, {
+        "question": "Es correcto afirmar que las Directivas de la Unión Europea:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Tienen un alcance general. Son obligatorias en todos sus elementos y directamente aplicables en cada Estado miembro."
+            }, {
+                "id": "b",
+                "name": "Obligan al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios."
+            }, {
+                "id": "c",
+                "name": "No son vinculantes y cada Estado miembro puede incorporarlas en su ordenamiento jurídico."
+            }, {
+                "id": "d",
+                "name": "Son derecho comunitario primario y no vinculante."
+            }
+        ]
+    }, {
+        "question": "El Tratado de París que crea la comunidad europea del carbón y el acero entró en vigor:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El 17 de octubre de 1958."
+            }, {
+                "id": "b",
+                "name": "El 13 de enero de 1981."
+            }, {
+                "id": "c",
+                "name": "El 23 de julio de 1952."
+            }, {
+                "id": "d",
+                "name": "El 5 de septiembre de 1962."
+            }
+        ]
+    }, {
+        "question": "La Comisión tiene su sede en Bruselas, pero algunos departamentos y agencias ejecutivas de esta Comisión se encuentran en: ",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "París."
+            }, {
+                "id": "b",
+                "name": "Berlín."
+            }, {
+                "id": "c",
+                "name": "Luxemburgo."
+            }, {
+                "id": "d",
+                "name": "Niza."
+            }
+        ]
+    }, {
+        "question": "El Consejo Europeo está formado por:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Únicamente por los Jefes de Estado o de Gobierno de los Estados Miembros de la Unión Europea)"
+            }, {
+                "id": "b",
+                "name": "Los Jefes de Estado o de Gobierno de los Estados Miembros de la Unión Europea y el Presidente del Parlamento Europeo. "
+            }, {
+                "id": "c",
+                "name": "Los Jefes de Estado o de Gobierno de los Estados Miembros de la Unión Europea, el Presidente del Consejo Europeo y el Presidente del Parlamento Europeo. "
+            }, {
+                "id": "d",
+                "name": "Los Jefes de Estado o de Gobierno de los Estados Miembros de la Unión Europea, el Presidente del Consejo Europeo y el Presidente de la Comisión Europea)"
+            }
+        ]
+    }, {
+        "question": "El instrumento normativo que se dirige exclusivamente a los Estados miembros de la Unión Europea y obliga a estos a llevar a cabo una actuación positiva denominada trasposición se denomina:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Reglamento."
+            }, {
+                "id": "b",
+                "name": "Ley."
+            }, {
+                "id": "c",
+                "name": "Decisión."
+            }, {
+                "id": "d",
+                "name": "Directiva."
+            }
+        ]
+    }, {
+        "question": "El 18 de abril de 1951 se firmó en París el Tratado constitutivo de la Unión Europea del Carbón y del Acero; ¿qué países firmaron dicho Tratado?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Alemania occidental, Bélgica, Francia, Italia, Luxemburgo y los Países Bajos. "
+            }, {
+                "id": "b",
+                "name": "Alemania occidental, Bélgica, Francia, Italia, Gran Bretaña y los Países Bajos. "
+            }, {
+                "id": "c",
+                "name": "Alemania occidental, Francia, Gran Bretaña, Italia, Luxemburgo y Países Bajos. "
+            }, {
+                "id": "d",
+                "name": "Alemania occidental, Dinamarca, Francia, Italia, Luxemburgo y Países Bajos. "
+            }
+        ]
+    }, {
+        "question": "Los Reglamentos Europeos se caracterizan:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Por su carácter no obligatorio, su alcance individual y su aplicabilidad directa)"
+            }, {
+                "id": "b",
+                "name": "Por su carácter no obligatorio, su alcance individual y su aplicación indirecta)"
+            }, {
+                "id": "c",
+                "name": "Por su carácter no vinculante, su alcance general y su no aplicabilidad directa)"
+            }, {
+                "id": "d",
+                "name": "Por su carácter obligatorio, su alcance general y su aplicación directa)"
+            }
+        ]
+    }, {
+        "question": "La Mesa del Parlamento Europeo estará compuesta:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Por el Presidente, doce Vicepresidentes y los Cuestores. "
+            }, {
+                "id": "b",
+                "name": "Por el Presidente, diez Vicepresidentes y los Cuestores. "
+            }, {
+                "id": "c",
+                "name": "Por el Presidente, dos Vicepresidentes y los Cuestores. "
+            }, {
+                "id": "d",
+                "name": "Por el Presidente, catorce Vicepresidentes y los Cuestores."
+            }
+        ]
+    }, {
+        "question": "¿Dónde se firmó el Acta Única Europea?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "En Berlín."
+            }, {
+                "id": "b",
+                "name": "En Luxemburgo."
+            }, {
+                "id": "c",
+                "name": "En Estrasburgo."
+            }, {
+                "id": "d",
+                "name": "En Múnich."
+            }
+        ]
+    }, {
+        "question": "Los derechos, las libertades y los principios reconocidos en la Unión Europea están enunciados:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "En el Tratado de Tallin."
+            }, {
+                "id": "b",
+                "name": "No están reconocidos a día de hoy."
+            }, {
+                "id": "c",
+                "name": "En las constituciones de los países miembros."
+            }, {
+                "id": "d",
+                "name": "En la Carta de los Derechos Fundamentales de la Unión Europea."
+            }
+        ]
+    }, {
+        "question": "¿Qué organismo de la Unión Europea elabora el anteproyecto del presupuesto? ",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El Defensor del Pueblo europeo"
+            }, {
+                "id": "b",
+                "name": "El Consejo europeo "
+            }, {
+                "id": "c",
+                "name": "La Comisión europea"
+            }, {
+                "id": "d",
+                "name": "El Parlamento europeo"
+            }
+        ]
+    }, {
+        "question": "¿Cuál es el principal órgano fiscalizador de las cuentas de la Unión Europea?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La Comisión."
+            }, {
+                "id": "b",
+                "name": "El Parlamento Europeo."
+            }, {
+                "id": "c",
+                "name": "El Tribunal de Cuentas."
+            }, {
+                "id": "d",
+                "name": "El Banco Central Europeo."
+            }
+        ]
+    }, {
+        "question": "Los actos legislativos puedenn adoptarse únicamente a propuesta de:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La Comisión Europea."
+            }, {
+                "id": "b",
+                "name": "El Consejo Europeo."
+            }, {
+                "id": "c",
+                "name": "El Consejo de Europa)"
+            }, {
+                "id": "d",
+                "name": "El Consejo de la Unión Europea)"
+            }
+        ]
+    }, {
+        "question": "El presidente de la Comisión Europea es elegido:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Por el Parlamento"
+            }, {
+                "id": "b",
+                "name": "Por el Consejo de la unión"
+            }, {
+                "id": "c",
+                "name": "Por el Consejo de Europa"
+            }, {
+                "id": "d",
+                "name": "Por el Tribunal superior de justicia"
+            }
+        ]
+    }, {
+        "question": "El mandato de los parlamentarios europeos es de:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Diez años."
+            }, {
+                "id": "b",
+                "name": "Dos años."
+            }, {
+                "id": "c",
+                "name": "Cinco años."
+            }, {
+                "id": "d",
+                "name": "Quince años."
+            }
+        ]
+    }, {
+        "question": "El Defensor del Pueblo presentará al Parlamento Europeo un informe sobre el resultado de sus investigaciones:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Semestralmente."
+            }, {
+                "id": "b",
+                "name": "Semanalmente."
+            }, {
+                "id": "c",
+                "name": "Mensualmente."
+            }, {
+                "id": "d",
+                "name": "Anualmente."
+            }
+        ]
+    }, {
+        "question": "Las decisiones de la Comisión Europea se adoptarán por:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Consenso de tres cuartas partes de sus miembros."
+            }, {
+                "id": "b",
+                "name": "Mayoría de sus miembros."
+            }, {
+                "id": "c",
+                "name": "Unanimidad."
+            }, {
+                "id": "d",
+                "name": "Mayoría de dos tercios."
+            }
+        ]
+    }, {
+        "question": "¿En qué año se adhirió España a la comunidad europea?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "En 2001."
+            }, {
+                "id": "b",
+                "name": "En 1950."
+            }, {
+                "id": "c",
+                "name": "En 1986."
+            }, {
+                "id": "d",
+                "name": "En 1991."
+            }
+        ]
+    }, {
+        "question": "¿Cuántos vicepresidentes asisten al presidente del Parlamento Europeo?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Veintisiete."
+            }, {
+                "id": "b",
+                "name": "Uno."
+            }, {
+                "id": "c",
+                "name": "Catorce."
+            }, {
+                "id": "d",
+                "name": "Siete."
+            }
+        ]
+    }, {
+        "question": "El consejo europeo se reune:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Tres veces al año."
+            }, {
+                "id": "b",
+                "name": "Dos veces al año."
+            }, {
+                "id": "c",
+                "name": "Una vez por trimestre."
+            }, {
+                "id": "d",
+                "name": "Dos veces por semestre."
+            }
+        ]
+    }, {
+        "question": "¿Cuál es el máximo órgano político de la Unión Europea?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "El Tribunal de Justicia."
+            }, {
+                "id": "b",
+                "name": "El Defensor del Pueblo."
+            }, {
+                "id": "c",
+                "name": "La Comisión Europea."
+            }, {
+                "id": "d",
+                "name": "El Consejo de la Unión Europea."
+            }
+        ]
+    }, {
+        "question": "¿Cuántas sesiones plenarias como mínimo celebra el Parlamento Europeo? ",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Una al año. "
+            }, {
+                "id": "b",
+                "name": "Una al mes."
+            }, {
+                "id": "c",
+                "name": "Una a la semana."
+            }, {
+                "id": "d",
+                "name": "Una al día."
+            }
+        ]
+    }, {
+        "question": "En relación con la legislación de la Unión Europea, son instrumentos jurídicos vinculantes:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El Reglamento, la Directiva y la Decisión."
+            }, {
+                "id": "b",
+                "name": "El Reglamento, la Recomendación y el Dictamen."
+            }, {
+                "id": "c",
+                "name": "La Directiva, el Dictamen y la Decisión. "
+            }, {
+                "id": "d",
+                "name": "La Directiva, el Reglamento y la Recomendación.  "
+            }
+        ]
+    }, {
+        "question": "¿Cuál de las siguientes instituciones se creó por iniciativa del Tratado de la Unión Europea?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "El Comité de las regiones."
+            }, {
+                "id": "b",
+                "name": "El Defensor del pueblo europeo."
+            }, {
+                "id": "c",
+                "name": "La Interpol."
+            }, {
+                "id": "d",
+                "name": "El Banco Central Europeo."
+            }
+        ]
+    }, {
+        "question": "El Parlamento Europeo estará compuesto por representantes de los ciudadanos de la Unión, con un número de:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "305 más el Presidente."
+            }, {
+                "id": "b",
+                "name": "705, incluido el Presidente."
+            }, {
+                "id": "c",
+                "name": "375 diputados."
+            }, {
+                "id": "d",
+                "name": "Entre 457 y 528 diputados."
+            }
+        ]
+    }, {
+        "question": "La renovación parcial de los jueces y abogados generales del Tribunal de Justicia Europeo tiene lugar cada:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Tres años."
+            }, {
+                "id": "b",
+                "name": "Dos años."
+            }, {
+                "id": "c",
+                "name": "Diez años."
+            }, {
+                "id": "d",
+                "name": "Siete años."
+            }
+        ]
+    }, {
+        "question": "¿Quién administra los créditos comunitarios del Fondo Social Europeo?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "El Tribunal de Cuentas."
+            }, {
+                "id": "b",
+                "name": "La Comisión."
+            }, {
+                "id": "c",
+                "name": "La Intervención General."
+            }, {
+                "id": "d",
+                "name": "El Defensor del Pueblo."
+            }
+        ]
+    }, {
+        "question": "El Parlamento Europeo puede constituir una comisión temporal de investigación a petición:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "De una décima parte de los diputados."
+            }, {
+                "id": "b",
+                "name": "De una cuarta parte de los diputados."
+            }, {
+                "id": "c",
+                "name": "De una quinta parte de los diputados."
+            }, {
+                "id": "d",
+                "name": "De la unanimidad de los diputados."
+            }
+        ]
+    }, {
+        "question": "¿Quién preside el Consejo de Asuntos Exteriores de la Unión Europea?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad."
+            }, {
+                "id": "b",
+                "name": "Un ministro de asuntos exteriores de un país miembro."
+            }, {
+                "id": "c",
+                "name": "El Presidente del Parlamento."
+            }, {
+                "id": "d",
+                "name": "El Presidente de la Comisión."
+            }
+        ]
+    }, {
+        "question": "Cuál de los siguientes actos normativos de la Unión Europea es obligatorio en todos sus elementos:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La Decisión."
+            }, {
+                "id": "b",
+                "name": "El Dictamen."
+            }, {
+                "id": "c",
+                "name": "La Recomendación."
+            }, {
+                "id": "d",
+                "name": "La Instrucción."
+            }
+        ]
+    }, {
+        "question": "¿Cuál de los siguientes países no forma parte de la Unión Europea?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "España."
+            }, {
+                "id": "b",
+                "name": "Francia."
+            }, {
+                "id": "c",
+                "name": "Noruega."
+            }, {
+                "id": "d",
+                "name": "Finlandia."
+            }
+        ]
+    }, {
+        "question": "¿Cuántos escaños le corresponden a España en el Parlamento Europeo en la actualidad?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "54"
+            }, {
+                "id": "b",
+                "name": "59"
+            }, {
+                "id": "c",
+                "name": "75"
+            }, {
+                "id": "d",
+                "name": "45"
+            }
+        ]
+    }, {
+        "question": "De acuerdo con lo previsto en el Tratado Constitutivo de la Unión Europea, ¿cómo se denomina la institución europea en la que están representados los ciudadanos de los Estados miembros?:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Comisión."
+            }, {
+                "id": "b",
+                "name": "Parlamento."
+            }, {
+                "id": "c",
+                "name": "Tribunal Europeo."
+            }, {
+                "id": "d",
+                "name": "Consejo Europeo."
+            }
+        ]
+    }, {
+        "question": "¿En cuántos pilares se basa el Tratado de la Unión Europea?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Tres."
+            }, {
+                "id": "b",
+                "name": "Ocho."
+            }, {
+                "id": "c",
+                "name": "Quince."
+            }, {
+                "id": "d",
+                "name": "Ventisiete."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta respecto del Defensor del Pueblo Europeo:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Su mandato es de cinco años."
+            }, {
+                "id": "b",
+                "name": "Es elegido por la Comisión."
+            }, {
+                "id": "c",
+                "name": "Solo los jueces pueden recurrir al Defensor del Pueblo Europeo."
+            }, {
+                "id": "d",
+                "name": "No podrá ser removido de sus funciones en ningún caso."
+            }
+        ]
+    }, {
+        "question": "El pleno del Parlamento Europeo adopta los acuerdos:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Por mayoría simple."
+            }, {
+                "id": "b",
+                "name": "Por mayoría de los votos emitidos salvo disposición en contrario."
+            }, {
+                "id": "c",
+                "name": "Por mayoría de tres quintas partes."
+            }, {
+                "id": "d",
+                "name": "Por unanimidad."
+            }
+        ]
+    }, {
+        "question": "Según el Tratado de Lisboa, ¿cuántos diputados como máximo puede tener un estado miembro?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "27."
+            }, {
+                "id": "b",
+                "name": "96."
+            }, {
+                "id": "c",
+                "name": "15."
+            }, {
+                "id": "d",
+                "name": "150."
+            }
+        ]
+    }, {
+        "question": "La sede del Parlamento Europeo se encuentra:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En Estrasburgo."
+            }, {
+                "id": "b",
+                "name": "En Bruselas."
+            }, {
+                "id": "c",
+                "name": "En París."
+            }, {
+                "id": "d",
+                "name": "En Roma."
+            }
+        ]
+    }, {
+        "question": "El mandato de la Comisión Europea se establece por un período de:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Ocho años."
+            }, {
+                "id": "b",
+                "name": "Seis años"
+            }, {
+                "id": "c",
+                "name": "Cuatro años."
+            }, {
+                "id": "d",
+                "name": "Cinco años."
+            }
+        ]
+    }, {
+        "question": "¿Con qué frecuencia se reúne de forma ordinaria el Consejo Europeo?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Una vez al año."
+            }, {
+                "id": "b",
+                "name": "Una vez al mes."
+            }, {
+                "id": "c",
+                "name": "Dos veces por semestre."
+            }, {
+                "id": "d",
+                "name": "Dos veces al año."
+            }
+        ]
+    }, {
+        "question": "En el Parlamento Europeo los diputados se agrupan por:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Países."
+            }, {
+                "id": "b",
+                "name": "Regiones."
+            }, {
+                "id": "c",
+                "name": "Idioma."
+            }, {
+                "id": "d",
+                "name": "Ideología política."
+            }
+        ]
+    }, {
+        "question": "La institución de la Unión Europea que está compuesta por un ministro de cada estado miembro de la Unión Europea es:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "El Comité de las Regiones."
+            }, {
+                "id": "b",
+                "name": "El Parlamento Europeo."
+            }, {
+                "id": "c",
+                "name": "La Comisión Europea."
+            }, {
+                "id": "d",
+                "name": "El Consejo."
+            }
+        ]
+    }
+]

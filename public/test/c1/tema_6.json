@@ -1,0 +1,852 @@
+[{
+        "question": "La Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears, tiene por objeto:",
+        "answer": "",
+        "options": [{
+                "id": "a",
+                "name": "Establecer, de acuerdo con el Estatuto de autonomía, el régimen jurídico aplicable al presidente, al Gobierno de las Illes Balears ya sus miembros, así como regular el ejercicio de la iniciativa legislativa y de las potestades normativas del Gobierno."
+            }, {
+                "id": "b",
+                "name": "Establecer, de acuerdo con el Estatuto de Autonomía, el régimen jurídico aplicable al presidente del Gobierno de las Illes Balears, así como regular el ejercicio de las potestades normativas del Gobierno."
+            }, {
+                "id": "c",
+                "name": "Establecer, de acuerdo con el Estatuto de Autonomía, el régimen jurídico aplicable al presidente, al Gobierno de las Illes Balears ya sus miembros, así como regular el ejercicio de la iniciativa legislativa."
+            }, {
+                "id": "d",
+                "name": "Establecer, de acuerdo con el Estatuto de Autonomía, el régimen jurídico aplicable al presidente, al Gobierno de las Illes Balears ya sus miembros."
+            }
+        ]
+    }, {
+        "question": "La organización del Gobierno de las Illes Balears, las atribuciones y el estatuto personal de cada uno de sus miembros se establecerá mediante:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Una ley del Parlamento aprobada por mayoría absoluta."
+            }, {
+                "id": "b",
+                "name": "Una ley del Parlamento aprobada en votación secreta por mayoría de tres quintas partes de sus miembros."
+            }, {
+                "id": "c",
+                "name": "Una ley del Parlamento aprobada por mayoría simple."
+            }, {
+                "id": "d",
+                "name": "Un decreto del presidente de las Illes Balears, a propuesta del resto de miembros del Gobierno."
+            }
+        ]
+    }, {
+        "question": "El presidente de las Illes Balears debe ser elegido por el Parlamento:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Entre sus miembros."
+            }, {
+                "id": "b",
+                "name": "Entre los candidatos propuestos por los diferentes grupos políticos, aunque no gocen de la condición de diputados del Parlamento de las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "Entre los ciudadanos españoles mayores de edad residentes en las Illes Balears, inscritos en el censo electoral."
+            }, {
+                "id": "d",
+                "name": "Entre los cabezas de lista de los partidos con representación parlamentaria, propuestos por el presidente del Parlamento de las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "El presidente de las Illes Balears es nombrado:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Por el rey."
+            }, {
+                "id": "b",
+                "name": "Por el presidente del Parlamento de las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "Por el presidente del Gobierno del Estado."
+            }, {
+                "id": "d",
+                "name": "Por el presidente cesante."
+            }
+        ]
+    }, {
+        "question": "El acto de toma de posesión del cargo de presidente de las Illes Balears consiste:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "En la aceptación del cargo y el acatamiento de la Constitución y del Estatuto de autonomía."
+            }, {
+                "id": "b",
+                "name": "En la aceptación del cargo y el acatamiento del Estatuto de Autonomía."
+            }, {
+                "id": "c",
+                "name": "En el juramento de la Constitución y del Estatuto de Autonomía."
+            }, {
+                "id": "d",
+                "name": "En la aceptación del cargo y la promesa de cumplir la Constitución y el Estatuto de Autonomía."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears, al presidente de las Illes Balears le corresponden atribuciones:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "De representación y de dirección."
+            }, {
+                "id": "b",
+                "name": "De representación, gestión y dirección."
+            }, {
+                "id": "c",
+                "name": "De dirección y coordinación."
+            }, {
+                "id": "d",
+                "name": "De representación, coordinación y gestión."
+            }
+        ]
+    }, {
+        "question": "El presidente de las Illes Balears responde políticamente:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Ante el Parlamento."
+            }, {
+                "id": "b",
+                "name": "Ante los miembros del Gobierno."
+            }, {
+                "id": "c",
+                "name": "Ante los diputados y diputadas de la oposición."
+            }, {
+                "id": "d",
+                "name": "Ante el Gobierno del Estado."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.Corresponde al presidente de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Suscribir instrumentos de colaboración y cooperación con el Estado."
+            }, {
+                "id": "b",
+                "name": "Autorizar la firma de instrumentos de colaboración y cooperación con el Estado."
+            }, {
+                "id": "c",
+                "name": "Nombrar a los gerentes de los organismos autónomos del sector público instrumental autonómico."
+            }, {
+                "id": "d",
+                "name": "Elegir los síndicos de la Sindicatura de Cuentas."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.El presidente de las Illes Balears puede dictar disposiciones reglamentarias sólo en los siguientes casos:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Determinación de la organización de los servicios de las conserjerías."
+            }, {
+                "id": "b",
+                "name": "Determinación de la estructura de la Presidencia."
+            }, {
+                "id": "c",
+                "name": "Creación y extinción de consejerías."
+            }, {
+                "id": "d",
+                "name": "Determinación del régimen de suplencias de los consejeros."
+            }
+        ]
+    }, {
+        "question": "Corresponde al presidente de las Illes Balears, como más alto representante de la comunidad autónoma:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Convocar elecciones al Parlamento de las Illes Balears ya los consejos insulares, en los términos regulados por la ley."
+            }, {
+                "id": "b",
+                "name": "Ordenar la publicación en el Boletín Oficial de las Illes Balears del nombramiento del presidente del Tribunal Superior de Justicia."
+            }, {
+                "id": "c",
+                "name": "Determinar la estructura de la Presidencia y del resto del Gobierno."
+            }, {
+                "id": "d",
+                "name": "Firmar los acuerdos del Consejo de Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.El presidente de las Illes Balears cesa por alguna de las siguientes causas:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El acuerdo adoptado por mayoría absoluta de los miembros del Consejo de Gobierno."
+            }, {
+                "id": "b",
+                "name": "La aprobación de la moción de censura."
+            }, {
+                "id": "c",
+                "name": "La pérdida de la condición de diputado del Parlamento."
+            }, {
+                "id": "d",
+                "name": "La sentencia firme de los tribunales que le inhabilite para el ejercicio del cargo."
+            }
+        ]
+    }, {
+        "question": "En qué supuesto de cese del presidente de las Illes Balears éste no puede continuar en el cargo hasta que su sucesor haya tomado posesión:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La incapacidad física o psíquica permanente que le imposibilite para el ejercicio del cargo."
+            }, {
+                "id": "b",
+                "name": "La aprobación de la moción de censura."
+            }, {
+                "id": "c",
+                "name": "La dimisión comunicada por escrito al presidente del Parlamento."
+            }, {
+                "id": "d",
+                "name": "La denegación de la cuestión de confianza."
+            }
+        ]
+    }, {
+        "question": "Cuando se produzca el cese del presidente de las Illes Balears como consecuencia de la pérdida de la condición de diputado del Parlamento, el presidente de esta institución:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el plazo máximo de dos meses debe reunir la cámara para elegir un nuevo presidente."
+            }, {
+                "id": "b",
+                "name": "Asume interinamente la presidencia hasta la convocatoria de nuevas elecciones."
+            }, {
+                "id": "c",
+                "name": "En el plazo máximo de tres meses debe reunir la cámara para elegir un nuevo presidente"
+            }, {
+                "id": "d",
+                "name": "Asume interinamente la presidencia por un plazo máximo de cuatro meses hasta la convocatoria de nuevas elecciones."
+            }
+        ]
+    }, {
+        "question": "No es un órgano de apoyo y de colaboración del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La Comisión Superior de Personal."
+            }, {
+                "id": "b",
+                "name": "La Comisión de Secretarios Generales."
+            }, {
+                "id": "c",
+                "name": "Los gabinetes."
+            }, {
+                "id": "d",
+                "name": "Los comisionados autonómicos."
+            }
+        ]
+    }, {
+        "question": "Constituyen estructuras de apoyo político y técnico, de asistencia y de asesoramiento directo de la Presidencia y de los miembros del Gobierno de las Illes Balears:",
+        "answer": "",
+        "options": [{
+                "id": "a",
+                "name": "Los gabinetes."
+            }, {
+                "id": "b",
+                "name": "Los comisionados autonómicos."
+            }, {
+                "id": "c",
+                "name": "Los gerentes de los entes del sector público instrumental."
+            }, {
+                "id": "d",
+                "name": "Los secretarios generales."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, la convocatoria, la constitución, el desarrollo de las sesiones y la adopción de acuerdos del Consejo de Gobierno pueden llevarse a cabo:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": " Tanto de manera presencial como a distancia."
+            }, {
+                "id": "b",
+                "name": "Únicamente de forma presencial."
+            }, {
+                "id": "c",
+                "name": "De forma presencial, y en casos excepcionales a distancia."
+            }, {
+                "id": "d",
+                "name": "Siempre a distancia."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En el Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La duración y el alcance específico del mandato de los comisionados autonómicos debe establecerse mediante decreto del Consejo de Gobierno."
+            }, {
+                "id": "b",
+                "name": "Los acuerdos del Consejo de Gobierno se adoptan por unanimidad de los miembros presentes."
+            }, {
+                "id": "c",
+                "name": "La constitución del Consejo de Gobierno es válida si asisten el presidente, o la persona que le sustituya, y un tercio, como mínimo, de los consejeros."
+            }, {
+                "id": "d",
+                "name": "El presidente convoca por medios manuales las sesiones del Consejo de Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta respecto del portavoz del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Debe ser miembro del Consejo de Gobierno."
+            }, {
+                "id": "b",
+                "name": "Lo nombra libremente el presidente del Gobierno entre las personas de su confianza."
+            }, {
+                "id": "c",
+                "name": "No es necesario que sea miembro del Consejo de Gobierno, basta con que sea diputado del Parlamento de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "Debe ser miembro del Consejo de Gobierno y diputado del Parlamento"
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En el Gobierno de las Illes Balears, no corresponde al Consejo de Gobierno:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Mantener la unidad de dirección política, y coordinar las acciones de las diferentes consejerías."
+            }, {
+                "id": "b",
+                "name": "Ejercer las facultades de coordinación de los consejos insulares de conformidad con la legislación vigente."
+            }, {
+                "id": "c",
+                "name": "Ejercer la potestad reglamentaria mediante la aprobación de órdenes."
+            }, {
+                "id": "d",
+                "name": "Proponer al Parlamento de las Illes Balears la incapacitación del presidente en los términos establecidos en la ley."
+            }
+        ]
+    }, {
+        "question": "De acuerdo con el artículo 48 de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears, las disposiciones generales se ajustan a la siguiente jerarquía:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Primero, los decretos aprobados por el Consejo de Gobierno o por el presidente, y segundo, las órdenes de los consejeros."
+            }, {
+                "id": "b",
+                "name": "Primero, los decretos aprobados por el presidente; segundo, los decretos aprobados por el Consejo de Gobierno, y tercero, las órdenes de los consejeros"
+            }, {
+                "id": "c",
+                "name": "Primero, los decretos aprobados por el presidente; segundo, los decretos aprobados por el Consejo de Gobierno, y tercero, los acuerdos del Consejo de Gobierno."
+            }, {
+                "id": "d",
+                "name": "Primero, los decretos aprobados por el Consejo de Gobierno o por el presidente, y segundo, los acuerdos del Consejo de Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En el Gobierno de las Illes Balears, no corresponde al Consejo de Gobierno:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Plantear la cuestión de confianza ante el Parlamento de las Illes Balears."
+            }, {
+                "id": "b",
+                "name": "Deliberar sobre la decisión del presidente de disolver de forma anticipada el Parlamento."
+            }, {
+                "id": "c",
+                "name": "Aprobar el proyecto de ley de presupuestos generales de la Comunidad Autónoma."
+            }, {
+                "id": "d",
+                "name": "Aprobar los proyectos de ley."
+            }
+        ]
+    }, {
+        "question": "La indicación de las razones por las que los miembros del Gobierno de las Illes Balears no han podido asistir de forma presencial a sus sesiones debe figurar:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "A las actas de la correspondiente sesión del Consejo de Gobierno."
+            }, {
+                "id": "b",
+                "name": "Como una incidencia sin trascendencia alguna."
+            }, {
+                "id": "c",
+                "name": "No será necesario que quede reflejado en ningún documento."
+            }, {
+                "id": "d",
+                "name": "En el documento de constitución del Consejo de Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta respecto de los consejeros del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "No puede haber consejeros sin cartera."
+            }, {
+                "id": "b",
+                "name": "Cada consejero está al frente de una consejería, sin perjuicio de la existencia de consejeros sin cartera."
+            }, {
+                "id": "c",
+                "name": "El vicepresidente puede asumir también la titularidad de una consejería, cuando así lo disponga el presidente."
+            }, {
+                "id": "d",
+                "name": "Los consejeros reciben el tratamiento de Señor o Señora."
+            }
+        ]
+    }, {
+        "question": "Para ser consejeros del Gobierno de las Illes Balears, además de ser mayor de edad y disfrutar de los derechos de sufragio activo y pasivo, se requiere:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Tener la nacionalidad española y no estar inhabilitado para el ejercicio de cargo u empleo público por sentencia firme."
+            }, {
+                "id": "b",
+                "name": "Tener la nacionalidad europea, ser diputado del Parlamento y no estar inhabilitado para el ejercicio de empleo público por sentencia firme."
+            }, {
+                "id": "c",
+                "name": "Estar empadronado en las Illes Balears y no estar inhabilitado para el ejercicio de cargo u empleo público."
+            }, {
+                "id": "d",
+                "name": "Estar empadronado en las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, el consejero encargado de la secretaría del Consejo de Gobierno es el encargado de firmar:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Las órdenes que afectan a más de una conserjería."
+            }, {
+                "id": "b",
+                "name": "Los acuerdos del Consejo de Gobierno."
+            }, {
+                "id": "c",
+                "name": "Los decretos aprobados por el Gobierno."
+            }, {
+                "id": "d",
+                "name": "Las convocatorias del Consejo de Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En el Gobierno de las Illes Balears, corresponde al Consejo de Gobierno:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Solicitar que el Parlamento de las Illes Balears se reúna en sesión extraordinaria."
+            }, {
+                "id": "b",
+                "name": "Designar al representante de las Illes Balears en el Patronato del Archivo de la Corona de Aragón."
+            }, {
+                "id": "c",
+                "name": "Plantear la cuestión de confianza ante el Parlamento de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "Convocar elecciones a los consejos insulares."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, de las sesiones del Consejo de Gobierno debe extenderse un acta en formato electrónico en la que deben constar, como mínimo:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": " Las circunstancias relativas al tiempo, lugar y asistentes, así como los acuerdos adoptados y, en su caso, si han comparecido de forma presencial oa distancia, con indicación de las razones por las que la asistencia no ha podido ser presencial ."
+            }, {
+                "id": "b",
+                "name": "Las circunstancias relativas al tiempo, lugar y asistentes, así como los acuerdos adoptados."
+            }, {
+                "id": "c",
+                "name": "Las circunstancias relativas al tiempo, lugar y asistentes, así como los acuerdos adoptados y, en su caso, si han comparecido de forma presencial o a distancia."
+            }, {
+                "id": "d",
+                "name": "Las circunstancias relativas a los asistentes y acuerdos adoptados."
+            }
+        ]
+    }, {
+        "question": "Los miembros del Gobierno de las Illes Balears deben ejercer sus funciones:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Con dedicación exclusiva."
+            }, {
+                "id": "b",
+                "name": "Pueden compatibilizar sus funciones con el ejercicio de actividades profesionales."
+            }, {
+                "id": "c",
+                "name": "Sólo el consejero sin cartera puede tener dedicación parcial."
+            }, {
+                "id": "d",
+                "name": "Sin ningún tipo de limitación fuera del horario habitual de la Administración."
+            }
+        ]
+    }, {
+        "question": "La adscripción de los entes del sector público instrumental a cada una de las consejerías del Gobierno de las Illes Balears corresponde:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Al presidente del Gobierno, mediante decreto."
+            }, {
+                "id": "b",
+                "name": "En el Consejo de Gobierno, mediante decreto organizativo."
+            }, {
+                "id": "c",
+                "name": "En el Consejo de Gobierno, mediante acuerdo."
+            }, {
+                "id": "d",
+                "name": "Al consejero competente en la materia del sector público instrumental, mediante orden."
+            }
+        ]
+    }, {
+        "question": "Los consejeros del Gobierno de las Illes Balears reciben el tratamiento de:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Señor o Señora."
+            }, {
+                "id": "b",
+                "name": "Honorable."
+            }, {
+                "id": "c",
+                "name": "Ilustre Señor o Ilustre Señora."
+            }, {
+                "id": "d",
+                "name": "Ilustrísimo o Ilustrísima."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta respecto de los consejeros del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Los consejeros toman posesión del cargo ante el presidente del Parlamento de las Illes Balears."
+            }, {
+                "id": "b",
+                "name": "Los consejeros inician su mandato en el momento de la toma de posesión."
+            }, {
+                "id": "c",
+                "name": "El cese de los consejeros producirá efectos desde el momento de la publicación del correspondiente decreto del presidente en el Boletín Oficial de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "Los consejeros son nombrados y separados libremente por el presidente del Gobierno."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En caso de vacante del cargo de consejero del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El presidente, mediante decreto, debe encomendar transitoriamente a otro miembro del Gobierno el despacho de los asuntos de la consejería."
+            }, {
+                "id": "b",
+                "name": "El presidente, mediante resolución, debe encomendar transitoriamente a otro miembro del Gobierno el despacho de los asuntos de la consejería."
+            }, {
+                "id": "c",
+                "name": "Asume el cargo de forma transitoria el vicepresidente."
+            }, {
+                "id": "d",
+                "name": "Los consejeros sin cartera, de acuerdo con el orden de suplencias, asumen, de forma transitoria, el despacho de los asuntos de la consejería."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, las deliberaciones del Consejo de Gobierno tienen el carácter secreto y sus miembros están obligados a observar el deber de reserva:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Incluso después de su cese."
+            }, {
+                "id": "b",
+                "name": "Hasta un año después de su cese."
+            }, {
+                "id": "c",
+                "name": "Sólo cuando el asunto haya sido declarado secreto."
+            }, {
+                "id": "d",
+                "name": "Sólo cuando pueda afectar al honor de los demás miembros del Gobierno."
+            }
+        ]
+    }, {
+        "question": "La regulación del control del Gobierno de las Illes Balears y la representación ante el Parlamento viene determinado:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el capítulo IV del título II de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }, {
+                "id": "b",
+                "name": "En el capítulo III del título II de la Ley 2/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "En el capítulo IV del título III de la Ley 1/2019, de 31 de enero, de régimen jurídico del Gobierno de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "En el capítulo IV del título I de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.El Gobierno de las Illes Balears y sus miembros deben ajustar sus actuaciones a los siguientes principios éticos:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Promoción de los derechos humanos y de las libertades públicas."
+            }, {
+                "id": "b",
+                "name": "Cuidado del interés general sin evitar el conflicto de intereses."
+            }, {
+                "id": "c",
+                "name": "Integridad, honestidad, lealtad política, dedicación al cargo y responsabilidad."
+            }, {
+                "id": "d",
+                "name": "Objetividad, neutralidad, parcialidad y confidencialidad."
+            }
+        ]
+    }, {
+        "question": " La regulación del control del Gobierno de las Illes Balears y la representación ante el Parlamento viene determinado:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En el capítulo IV del título II de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }, {
+                "id": "b",
+                "name": "En el capítulo III del título II de la Ley 2/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "En el capítulo IV del título III de la Ley 1/2019, de 31 de enero, de régimen jurídico del Gobierno de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "En el capítulo IV del título I de la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.Los consejeros del Gobierno de las Illes Balears cesan por alguna de las siguientes causas:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La incapacidad e inhabilitación en el ejercicio de su cargo declarada por auto firme."
+            }, {
+                "id": "b",
+                "name": "El cese o fallecimiento del presidente."
+            }, {
+                "id": "c",
+                "name": "La dimisión."
+            }, {
+                "id": "d",
+                "name": "La incapacidad en el ejercicio de su cargo declarada por sentencia firme."
+            }
+        ]
+    }, {
+        "question": "El Consejo de Gobierno tiene la obligación de comunicar al Parlamento de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El nombramiento de los miembros del Gobierno de las Illes Balears"
+            }, {
+                "id": "b",
+                "name": "Los instrumentos de colaboración y de cooperación suscritos con el Estado y con las demás comunidades autónomas."
+            }, {
+                "id": "c",
+                "name": "La declaración patrimonial, que abarque la totalidad de sus derechos y obligaciones, de los miembros del Gobierno."
+            }, {
+                "id": "d",
+                "name": "El nombramiento de los órganos unipersonales de dirección de los entes del sector público instrumental."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.El Consejo de Gobierno puede aprobar el código de conducta del Gobierno de las Illes Balears y de sus miembros, que, en todo caso, deben cumplir los siguientes deberes:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Ejecutar el gasto público con eficacia, eficiencia, economía, transparencia y sin contención."
+            }, {
+                "id": "b",
+                "name": "Mantener una conducta digna y tratar a los ciudadanos en corrección."
+            }, {
+                "id": "c",
+                "name": "Asegurar a los ciudadanos un trato igualitario y sin discriminaciones."
+            }, {
+                "id": "d",
+                "name": "Ejercer sus funciones con dedicación, profesionalidad y competencia."
+            }
+        ]
+    }, {
+        "question": "La ley que regula la organización y el funcionamiento de la Administración de la Comunidad Autónoma de las Illes Balears, así como las especialidades del procedimiento que le son de aplicación, es:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La Ley 3/2003, de 26 de marzo, de régimen jurídico de la Administración de la comunidad autónoma de las Illes Balears."
+            }, {
+                "id": "b",
+                "name": "La Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "La Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "La Ley 4/2011, de 31 de marzo, del Gobierno de las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "Bajo la dirección superior del presidente y del Gobierno, la Administración de la Comunidad Autónoma de las Illes Balears se estructura:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En órganos superiores y órganos directivos."
+            }, {
+                "id": "b",
+                "name": "En órganos superiores, órganos directivos y órganos de gestión."
+            }, {
+                "id": "c",
+                "name": "En órganos directivos, órganos de gestión y unidades administrativas."
+            }, {
+                "id": "d",
+                "name": "En órganos superiores, órganos directivos y comisionados autonómicos."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.Corresponde a los consejeros, como miembros del Gobierno de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Proponer al Consejo de Gobierno el nombramiento y cese de los cargos públicos dependientes de su consejería."
+            }, {
+                "id": "b",
+                "name": "Ejercer la presidencia de todos los consejos de dirección de los entes de su consejería."
+            }, {
+                "id": "c",
+                "name": "Controlar la gestión del presupuesto de su consejería."
+            }, {
+                "id": "d",
+                "name": "Llevar a cabo el impulso normativo de su consejería."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.En el Gobierno de las Illes Baleares:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La estructura básica de cada consejería debe aprobarse mediante decreto del Consejo de Gobierno."
+            }, {
+                "id": "b",
+                "name": "Es indelegable la competencia de los consejeros de plantear, en su caso, los conflictos de atribuciones hacia órganos de otras consejerías."
+            }, {
+                "id": "c",
+                "name": "A los titulares de los órganos directivos debe suplirles el órgano directivo que determine el consejero."
+            }, {
+                "id": "d",
+                "name": "Corresponde a los secretarios generales prestar asistencia técnica y jurídica al consejero en el ejercicio de la potestad normativa."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta incorrecta.Corresponde a los consejeros del Gobierno de las Illes Balears, en el ámbito de las competencias materiales atribuidas a su consejería, las siguientes funciones de gestión:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Informar sobre los proyectos de disposiciones generales tramitados por la consejería."
+            }, {
+                "id": "b",
+                "name": "Dirigir los recursos humanos de la consejería."
+            }, {
+                "id": "c",
+                "name": "Nombrar, o en su caso, proponer, al representante de la consejería en los órganos colegiados, si no lo regula la normativa aplicable."
+            }, {
+                "id": "d",
+                "name": "Reconocer las obligaciones económicas y proponer su pago."
+            }
+        ]
+    }, {
+        "question": "Es un órgano superior de la Administración de la Comunidad Autónoma de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El consejero competente en materia de educación."
+            }, {
+                "id": "b",
+                "name": "El director de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears."
+            }, {
+                "id": "c",
+                "name": "El presidente del Gobierno del Estado, como representante del Estado en las Illes Balears."
+            }, {
+                "id": "d",
+                "name": "Los directores gerentes de los organismos autónomos."
+            }
+        ]
+    }, {
+        "question": "Los titulares de los órganos directivos de la Administración de la Comunidad Autónoma de las Illes Balears son nombrados libremente por el Gobierno atendiendo a criterios:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "De competencia profesional y experiencia."
+            }, {
+                "id": "b",
+                "name": "De capacidad profesional, experiencia y confianza personal."
+            }, {
+                "id": "c",
+                "name": "De confianza personal, experiencia y lealtad política."
+            }, {
+                "id": "d",
+                "name": "De capacidad de trabajo y responsabilidad profesional."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, los secretarios generales son:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Órganos directivos encargados de la gestión de los servicios comunes, y de las funciones de asesoramiento jurídico y de soporte técnico."
+            }, {
+                "id": "b",
+                "name": "Órganos superiores encargados de la gestión de las funciones de asesoramiento jurídico."
+            }, {
+                "id": "c",
+                "name": "Órganos superiores encargados de la gestión de los servicios comunes, y de las funciones de soporte técnico."
+            }, {
+                "id": "d",
+                "name": "Órganos directivos encargados de la gestión de los servicios comunes, y de las funciones de asesoramiento jurídico y de impulso normativo."
+            }
+        ]
+    }, {
+        "question": "En el Gobierno de las Illes Balears, los directores generales se nombran y se separan:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Mediante decreto del Consejo de Gobierno a propuesta del titular de la consejería."
+            }, {
+                "id": "b",
+                "name": "Mediante orden del consejero correspondiente, previa autorización del Consejo de Gobierno."
+            }, {
+                "id": "c",
+                "name": "Mediante un Decreto del presidente de las Illes Balears a propuesta del Consejo de Gobierno."
+            }, {
+                "id": "d",
+                "name": "Mediante resolución del presidente de las Illes Balears."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta.En la Comunidad Autónoma de las Illes Balears, las órdenes de servicio son:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Mandatos específicos dictados por cualquier órgano de la Administración que se dirigen a un órgano jerárquicamente inferior por un supuesto determinado."
+            }, {
+                "id": "b",
+                "name": "Pautas de actuación internas dictadas por los órganos superiores o directivos y encaminadas a recordar la aplicación de determinadas disposiciones legales."
+            }, {
+                "id": "c",
+                "name": "Reglas internas dirigidas a establecer pautas o criterios de actuación por las que deben regirse los órganos y unidades administrativas dependientes."
+            }, {
+                "id": "d",
+                "name": "Pautas de actuación internas dictadas por los órganos superiores o directivos encaminadas a unificar criterios de interpretación de determinadas disposiciones legales."
+            }
+        ]
+    }, {
+        "question": "Indique la respuesta correcta respecto de la suplencia de los titulares de los órganos directivos en la Administración de la Comunidad Autónoma de las Illes Balears:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Si no se ha designado expresamente un suplente, el secretario general suple a los directores generales, y en su defecto, el director general más antiguo en el cargo o, si dos o más tienen la misma antigüedad, el de más edad."
+            }, {
+                "id": "b",
+                "name": "Si no se ha designado expresamente un suplente, el director general más antiguo en el cargo suple a los demás o, si dos o más tienen la misma antigüedad, el de menor edad."
+            }, {
+                "id": "c",
+                "name": "Si no existe designación expresa, el director general más antiguo en el cargo suple al secretario general o, si dos o más tienen la misma antigüedad, el de menor edad."
+            }, {
+                "id": "d",
+                "name": "Si no existe designación expresa, el director general menos antiguo en el cargo suple al secretario general o, si dos o más tienen la misma antigüedad, el de mayor edad."
+            }
+        ]
+    }
+]

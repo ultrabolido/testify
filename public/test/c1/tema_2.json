@@ -1,0 +1,852 @@
+[{
+        "question": "¿En qué título de la Constitución española se regula la distribución de competencias entre el Estado y las comunidades autónomas?",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "En el título V."
+            }, {
+                "id": "b",
+                "name": "En el título VI."
+            }, {
+                "id": "c",
+                "name": "En el título VII."
+            }, {
+                "id": "d",
+                "name": "En el título VIII."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 137 de la Constitución española, ¿cómo se organiza territorialmente el Estado?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "En comunidades autónomas."
+            }, {
+                "id": "b",
+                "name": "En municipios, en provincias y en comunidades autónomas."
+            }, {
+                "id": "c",
+                "name": "En municipios, en islas, en provincias y en comunidades autónomas."
+            }, {
+                "id": "d",
+                "name": "En provincias, en islas y en comunidades autónomas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 141 de la Constitución española, cualquier alteración de los límites provinciales requiere:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Ser aprobada por la diputación provincial."
+            }, {
+                "id": "b",
+                "name": "Ser aprobada por el Consejo de Gobierno de la comunidad autónoma afectada."
+            }, {
+                "id": "c",
+                "name": "Ser aprobada por las Cortes Generales, mediante una ley orgánica."
+            }, {
+                "id": "d",
+                "name": "Ser aprobada por las Cortes Generales, mediante una ley ordinaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 140 de la Constitución española, los alcaldes de los municipios serán elegidos:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Por los regidores del ayuntamiento."
+            }, {
+                "id": "b",
+                "name": "Por los vecinos del municipio."
+            }, {
+                "id": "c",
+                "name": "Por el presidente de la comunidad autónoma."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) o b) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 143 de la Constitución española, en el ejercicio del derecho a la autonomía se pueden constituir en comunidad autónoma:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Las provincias limítrofes que tengan características históricas, culturales y económicas comunes."
+            }, {
+                "id": "b",
+                "name": "Los territorios insulares."
+            }, {
+                "id": "c",
+                "name": "Las provincias de entidad regional histórica."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 145 de la Constitución española, ¿se permite la federación de comunidades autónomas?",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En ningún caso."
+            }, {
+                "id": "b",
+                "name": "Sí, con  la aprobación de las Cortes Generales por medio de una ley orgánica."
+            }, {
+                "id": "c",
+                "name": "Excepcionalmente por motivos tasados con la aprobación del Congreso."
+            }, {
+                "id": "d",
+                "name": "Excepcionalmente con la aprobación del Senado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 147 de la Constitución española, ¿cuál es la norma institucional básica de cada comunidad autónoma?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La Constitución española."
+            }, {
+                "id": "b",
+                "name": "El Estatuto de autonomía."
+            }, {
+                "id": "c",
+                "name": "Las leyes de desarrollo de competencias autonómicas."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 147 de la Constitución española, los estatutos de autonomía tienen que contener, entre otros:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La delimitación del territorio."
+            }, {
+                "id": "b",
+                "name": "La denominación de los municipios."
+            }, {
+                "id": "c",
+                "name": "La denominación de la Comunidad que se ajuste mejor a su identidad histórica."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 147 de la Constitución española, ¿qué se requiere para la reforma de un Estatuto de Autonomía?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La aprobación del Senado por mayoría absoluta."
+            }, {
+                "id": "b",
+                "name": "La aprobación del Congreso de los Diputados por ley ordinaria."
+            }, {
+                "id": "c",
+                "name": "La aprobación de las Cortes Generales por ley orgánica."
+            }, {
+                "id": "d",
+                "name": "La aprobación del parlamento autonómico por ley ordinaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Las relaciones internacionales."
+            }, {
+                "id": "b",
+                "name": "La asistencia social."
+            }, {
+                "id": "c",
+                "name": "El fomento de la cultura."
+            }, {
+                "id": "d",
+                "name": "La caza."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La promoción y la ordenación del turismo."
+            }, {
+                "id": "b",
+                "name": "La legislación sobre propiedad intelectual e industrial."
+            }, {
+                "id": "c",
+                "name": "La enseñanza de la lengua de la comunidad autónoma."
+            }, {
+                "id": "d",
+                "name": "La artesanía."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La ordenación del territorio, urbanismo y vivienda."
+            }, {
+                "id": "b",
+                "name": "Los espacios forestales y su aprovechamiento."
+            }, {
+                "id": "c",
+                "name": "La Administración de justicia."
+            }, {
+                "id": "d",
+                "name": "Las ferias interiores."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "El régimen aduanero y arancelario."
+            }, {
+                "id": "b",
+                "name": "La artesanía."
+            }, {
+                "id": "c",
+                "name": "La caza."
+            }, {
+                "id": "d",
+                "name": "Las alteraciones de los términos municipales compresos en la comunidad autónoma."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Las ferias interiores."
+            }, {
+                "id": "b",
+                "name": "La defensa y las fuerzas armadas."
+            }, {
+                "id": "c",
+                "name": "La promoción del deporte."
+            }, {
+                "id": "d",
+                "name": "El fomento de la cultura."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La ordenación del territorio, urbanismo y vivienda."
+            }, {
+                "id": "b",
+                "name": "El patrimonio monumental de interés para la comunidad autónoma."
+            }, {
+                "id": "c",
+                "name": "La legislación mercantil, penal y penitenciaria."
+            }, {
+                "id": "d",
+                "name": "La artesanía."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La agricultura y la ganadería."
+            }, {
+                "id": "b",
+                "name": "Los puertos y aeropuertos deportivos."
+            }, {
+                "id": "c",
+                "name": "La pesca en aguas interiores."
+            }, {
+                "id": "d",
+                "name": "El derecho de asilo."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La legislación laboral."
+            }, {
+                "id": "b",
+                "name": "Las ferias interiores."
+            }, {
+                "id": "c",
+                "name": "Los espacios forestales y su aprovechamiento."
+            }, {
+                "id": "d",
+                "name": "La organización de las instituciones de autogobierno autonómicos."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La promoción del deporte."
+            }, {
+                "id": "b",
+                "name": "La hacienda general y la deuda del Estado."
+            }, {
+                "id": "c",
+                "name": "El fomento de la investigación."
+            }, {
+                "id": "d",
+                "name": "La gestión en materia de protección del medio ambiente."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, el Estado tiene competencias exclusivas en:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La legislación sobre expropiación forzosa."
+            }, {
+                "id": "b",
+                "name": "La asistencia social."
+            }, {
+                "id": "c",
+                "name": "Las bases del régimen jurídico de las administraciones públicas."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La artesanía."
+            }, {
+                "id": "b",
+                "name": "Las relaciones internacionales."
+            }, {
+                "id": "c",
+                "name": "La administración de justicia."
+            }, {
+                "id": "d",
+                "name": "El derecho de asilo."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Los espacios forestales y su aprovechamiento."
+            }, {
+                "id": "b",
+                "name": "La defensa y las fuerzas armadas."
+            }, {
+                "id": "c",
+                "name": "La gestión en materia de protección del medio ambiente."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La legislación sobre propiedad intelectual."
+            }, {
+                "id": "b",
+                "name": "Los puertos y aeropuertos deportivos."
+            }, {
+                "id": "c",
+                "name": "La legislación sobre propiedad industrial."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "La hacienda general y la deuda del Estado. "
+            }, {
+                "id": "b",
+                "name": "La marina mercante."
+            }, {
+                "id": "c",
+                "name": "Las ferias interiores."
+            }, {
+                "id": "d",
+                "name": "El régimen aduanero y arancelario."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El comercio exterior."
+            }, {
+                "id": "b",
+                "name": "La estadística para finalidades estatales."
+            }, {
+                "id": "c",
+                "name": "La asistencia social."
+            }, {
+                "id": "d",
+                "name": "Los museos, bibliotecas y archivos de titularidad estatal."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas pueden asumir competencias en:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Las bases del régimen minero y energético."
+            }, {
+                "id": "b",
+                "name": "El sistema monetario."
+            }, {
+                "id": "c",
+                "name": "El régimen aduanero y arancelario."
+            }, {
+                "id": "d",
+                "name": "La promoción y ordenación del turismo dentro del ámbito autonómico."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 150 de la Constitución española, el Estado puede transferir o delegar a las comunidades autónomas facultades correspondientes a una materia de titularidad estatal que por su naturaleza sean susceptibles de transferencia o delegación. ¿Mediante qué tipo de norma se puede hacer?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Un decreto de transferencias."
+            }, {
+                "id": "b",
+                "name": "Una ley orgánica."
+            }, {
+                "id": "c",
+                "name": "Una ley ordinaria."
+            }, {
+                "id": "d",
+                "name": "Una ley marco."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, sobre la distribución de competencias, ¿las materias no atribuidas expresamente al Estado por la Constitución podrán corresponder a las comunidades autónomas?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "No."
+            }, {
+                "id": "b",
+                "name": "Sí, en virtud de los Estatutos de autonomía respectivos."
+            }, {
+                "id": "c",
+                "name": "Sí, mediante un acuerdo de transferencias."
+            }, {
+                "id": "d",
+                "name": "Sí, mediante una ley de delegación."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 152 de la Constitución española, en los Estatutos de Autonomía la organización institucional autonómica se basará en:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Una asamblea legislativa y un consejo de gobierno."
+            }, {
+                "id": "b",
+                "name": "Una asamblea legislativa, un consejo de gobierno y un presidente."
+            }, {
+                "id": "c",
+                "name": "Una asamblea legislativa, un consejo de gobierno, un presidente y un tribunal superior de justicia."
+            }, {
+                "id": "d",
+                "name": "Una asamblea legislativa, un consejo de Gobierno y un tribunal superior de justicia."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 152 de la Constitución española, sobre el presidente de una comunidad autónoma:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Será elegido por la asamblea legislativa entre sus miembros y nombrado por el rey."
+            }, {
+                "id": "b",
+                "name": "Le corresponde la dirección del Consejo de Gobierno."
+            }, {
+                "id": "c",
+                "name": "Le corresponde la suprema representación de la comunidad autónoma respectiva y la ordinaria del Estado dentro de aquella."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 153 de la Constitución española, ¿quién ejercerá el control de constitucionalidad sobre las disposiciones normativas con fuerza de ley emanadas de una comunidad autónoma?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "El Tribunal Supremo."
+            }, {
+                "id": "b",
+                "name": "El Tribunal Superior de Justicia de la comunidad autónoma respectiva."
+            }, {
+                "id": "c",
+                "name": "El Tribunal Constitucional."
+            }, {
+                "id": "d",
+                "name": "La Audiencia Provincial."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 153 de la Constitución española, ¿quién ejercerá el control jurisdiccional en aquello que se refiere a la administración autónoma y a sus normas reglamentarias? ",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La jurisdicción contenciosa administrativa."
+            }, {
+                "id": "b",
+                "name": "La jurisdicción civil."
+            }, {
+                "id": "c",
+                "name": "La jurisdicción penal."
+            }, {
+                "id": "d",
+                "name": "La jurisdicción social."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 153 de la Constitución española, ¿quién ejercerá el control en los aspectos económicos y presupuestarios en una comunidad autónoma?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "El consejo económico y social."
+            }, {
+                "id": "b",
+                "name": "El Tribunal de Cuentas."
+            }, {
+                "id": "c",
+                "name": "El ministerio competente en materia presupuestaria."
+            }, {
+                "id": "d",
+                "name": "La consejería competente en materia presupuestaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 154 de la Constitución española, ¿a quién corresponde dirigir la Administración del Estado en el territorio de la Comunidad Autónoma?",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Al ministro competente en materia de Interior."
+            }, {
+                "id": "b",
+                "name": "Al presidente de la Comunidad Autónoma."
+            }, {
+                "id": "c",
+                "name": "Al delegado del Gobierno."
+            }, {
+                "id": "d",
+                "name": "Al ministro competente en materia de administraciones públicas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 156 de la Constitución española, las comunidades autónomas para cumplir y ejercer sus competencias gozarán:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "De autonomía financiera."
+            }, {
+                "id": "b",
+                "name": "De tutela del Estado."
+            }, {
+                "id": "c",
+                "name": "Del principio de solidaridad entre Estado y comunidades autónomas."
+            }, {
+                "id": "d",
+                "name": "De suficiencia presupuestaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 157 de la Constitución española, los recursos de las comunidades autónomas estarán constituidos, entre otros, por:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Impuestos cedidos total o parcialmente por el Estado."
+            }, {
+                "id": "b",
+                "name": "Rendimientos procedentes del su patrimonio y del patrimonio estatal."
+            }, {
+                "id": "c",
+                "name": "El producto de operaciones de débito."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas. "
+            }
+        ]
+    }, {
+        "question": "Según el artículo 157 de la Constitución española, los recursos de las comunidades autónomas estarán constituidos, entre otros:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Por sus propios impuestos, tasas y contribuciones especiales."
+            }, {
+                "id": "b",
+                "name": "Por transferencias de un fondo de compensación interterritorial."
+            }, {
+                "id": "c",
+                "name": "Por el producto de operaciones de crédito."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 157 de la Constitución española, ¿con qué norma se puede regular la posible colaboración financiera entre las comunidades autónomas y el Estado?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Una ley ordinaria de transferencias."
+            }, {
+                "id": "b",
+                "name": "Una ley orgánica."
+            }, {
+                "id": "c",
+                "name": "Un decreto de transferencias."
+            }, {
+                "id": "d",
+                "name": "Un convenio regulador de transferencias."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 158 de la Constitución española, ¿dónde se puede establecer una asignación a las comunidades autónomas en función del volumen de los servicios y de las actividades estatales que hayan asumido? ",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "En los presupuestos generales del Estado."
+            }, {
+                "id": "b",
+                "name": "En los presupuestos generales de la comunidad autónoma."
+            }, {
+                "id": "c",
+                "name": "En la ley ordinaria de transferencias."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 158 de la Constitución española, para hacer efectivo el principio de solidaridad y por tal de corregir desequilibrios económicos interterritoriales el Estado constituirá:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "Una partida presupuestaria en los Presupuestos Generales del Estado. "
+            }, {
+                "id": "b",
+                "name": "Una asignación anual de fondo de compensación. "
+            }, {
+                "id": "c",
+                "name": "Un fondo de compensación destinado a gastos de inversión. "
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas.  "
+            }
+        ]
+    }, {
+        "question": "Según el artículo 158 de la Constitución española, ¿quien  se encarga de distribuir los recursos del fondo de compensación interterritorial entre las comunidades autónomas y las provincias, en su caso?",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "La asamblea legislativa de la comunidad autónoma respectiva."
+            }, {
+                "id": "b",
+                "name": "Las Cortes Generales."
+            }, {
+                "id": "c",
+                "name": "El ministerio competente en materia presupuestaria. "
+            }, {
+                "id": "d",
+                "name": "La consejería competente en materia presupuestaria."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 138 de la Constitución española, sobre la organización territorial, el Estado garantiza la realización efectiva del principio:",
+        "answer": "c",
+        "options": [{
+                "id": "a",
+                "name": "De igualdad."
+            }, {
+                "id": "b",
+                "name": "De autonomía."
+            }, {
+                "id": "c",
+                "name": "De solidaridad."
+            }, {
+                "id": "d",
+                "name": "De equilibrio."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 139 de la Constitución española, en cualquier parte del territorio del Estado, todos los españoles tienen:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "Los mismos derechos y diferentes obligaciones."
+            }, {
+                "id": "b",
+                "name": "Los mismos derechos. "
+            }, {
+                "id": "c",
+                "name": "Las mismas obligaciones."
+            }, {
+                "id": "d",
+                "name": "Las respuestas b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 140 de la Constitución española, los regidores de un ayuntamiento serán elegidos mediante:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Sufragio universal igual, libre, directo y secreto."
+            }, {
+                "id": "b",
+                "name": "Sufragio universal igual, directo y secreto."
+            }, {
+                "id": "c",
+                "name": "Sufragio universal libre, directo y secreto."
+            }, {
+                "id": "d",
+                "name": "Sufragio universal proporcional, libre, directo y secreto."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 147 de la Constitución española, sobre los Estatutos de Autonomía, el Estado los reconocerá y amparará:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Como normativa autónoma e independiente."
+            }, {
+                "id": "b",
+                "name": "Como parte integrante de su ordenamiento jurídico."
+            }, {
+                "id": "c",
+                "name": "Como parte independiente de su ordenamiento jurídico."
+            }, {
+                "id": "d",
+                "name": "Como normativa básica de su ordenamiento jurídico."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, la competencia en materia de defensa y fuerzas armadas:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Es una competencia exclusiva del Estado."
+            }, {
+                "id": "b",
+                "name": "Es una competencia exclusiva de la comunidad autónoma."
+            }, {
+                "id": "c",
+                "name": "Es una competencia de desarrollo legislativo y de ejecución  autonómica. "
+            }, {
+                "id": "d",
+                "name": "Es una competencia compartida del Estado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, la competencia en relaciones internacionales:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Es una competencia exclusiva del Estado."
+            }, {
+                "id": "b",
+                "name": "Es una competencia exclusiva de la comunidad autónoma."
+            }, {
+                "id": "c",
+                "name": "Es una competencia de desarrollo legislativo y de ejecución  autonómica."
+            }, {
+                "id": "d",
+                "name": "Es una competencia compartida del Estado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 149 de la Constitución española, la competencia en  la nacionalidad:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "Es una competencia exclusiva del Estado."
+            }, {
+                "id": "b",
+                "name": "Es una competencia exclusiva de la comunidad autónoma."
+            }, {
+                "id": "c",
+                "name": "Es una competencia de desarrollo legislativo y de ejecución  autonómica ."
+            }, {
+                "id": "d",
+                "name": "Es una competencia compartida del Estado."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 152 de la Constitución española,el  presidente de la comunidad autónoma es nombrado:",
+        "answer": "b",
+        "options": [{
+                "id": "a",
+                "name": "Por la asamblea legislativa autonómica."
+            }, {
+                "id": "b",
+                "name": "Por el rey."
+            }, {
+                "id": "c",
+                "name": "Por el Consejo de Gobierno."
+            }, {
+                "id": "d",
+                "name": "Por los diputados."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas podrán asumir competencias en:",
+        "answer": "d",
+        "options": [{
+                "id": "a",
+                "name": "La organización de sus instituciones de gobierno."
+            }, {
+                "id": "b",
+                "name": "Los espacios forestales y su aprovechamiento."
+            }, {
+                "id": "c",
+                "name": "La ordenación del territorio, urbanismo y vivienda."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) b) y c) son correctas."
+            }
+        ]
+    }, {
+        "question": "Según el artículo 148 de la Constitución española, las comunidades autónomas podrán asumir competencias en:",
+        "answer": "a",
+        "options": [{
+                "id": "a",
+                "name": "La gestión en materia de protección del medio ambiente."
+            }, {
+                "id": "b",
+                "name": "La hacienda general y la deuda del Estado."
+            }, {
+                "id": "c",
+                "name": "La Administración de justicia."
+            }, {
+                "id": "d",
+                "name": "Las bases del régimen minero y energético."
+            }
+        ]
+    }
+]
