@@ -1,6 +1,7 @@
 [{
         "question": "De acuerdo con la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, en relación a la publicidad activa de la contratación pública, cada órgano de contratación, una vez adjudicado el contrato,¿que modificaciones del contrato adjudicado se publicarán en el ‘Perfil del contratante’?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las que representen un incremento igual o superior al 20% del precio inicial del contrato."
@@ -18,6 +19,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indique cual de las siguientes respuestas no supondrá una limitación para ejercer el derecho de acceso.",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La defensa."
@@ -35,6 +37,7 @@
     }, {
         "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿cual de las siguientes respuestas no indica un miembro de la Comisión de Transparencia y Buen Gobierno:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Un Senador."
@@ -52,6 +55,7 @@
     }, {
         "question": "De acuerdo con la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, en relación a la publicidad activa de la contratación pública, ¿durante cuanto tiempo se mantendrá publicada la información en la web?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Durante 3 ejercicios presupuestarios."
@@ -69,6 +73,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, cuál de las siguientes entidades no está incluida en el ámbito de aplicación de esta ley?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La Federación de futbol de las Illes Balears."
@@ -86,6 +91,7 @@
     }, {
         "question": "De acuerdo con la disposición adicional 4ª de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las comunidades autónomas para la resolución de la reclamación prevista en relación al derecho de acceso a la información pública:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Tendrán que firmar un convenio con el Consejo de Transparencia y Buen Gobierno."
@@ -103,6 +109,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública significa que:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todos los ciudadanos de la Unión Europea y de aquellos países, que hayan subscrito un convenio con ésta, tienen derecho a acceder a la información pública."
@@ -120,6 +127,7 @@
     }, {
         "question": "De acuerdo con el artículo 3 de la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, el principio de transparencia supone incluir la transparencia en el ejercicio de la gestión pública:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Tanto en la adopción de decisiones como en el desarrollo de la actividad pública."
@@ -137,6 +145,7 @@
     }, {
         "question": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno en su artículo 15, en relación a la protección de los datos de carácter personal, se podrá acceder cuando este acceso estuviera amparado por una norma con rango de ley para datos relativos a:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Afiliación sindical."
@@ -154,6 +163,7 @@
     }, {
         "question": "De acuerdo con el artículo 22 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, cuando el acceso a la información no pueda darse en el momento de la notificación de la resolución tendrá que otorgarse, en cualquier caso, en un plazo:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "No superior a veinte días."
@@ -171,6 +181,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la aplicación de los límites al derecho de acceso:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Siempre será justificada y proporcionada a su objeto y finalidad de protección."
@@ -188,6 +199,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, a los efectos de la aplicación a sus responsables del régimen disciplinario, el incumplimiento de la obligación de resolver en plazo las resoluciones dictadas en materia de acceso a la información pública:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Tendrá en todo caso la consideración de infracción grave."
@@ -205,6 +217,7 @@
     }, {
         "question": "De acuerdo con la Constitución Española, en relación al acceso a los archivos y registros administrativos, la ley lo regulará para:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Los españoles."
@@ -222,6 +235,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿qué entidades privadas están obligadas a publicar de forma periódica y actualizada la información que sea relevante para garantizar la transparencia de su actividad?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Cuando al menos el 40 % del total de sus ingresos anuales tengan carácter de ayuda o subvención pública, siempre que alcancen como mínimo la cantidad de 20.000 euros."
@@ -239,6 +253,7 @@
     }, {
         "question": "De acuerdo con la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, en relación a la publicidad activa de la contratación pública, cada órgano de contratación, una vez adjudicado el contrato,¿que información publicará en el ‘Perfil del contratante’?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los criterios de adjudicación pero no su ponderación"
@@ -256,6 +271,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso a la información pública se ejercerá:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Tiene el límite derivado de la protección de datos de carácter personal."
@@ -273,6 +289,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, transcurrido el plazo máximo para resolver las solicitudes de información pública sin que se haya dictado y notificado resolución expresa:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Se entenderá que la solicitud ha caducado."
@@ -290,6 +307,7 @@
     }, {
         "question": "La Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, en su artículo 36 indica que en la composición de la Comisión de Transparencia y Buen Gobierno se incluye:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Dos Diputados."
@@ -307,6 +325,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, si la información solicitada incluyese datos personales que hagan referencia a datos relativos a la comisión de infracciones penales o administrativas que no conllevasen la amonestación pública al infractor:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El acceso solo se podrá autorizar en caso de que se cuente con el consentimiento expreso del afectado o si aquel estuviera amparado por una norma con rango de ley."
@@ -324,6 +343,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Debe motivarse la solicitud de acceso a la información?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "No es obligatorio a motivar la solicitud, sin embargo, se puede motivar."
@@ -341,6 +361,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el plazo máximo para resolver y notificar la resolución de la reclamación ante el Consejo de Transparencia y Buen Gobierno:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Será de cuatro meses, transcurrido el cual, la reclamación se entenderá estimada."
@@ -358,6 +379,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señala qué información pública se corresponde a información económica, presupuestaria y estadística que deben publicar las administraciones públicas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los proyectos de reglamentos cuya iniciativa les corresponda."
@@ -375,6 +397,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La seguridad nacional."
@@ -392,6 +415,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señala qué información pública se corresponde a información institucional, organizativa y de planificación que deben publicar las administraciones públicas:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Los presupuestos."
@@ -409,6 +433,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿cual de los siguientes es un motivo para ampliar el plazo máximo para notificar la resolución en la que se conceda o deniegue el acceso a la información pública?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Falta de medios personales."
@@ -426,6 +451,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, si la información solicitada pudiera afectar a derechos o intereses de terceros, debidamente identificados:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Se les concederá un plazo de veinte días para que puedan realizar las alegaciones que estimen oportunas."
@@ -443,6 +469,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señala qué información pública se corresponde a información económica, presupuestaria y estadística que deben publicar las administraciones públicas:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las directrices, instrucciones, acuerdos o circulares en la medida en que supongan una interpretación del Derecho o tengan efectos jurídicos."
@@ -460,6 +487,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿cual de los siguientes datos personales se podrían revelar si el afectado los hubiese hecho manifiestamente públicos los datos con anterioridad?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Datos personales que revelen la ideología."
@@ -477,6 +505,7 @@
     }, {
         "question": "De acuerdo con el artículo 13 de la Ley 39/2015, del procedimiento administrativo común de las administraciones públicas, entre los derechos de las personas en sus relaciones con las administraciones públicas se encuentra:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El derecho a consulta de los expedientes y registros."
@@ -494,6 +523,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno,¿cuándo podrá ser limitado el derecho de acceso a la información pública relacionada con la defensa?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Cuando así lo considere el CNI."
@@ -511,6 +541,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, si la información solicitada pudiera afectar a derechos o intereses de terceros, debidamente identificados, y se les ha concedido un plazo para presentar alegaciones:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se suspende del plazo para dictar resolución hasta que se hayan recibido las alegaciones o haya transcurrido el plazo de un mes para su presentación."
@@ -528,6 +559,7 @@
     }, {
         "question": "¿Cual de las siguientes no es una actividad, de acuerdo con la Ley 1/2019, de 31 de enero, del Gobierno de las Illes Balears, que se deban llevar a cabo para conseguir el objetivo de garantizar la transparéncia del Gobierno abierto? ",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Facilitar la rendición de cuentas."
@@ -545,6 +577,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, si la solicitud de información no identifica de forma suficiente la información solicitada:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Se inadmitirá la solicitud, sin perjuicio de poder volver a presentarla."
@@ -562,6 +595,7 @@
     }, {
         "question": "El Título I “La Transparencia de la actividad pública” dentro de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, consta de 3 capítulos, que son los siguientes:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Capítulo I “Publicidad Activa” y capítulo II “Derecho de acceso a la información pública”, i capítulo III “Consejo de Transparencia y Buen Gobierno”.."
@@ -579,6 +613,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿Cual de las siguientes solicitudes de información se inadmitirán a trámite?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las que contengan datos personales que incluyesen datos genéticos o biométricos."
@@ -596,6 +631,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indique la respuesta correcta:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La publicidad pasiva no responde a demandas de información, ya que la ciudadanía toma un papel pasivo."
@@ -613,6 +649,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información sujeta a las obligaciones de transparencia será publicada:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "En las correspondientes sedes electrónicas o páginas web."
@@ -630,6 +667,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indique cual de las siguientes respuestas no supondrá una limitación para ejercer el derecho de acceso.",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El secreto profesional y la propiedad intelectual e industrial."
@@ -647,6 +685,7 @@
     }, {
         "question": "De acuerdo con el artículo 3 de la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, el principio de responsabilidad y rendición de cuentas supone que la administración y el gobierno de las Illes Balears:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Deben informar sobre la ejecución del presupuesto al Parlamento Balear."
@@ -664,6 +703,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, indique la respuesta falsa:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La publicidad activa y el derecho de acceso fomentan la transparencia y la participación en la actividad pública."
@@ -681,6 +721,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, las resoluciones del Consejo de Transparencia y Buen Gobierno se publicarán:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Con su texto íntegro, en el diario oficial correspondiente."
@@ -698,6 +739,7 @@
     }, {
         "question": "De acuerdo con la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears, en relación a la publicidad activa de la contratación pública, ¿qué contratos se publicarán en el perfil del contratante?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Todos los contratos cuya cuantía supere la cifra de 40.000 euros en los contratos de obras y de 12.000 euros en el resto de contratos."
@@ -715,6 +757,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señala qué información pública se corresponde a información de relevancia jurídica que deben publicar las administraciones públicas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Información relativa a su estructura organizativa."
@@ -732,6 +775,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la reclamación ante el Consejo de Transparencia y Buen Gobierno:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Podrá interponerse con carácter obligatorio y previo al recurso de alzada o de reposición que corresponda."
@@ -749,6 +793,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señala qué información pública se corresponde a información de relevancia jurídica que deben publicar las administraciones públicas:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Los anteproyectos de ley y los proyectos de decretos legislativos cuya iniciativa les corresponda."
@@ -766,6 +811,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la formalización del acceso a la información pública:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Se realizará preferentemente por la vía más beneficiosa para el servició responsable."
@@ -783,6 +829,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el procedimiento para el ejercicio del derecho de acceso se iniciará:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De oficio."
@@ -800,6 +847,7 @@
     }, {
         "question": "De acuerdo con la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información ¿en que lengua podrán dirigirse a las Administraciones Públicas?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique el domicilio del solicitante."
@@ -817,6 +865,7 @@
     }, {
         "question": "¿Que significado tiene Gobierno abierto de acuerdo con la Ley 1/2019, de 31 de enero, del Gobierno de les Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Que sus miembros deben participar en eventos públicos."
@@ -834,6 +883,7 @@
     }, {
         "question": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿como denomina a los dos tipos de transparencia que regula?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Publicidad institucional y derecho de petición de la información pública."

@@ -1,6 +1,7 @@
 [{
         "question": "¿Cuántos títulos tiene la Ley orgánica 1/2007, del 28 de febrero, de reforma del Estatuto de autonomía de las Illes Balears?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Siete títulos."
@@ -18,6 +19,7 @@
     }, {
         "question": "Según el artículo 1 del Estatuto de autonomía de las Illes Balears, la denominación de la comunidad autónoma es:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Comunitat Autónoma de las Islas Baleares."
@@ -35,6 +37,7 @@
     }, {
         "question": "Según el artículo 2 del Estatuto de autonomía de las Illes Balears, la comunidad autónoma está formada por el territorio:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De las islas de Mallorca, Menorca, Ibiza y Formentera."
@@ -52,6 +55,7 @@
     }, {
         "question": "Según el artículo 6 del Estatuto de autonomía de las Illes Balears, sobre los símbolos de las iIles Balears:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Únicamente hay una bandera para todas las islas."
@@ -69,6 +73,7 @@
     }, {
         "question": "Según el artículo 6 del Estatuto de autonomía de las Illes Balears, la bandera de las Islas Baleares está constituida por:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Cuatro barras rojas horizontales sobre fondo amarillo, con un cuartel situado en la parte superior izquierda de fondo morado y con un castillo blanco de cinco torres en medio. "
@@ -86,6 +91,7 @@
     }, {
         "question": "Según el artículo 7 del Estatuto de autonomía de las Illes Balears, la ciudad de Palma:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Es la capital de las Illes Balears."
@@ -103,6 +109,7 @@
     }, {
         "question": "Según el artículo 8 del Estatuto de autonomía de las Illes Balears, sobre la organización territorial de la Comunidad Autónoma, las instituciones de gobierno son:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "De las islas, son los consejos insulares."
@@ -120,6 +127,7 @@
     }, {
         "question": "Según el artículo 16 del Estatuto de autonomía de las Illes Balears, el conjunto de principios, derechos y directrices que informan la actuación pública de las administraciones públicas de las Illes Balears en el ámbito de la política social estará contenido en:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La Declaración de Derechos Humanos."
@@ -137,6 +145,7 @@
     }, {
         "question": "Según el artículo 24 del Estatuto de autonomía de las Illes Balears, ¿cuál es el elemento económico estratégico de las Illes Balears reconocido por los poderes públicos de la comunidad autónoma?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La actividad industrial."
@@ -154,6 +163,7 @@
     }, {
         "question": "Según el artículo 25 del Estatuto de autonomía de las Illes Balears, se garantiza el derecho a la prevención y la protección de la salud mediante:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un sistema sanitario público y privado de carácter social."
@@ -171,6 +181,7 @@
     }, {
         "question": "Según el artículo 26 del Estatuto de autonomía de las Illes Balears, sobre la educación: ",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se garantiza la gratuidad de la enseñanza en todos los niveles educativos."
@@ -188,6 +199,7 @@
     }, {
         "question": "Según el Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears puede tener competencias:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Competencias exclusivas sobre determinadas materias."
@@ -205,6 +217,7 @@
     }, {
         "question": "Según el artículo 30 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia exclusiva en:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Ordenación del sector pesquero."
@@ -222,6 +235,7 @@
     }, {
         "question": "Según el artículo 30 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia exclusiva en:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Agricultura y ganadería."
@@ -239,6 +253,7 @@
     }, {
         "question": "Según el artículo 30 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia exclusiva en:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Alteraciones de los términos municipales y denominación oficial de los municipios y topónimos. "
@@ -256,6 +271,7 @@
     }, {
         "question": "Según el artículo 30 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia exclusiva en:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Salud y sanidad."
@@ -273,6 +289,7 @@
     }, {
         "question": "Según el artículo 31 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia de desarrollo legislativo y ejecución en:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Turismo."
@@ -290,6 +307,7 @@
     }, {
         "question": "Según el artículo 31 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia de desarrollo legislativo y ejecución en:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Régimen Local."
@@ -307,6 +325,7 @@
     }, {
         "question": "Según el artículo 31 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia de desarrollo legislativo y ejecución en:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Expropiación forzosa."
@@ -324,6 +343,7 @@
     }, {
         "question": "Según el artículo 31 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia de desarrollo legislativo y ejecución en:",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Actividades clasificadas."
@@ -341,6 +361,7 @@
     }, {
         "question": "Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Protección civil."
@@ -358,6 +379,7 @@
     }, {
         "question": "Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Agencias de transporte."
@@ -375,6 +397,7 @@
     }, {
         "question": "Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en: ",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Bienes de dominio público y patrimoniales de su titularidad."
@@ -392,6 +415,7 @@
     }, {
         "question": "Según el artículo 32 del Estatuto de autonomía de las Illes Balears, la Comunidad Autónoma de las Illes Balears tiene la competencia ejecutiva en:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Emergencias. "
@@ -409,6 +433,7 @@
     }, {
         "question": "Según el artículo 35 del Estatuto de autonomía de las Illes Balears, ¿cuál es la institución oficial consultiva para todo el que se refiere a la lengua catalana? ",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La consejería competente en materia de cultura."
@@ -426,6 +451,7 @@
     }, {
         "question": "Según el artículo 39 del Estatuto de autonomía de las Illes Balears, las instituciones de la Comunidad Autónoma de las Illes Balears son:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Parlamento, el Gobierno y el presidente de la Comunidad Autónoma."
@@ -443,6 +469,7 @@
     }, {
         "question": "Según el artículo 40 del Estatuto de autonomía de las Illes Balears, ¿dónde radica la sede del Parlamento?",
         "answer": "c",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "En la isla de Mallorca."
@@ -460,6 +487,7 @@
     }, {
         "question": "Según el artículo 40 del Estatuto de autonomía de las Illes Balears, ¿qué órgano aprueba los presupuestos de la Comunidad Autónoma?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Parlamento."
@@ -477,6 +505,7 @@
     }, {
         "question": "Según el artículo 41 del Estatuto de autonomía de las Illes Balears, los diputados del Parlamento son elegidos:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por sufragio universal, libre, directo y secreto."
@@ -494,6 +523,7 @@
     }, {
         "question": "Según el artículo 41 del Estatuto de autonomía de las Illes Balears, ¿cuánto dura el mandato de los diputados?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Cinco años."
@@ -511,6 +541,7 @@
     }, {
         "question": "Según el artículo 45 del Estatuto de autonomía de las Illes Balears, el Parlamento tiene:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un presidente y una mesa."
@@ -528,6 +559,7 @@
     }, {
         "question": "Según el artículo 45 del Estatuto de autonomía de las Illes Balears, el Parlamento se reune durante:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Ocho meses al año."
@@ -545,6 +577,7 @@
     }, {
         "question": "Según el artículo 46 del Estatuto de autonomía de las Illes Balears, la Diputación Permanente tiene por función velar por el poder del Parlamento cuando:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Este no esté reunido."
@@ -562,6 +595,7 @@
     }, {
         "question": "Según el artículo 48 del Estatuto de autonomía de las Illes Balears, ¿qué órgano ejerce la potestad legislativa?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Parlamento."
@@ -579,6 +613,7 @@
     }, {
         "question": "Según el artículo 48 del Estatuto de autonomía de las Illes Balears, las leyes del Parlamento han de ser publicadas:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "En el Boletín Oficial de las Illes Balears."
@@ -596,6 +631,7 @@
     }, {
         "question": "Según el artículo 51 del Estatuto de autonomía de las Illes Balears, para  defender  las libertades y de los derechos fundamentales de los ciudadanos ,el Parlamento, mediante una ley, creará:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Defensor del Pueblo."
@@ -613,6 +649,7 @@
     }, {
         "question": "Según el artículo 52 del Estatuto de autonomía de las Illes Balears, la legislatura finaliza por expiración del mandato en cumplirse:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tres años de la fecha de las elecciones."
@@ -630,6 +667,7 @@
     }, {
         "question": "Según el artículo 56 del Estatuto de autonomía de las Illes Balears, ¿quién nombra y separa los miembros que han de formar el Gobierno?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El presidente de las Illes Balears."
@@ -647,6 +685,7 @@
     }, {
         "question": "Según el artículo 57 del Estatuto de autonomía de las Illes Balears, el Gobierno está formado:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por el presidente, un vicepresidente y los consejeros. "
@@ -664,6 +703,7 @@
     }, {
         "question": "Según el artículo 57 del Estatuto de autonomía de las Illes Balears, el Gobierno cesa:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Después de la celebración de elecciones al Parlamento."
@@ -681,6 +721,7 @@
     }, {
         "question": "Según el artículo 58 del Estatuto de autonomía de las Illes Balears, el Gobierno tiene:",
         "answer": "b",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "La potestad legislativa."
@@ -698,6 +739,7 @@
     }, {
         "question": "Según el artículo 76 del Estatuto de autonomía de las Illes Balears, ¿por cuántos juristas de prestigio reconocido estará integrado como máximo el Consejo consultivo de las Illes Balears?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por diez juristas."
@@ -715,6 +757,7 @@
     }, {
         "question": "Según el artículo 78 del Estatuto de autonomía de las Illes Balears, ¿cuál es el órgano colegiado de participación, estudios, deliberación, asesoramiento y propuesta en materia económica y social?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Consejo Económico Consultivo."
@@ -732,6 +775,7 @@
     }, {
         "question": "Según el artículo 40 del Estatuto de autonomía de las Illes Balears, ¿cuál es el órgano al que corresponde la fiscalización externa de la actividad económica, financiera y contable del sector público de las Illes Balears?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Consejo Económico Consultivo."
@@ -749,6 +793,7 @@
     }, {
         "question": "Según el artículo 95 del Estatuto de autonomía de las Illes Balears, ¿quién nombra al presidente del Tribunal Superior de Justicia de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El presidente del Consejo General del Poder Judicial."
@@ -766,6 +811,7 @@
     }, {
         "question": "Según el artículo 139 del Estatuto de autonomía de las Illes Balears, ¿a quién corresponde la iniciativa de reforma del Estatuto de autonomía?",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Al Parlamento."
@@ -783,6 +829,7 @@
     }, {
         "question": "Según el artículo 135 del Estatuto de autonomía de las Illes Balears, ¿qué carácter tiene el presupuesto general de la Comunidad Autónoma de las Illes Balears?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Carácter semestral."
@@ -800,6 +847,7 @@
     }, {
         "question": "Según el artículo 135 del Estatuto de autonomía de las Illes Balears, ¿a quién corresponde elaborar y ejecutar el presupuesto general de la Comunidad Autónoma de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Al Parlamento."
@@ -817,6 +865,7 @@
     }, {
         "question": "Según el artículo 133 del Estatuto de autonomía de las Illes Balears, la Agencia Tributaria de las Illes Balears se creará por:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una ley del Parlamento."
@@ -834,6 +883,7 @@
     }, {
         "question": "Según el artículo 139 del Estatuto de autonomía de las Illes Balears, ¿qué se requiere para prosperar la propuesta de reforma del Estatuto de autonomía?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La aprobación del Parlamento por mayoría simple de los diputados y la aprobación de las Cortes Generales mediante una ley orgánica."

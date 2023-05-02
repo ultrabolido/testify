@@ -1,6 +1,7 @@
 [{
         "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuándo la situación administrativa de suspensión de funciones determina la pérdida del puesto de trabajo?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Cuando exceda de nueve meses."
@@ -18,6 +19,7 @@
     }, {
         "question": "Indicar la respuesta incorrecta.Respecto del personal al servicio de las administraciones públicas, son empleados públicos:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El personal laboral interino."
@@ -35,6 +37,7 @@
     }, {
         "question": "No son principios que inspiran el Código de Conducta de los empleados públicos, dado el artículo 52 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La objetividad y la integridad."
@@ -52,6 +55,7 @@
     }, {
         "question": "De acuerdo con el artículo 31 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de La Ley del Estatuto Básico del Empleado Público, ¿qué respuesta es incorrecta respecto a los derechos que tienen los empleados públicos para la determinación de sus condiciones de trabajo?:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Derecho a la representación."
@@ -69,6 +73,7 @@
     }, {
         "question": "Se entiende por representación, a efectos del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de La Ley del Estatuto Básico del Empleado Público:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El derecho a negociar la determinación de condiciones de trabajo de los funcionarios de la Comunidad Autónoma de las Islas Baleares."
@@ -86,6 +91,7 @@
     }, {
         "question": "No es una situación administrativa del personal funcionario de carrera, de acuerdo con lo que establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La excedencia."
@@ -103,6 +109,7 @@
     }, {
         "question": "¿Cuál de las siguientes respuestas es incorrecta?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Los funcionarios interinos percibirán las retribuciones complementarias referidas a la progresión alcanzada por ellos dentro del sistema de carrera administrativa."
@@ -120,6 +127,7 @@
     }, {
         "question": "Están en situación de servicio activo, según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Quienes, de conformidad con la normativa de función pública dictada en desarrollo de este Estatuto, presten servicios en su condición de funcionarios públicos cualquiera que sea la Administración o el organismo público o entidad en la que estén destinados y no les corresponda quedar en otra situación."
@@ -137,6 +145,7 @@
     }, {
         "question": "El personal laboral:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Su promoción y carrera profesional se hará efectiva en aplicación de las leyes en materia de función pública de la Comunidad Autónoma de las Islas Baleares."
@@ -154,6 +163,7 @@
     }, {
         "question": "No es un tipo de excedencia de los que se recogen en el artículo 89 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La excedencia voluntaria por agrupación familiar."
@@ -171,6 +181,7 @@
     }, {
         "question": "Tiene derecho a la concesión de licencias previstas en el artículo 118 de la Ley 3/2007, de 27 de marzo, de la función pública de la Comunidad Autónoma de las Illes Balears:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El personal funcionario."
@@ -188,6 +199,7 @@
     }, {
         "question": "Respecto a la modalidad de teletrabajo, ¿cuál de las respuestas es falsa?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Se considera teletrabajo la modalidad de prestación de servicios a distancia en la que el contenido competencial del puesto de trabajo puede desarrollarse, en todo caso, fuera de las dependencias de la Administración, mediante el uso de tecnologías de la información y comunicación."
@@ -205,6 +217,7 @@
     }, {
         "question": "¿Cuál de las siguientes respuestas es falsa respecto a la situación de servicios especiales del personal funcionario de carrera, de acuerdo con lo que establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Cuando son designados para formar parte del Consejo General del Poder Judicial o de los consejos de justicia de las comunidades autónomas."
@@ -222,6 +235,7 @@
     }, {
         "question": "¿Cuál es un deber del personal funcionario según la ley 3/2007, de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Islas Baleares?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Velar por el propio perfeccionamiento profesional y participar en los cursos de formación que sean obligatorios."
@@ -239,6 +253,7 @@
     }, {
         "question": "¿Cuál de las siguientes es una causa de cese del personal interino, de acuerdo con lo que establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son causa de cese del personal interino."
@@ -256,6 +271,7 @@
     }, {
         "question": "¿Cuál es el período mínimo de servicios efectivos inmediatamente anteriores a la solicitud de la excedencia voluntaria por interés particular que deben haber prestado los funcionarios de carrera, de acuerdo con el artículo 89 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Seis años."
@@ -273,6 +289,7 @@
     }, {
         "question": "¿Cuál de los siguientes es un principio ético que deben cumplir los empleados públicos, según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del 'Empleado Público?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Mantener actualizada su formación y calificación."
@@ -290,6 +307,7 @@
     }, {
         "question": "¿Cuál es la definición de personal eventual establecida por el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El que ejerce funciones directivas profesionales en las administraciones públicas."
@@ -307,6 +325,7 @@
     }, {
         "question": "Respecto a la evaluación del desempeño del artículo 20 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de La Ley del Estatuto Básico del Empleado Público:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La continuidad en un puesto de trabajo obtenido por concurso no se vincula a la evaluación del desempeño"
@@ -324,6 +343,7 @@
     }, {
         "question": "Es un principio de conducta que deben cumplir los empleados públicos, según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Mantener actualizada su formación y calificación."
@@ -341,6 +361,7 @@
     }, {
         "question": "¿Cuál es la definición de personal funcionario de carrera establecida por el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El que, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal prevista en la legislación laboral, presta servicios retribuidos por las administraciones públicas."
@@ -358,6 +379,7 @@
     }, {
         "question": "¿Cuál es un deber del personal funcionario según la ley 3/2007, de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Islas Baleares?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Recibir las recompensas que se establezcan reglamentariamente."
@@ -375,6 +397,7 @@
     }, {
         "question": "¿Cuál de los siguientes es un órgano específico de representación de los funcionarios?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las Juntas de Comisión."
@@ -392,6 +415,7 @@
     }, {
         "question": "Es una modalidad de carrera profesional, según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de La Ley del Estatuto Básico del Empleado Público:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La promoción interna vertical."
@@ -409,6 +433,7 @@
     }, {
         "question": "Es un criterio que rige el sistema retributivo de la Administración de la comunidad autónoma de las Illes Balears, de acuerdo con lo que dispone la normativa básica estatal:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Se tenderá a la uniformidad retributiva de los puestos de trabajo ocupados por mujeres y hombres."
@@ -426,6 +451,7 @@
     }, {
         "question": "¿Cuál de las respuestas es incorrecta respecto a las retribuciones complementarias de los funcionarios?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Son factores a tener en cuenta, el grado de interés, la iniciativa o el esfuerzo con el que el funcionario realiza su trabajo y el rendimiento o los resultados obtenidos."
@@ -443,6 +469,7 @@
     }, {
         "question": "Se entiende por participación institucional, a efectos del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El derecho a negociar la determinación de condiciones de trabajo de los funcionarios de la Comunidad Autónoma de las Islas Baleares."
@@ -460,6 +487,7 @@
     }, {
         "question": "¿Cuál de las siguientes respuestas es correcta respecto a las retribuciones de los funcionarios de carrera?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las pagas extraordinarias son tres al año, cada una por el importe de una mensualidad de retribuciones básicas y de la totalidad de las retribuciones complementarias, salvo las pagas a que se refieren los apartados c)y d)del artículo 24 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
@@ -477,6 +505,7 @@
     }, {
         "question": "La Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Islas Baleares establece que el personal funcionario al servicio de la administración de la Comunidad Autónoma de las Islas Baleares tiene derecho:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "A las recompensas que se establezcan legalmente."
@@ -494,6 +523,7 @@
     }, {
         "question": "¿Cuál es el período mínimo de duración de la excedencia voluntaria por interés particular, establecida en el artículo 102 de la Ley La Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un año."
@@ -511,6 +541,7 @@
     }, {
         "question": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¡cuánto tiempo como máximo puede durar la situación administrativa de suspensión funciones firme por sanción disciplinaria?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Siete años."
@@ -528,6 +559,7 @@
     }, {
         "question": "De acuerdo con el artículo 116 de la ley 3/2007, de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Islas Baleares, ¿qué respuesta es cierta?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El personal funcionario tiene derecho a disfrutar de veintiún días laborables dentro de cada año natural completo de servicio activo."
@@ -545,6 +577,7 @@
     }, {
         "question": "Según la Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears, ¿cuándo queda el personal funcionario en situación de expectativa de destino?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Cuando sea nombrado miembro del Gobierno de la comunidad autónoma."
@@ -562,6 +595,7 @@
     }, {
         "question": "¿Cuál NO es un derecho reconocido al personal funcionario por la ley 3/2007, de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Islas Baleares?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La formación profesional y la actualización permanente de sus conocimientos y de sus capacidades."
@@ -579,6 +613,7 @@
     }, {
         "question": "Según lo establecido en el artículo 106 de la Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears sobre la excedencia voluntaria para las víctimas de violencia de género, ¿cuál de las siguientes respuestas es la correcta?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "No dará derecho a la reserva de puesto de trabajo."
@@ -596,6 +631,7 @@
     }, {
         "question": "No es un deber del personal funcionario al servicio de la Administración de la comunidad autónoma de las Illes Balears:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Velar por propio perfeccionamiento profesional y participar en los cursos de formación que sean obligatorios."
@@ -613,6 +649,7 @@
     }, {
         "question": "Es un derecho individual ejercido de forma colectiva de acuerdo con el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La libertad sindical."
@@ -630,6 +667,7 @@
     }, {
         "question": "Según la Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears, ¿a qué derecho da lugar la permanencia en la situación de excedencia voluntaria por cuidado de familiares?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -647,6 +685,7 @@
     }, {
         "question": "Según la Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears, ¿cuál es el orden de prelación para el reingreso en el servicio activo del personal funcionario?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "1.Excedencia forzosa, 2.Expectativa de destino, 3.Situación de suspensión, 4.Excedencia voluntaria."
@@ -664,6 +703,7 @@
     }, {
         "question": "Son retribuciones básicas del personal funcionario, de acuerdo con lo que establece la normativa básica estatal:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las gratificaciones."
@@ -681,6 +721,7 @@
     }, {
         "question": "Las retribuciones básicas del personal funcionario:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se fijan en la Ley de Presupuestos de las Islas Baleares."
@@ -698,6 +739,7 @@
     }, {
         "question": "Se entiende por negociación colectiva, a efectos del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de La Ley del Estatuto Básico del Empleado Público:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La facultad de elegir representados y constituir órganos unitarios mediante los que se instrumente la interlocución entre las Administraciones Públicas."
@@ -715,6 +757,7 @@
     }, {
         "question": "¿Cuál es la definición de personal laboral establecida por el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El que, en virtud de nombramiento legal, está vinculado a una Administración pública por una relación estatutaria regulada por el derecho administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente."
@@ -732,6 +775,7 @@
     }, {
         "question": "Según la Ley 3/2007 de 27 de marzo, de la Función Pública de la Comunidad Autónoma de las Illes Balears, ¿en qué supuestos se puede solicitar la excedencia voluntaria por cuidado de familiares?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Para el cuidado de un familiar a cargo directo, por un período no superior a dos años."
@@ -749,6 +793,7 @@
     }, {
         "question": "Respecto a la excedencia voluntaria por razones particulares, de acuerdo con lo que establece el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, es FALSO que:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Quienes están en situación de excedencia por interés particular no devengan retribuciones,"
@@ -766,6 +811,7 @@
     }, {
         "question": "Respecto a los permisos a los que tienen derecho los funcionarios públicos, recogidos en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, es falso que:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Por muerte, accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que requiera reposo domiciliario, de un familiar dentro del segundo grado de consanguinidad o afinidad, se dispone de tres días hábiles cuando el suceso se produzca en la misma localidad, y cinco días hábiles cuando sea en una localidad distinta."
@@ -783,6 +829,7 @@
     }, {
         "question": "Respecto al permiso por lactancia, según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, es cierto que:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La funcionaria no podrá solicitar la sustitución del tiempo de lactancia por permiso retribuido que acumule en jornadas completas."
@@ -800,6 +847,7 @@
     }, {
         "question": "Los permisos horarios y por días de los que puede disfrutar el personal funcionario deben permitir:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La conciliación de la vida laboral y la participación en asuntos públicos."
@@ -817,6 +865,7 @@
     }, {
         "question": "La carrera horizontal del personal funcionario de carrera consiste en:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El ascenso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior, de acuerdo con lo establecido en el artículo 18."
@@ -834,6 +883,7 @@
     }, {
         "question": "Es un principio que debe regir los procesos selectivos por los que se realice la promoción interna:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."

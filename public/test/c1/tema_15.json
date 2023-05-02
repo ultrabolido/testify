@@ -1,6 +1,7 @@
 [{
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, todo interesado que haya obtenido la limitación del tratamiento de sus datos personales:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Será informado por el encargado en el plazo de un mes después del levantamiento de dicha limitación."
@@ -18,6 +19,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué implica el derecho a la seguridad digital?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Todos tienen derecho a la libertad de expresión en Internet."
@@ -35,6 +37,7 @@
     }, {
         "question": "La Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales tiene por objeto garantizar los derechos digitales de la ciudadanía de conformidad con el mandato:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "De el artículo 18.2 de la Constitución Española."
@@ -52,6 +55,7 @@
     }, {
         "question": "¿En cuál de los tratamientos de datos siguientes no es aplicable directamente el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, por afectar actividades no comprendidas en el ámbito de aplicación del derecho de la Unión Europea?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los Registros de la Propiedad y Mercantiles."
@@ -69,6 +73,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, el bloqueo de los datos consiste en la identificación y reserva de los mismos, adoptando medidas técnicas y organizativas:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Para impedir su tratamiento, excluyendo su visualización."
@@ -86,6 +91,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, cuando el afectado elija un medio distinto al que se le ofrece, que suponga un coste desproporcionado, para ejercer el derecho de acceso:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La solicitud será considerada excesiva."
@@ -103,6 +109,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, ¿qué información debe facilitar el responsable del tratamiento al interesado en el momento en que los datos personales se obtengan?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "El derecho a presentar una reclamación ante el propio responsable."
@@ -120,6 +127,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué significa que los usuarios tienen derecho a la neutralidad de Internet?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El acceso a Internet de hombres y mujeres procurará la superación de la brecha de género tanto en el ámbito personal como laboral."
@@ -137,6 +145,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, en relación a los derechos digitales en el ámbito laboral:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Solo por ley orgánica se podrán establecer garantías adicionales de los derechos y libertades relacionados con el tratamiento de los datos personales de los trabajadores y la salvaguarda de derechos digitales en el ámbito laboral."
@@ -154,6 +163,7 @@
     }, {
         "question": "De acuerdo al artículo 5.1.d) del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, los datos serán:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Exactos y, solo en determinados casos, actualizados."
@@ -171,6 +181,7 @@
     }, {
         "question": "Indique cuál de los siguientes no es un derecho digital reconocido en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Derecho de publicación en Internet."
@@ -188,6 +199,7 @@
     }, {
         "question": "Señale la respuesta incorrecta. De acuerdo con el título V de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, los responsables y encargados del tratamiento deberán designar un delegado de protección de datos:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En las entidades aseguradoras y reaseguradoras."
@@ -205,6 +217,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué implica el derecho a la actualización de informaciones en medios de comunicación digitales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los responsables de redes sociales y servicios equivalentes adoptarán protocolos adecuados para posibilitar el ejercicio del derecho de rectificación ante los usuarios que difundan contenidos que atenten contra el derecho al honor, la intimidad personal y familiar en Internet y el derecho a comunicar o recibir libremente información veraz."
@@ -222,6 +235,7 @@
     }, {
         "question": "De acuerdo con el artículo 7 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, cuando el tratamiento se base en el consentimiento del interesado:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No será posible retirar el consentimiento."
@@ -239,6 +253,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, al ejercer el derecho de rectificación, el afectado deberá indicar en su solicitud:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Únicamente la corrección que haya de realizarse."
@@ -256,6 +271,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, la Agencia Española de Protección de Datos se rige por lo dispuesto:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Únicamente en la presente ley orgánica y sus disposiciones de desarrollo."
@@ -273,6 +289,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el contrato que vincule al encargado respecto del responsable establecerá en todo caso:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las obligaciones y derechos de los interesados."
@@ -290,6 +307,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, indique cual de las siguientes es una infracción grave:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El impedimento o la obstaculización o la no atención reiterada del ejercicio de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/679."
@@ -307,6 +325,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el principio de integridad y confidencialidad en el tratamiento de datos supone que los datos personales serán: ",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Adecuados, pertinentes y limitados a lo necesario en relación con los fines para los que son tratados."
@@ -324,6 +343,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Mayor de doce años."
@@ -341,6 +361,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, la información y acceso a los datos personales:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Serán en todo caso a título gratuito."
@@ -358,6 +379,7 @@
     }, {
         "question": "De acuerdo con el artículo 32 de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, dentro del ámbito de sus respectivas competencias, podrán fijar excepciones a la obligación de bloqueo establecida en este artículo:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La Agencia Española de Protección de Datos exclusivamente."
@@ -375,6 +397,7 @@
     }, {
         "question": "De acuerdo con el título V de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, los responsables y encargados del tratamiento comunicarán a la Agencia Española de Protección de Datos o, en su caso, a las autoridades autonómicas de protección de datos, las designaciones, nombramientos y ceses de los delegados de protección de datos:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En el plazo de veinte días."
@@ -392,6 +415,7 @@
     }, {
         "question": "De acuerdo con el art. 11 de la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, cuando los datos personales no hubieran sido obtenidos del afectado, el responsable podrá dar cumplimiento al deber de información establecido en el artículo 14 del Reglamento (UE) 2016/679 facilitando a aquel la información básica del tratamiento de esos datos, entre la que no se incluye:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La finalidad del tratamiento."
@@ -409,6 +433,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿el encargado podrá tramitar, por cuenta del responsable, las solicitudes de ejercicio de los derechos de las personas en relación al tratamiento de sus datos personales, formuladas por los afectados?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Si así se establece en el contrato o acto jurídico que le vincule al responsable."
@@ -426,6 +451,7 @@
     }, {
         "question": "Señale la incorrecta. De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, la Presidencia de la Agencia Española de Protección de Datos estará asesorada por un Consejo Consultivo compuesto por los siguientes miembros:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Dos Diputados, propuesto por el Congreso de los Diputados"
@@ -443,6 +469,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el interesado tendrá derecho a oponerse al tratamiento de sus datos personales cuando éste es necesario para el cumplimiento de una misión realizada en interés público:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Alegando el derecho de supresión."
@@ -460,6 +487,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, el registro completo de los datos referidos a condenas e infracciones penales podrá realizarse conforme con lo establecido en la regulación:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Del sistema de registros administrativos de apoyo a la Administración de Justicia."
@@ -477,6 +505,7 @@
     }, {
         "question": "De acuerdo con el artículo 8 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el consentimiento de tratamiento de los datos personales de un niño se considerará lícito cuando tenga como mínimo:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "16 años."
@@ -494,6 +523,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, al ejercer su derecho a la portabilidad de los datos, el interesado tendrá derecho a que los datos personales:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se transmitan directamente de responsable a responsable en todo caso."
@@ -511,6 +541,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, se deberá mantener un registro de actividades del tratamiento de datos, que podrá organizarse en torno a:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Conjuntos estructurados de personas."
@@ -528,6 +559,7 @@
     }, {
         "question": "Indique cuál de los siguientes no es un derecho digital reconocido en la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Derecho a la educación digital."
@@ -545,6 +577,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, los derechos y libertades consagrados en la Constitución y en los tratados y convenios internacionales en que España sea parte:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Son parcialmente aplicables en Internet."
@@ -562,6 +595,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, en caso de exigencia de responsabilidad en los términos previstos en el artículo 82 del Reglamento (UE) 2016/679, responderán solidariamente de los daños y perjuicios causados:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Los responsables, los representantes y los delegados de protección de datos."
@@ -579,6 +613,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué implica el derecho a la intimidad ante la utilización de sistemas de geolocalización en el ámbito laboral?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los empleadores podrán tratar las imágenes obtenidas a través de sistemas de cámaras o videocámaras para el ejercicio de las funciones de control de los trabajadores o los empleados público."
@@ -596,6 +631,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados aun cuando exista un contrato o acto jurídico con el contenido fijado en el artículo 28.3 del Reglamento (UE) 2016/679, tendrá la consideración de:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Autoridad de protección de datos."
@@ -613,6 +649,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, para la adopción de las medidas técnicas y organizativas apropiadas que deben aplicar los responsables y encargados del tratamiento tendrán en cuenta, en particular, los mayores riesgos que podrían producirse cuando se lleve a cabo el tratamiento de datos de grupos de afectados en situación de especial vulnerabilidad y, en particular:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "De menores de edad y personas con discapacidad."
@@ -630,6 +667,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, entre otras exigencias ¿Que implica el derecho de acceso universal a Internet?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Se garantizará un acceso universal, asequible, de calidad y no discriminatorio para toda la población. "
@@ -647,6 +685,7 @@
     }, {
         "question": "El derecho fundamental de las personas físicas a la protección de datos personales, se ejercerá con arreglo a lo establecido en:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Únicamente por la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales."
@@ -664,6 +703,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, ¿cuando el interesado no tiene derecho a no ser objeto de una decisión basada únicamente en el tratamiento automatizado?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Si la decisión se basa en la autorización de un tercero."
@@ -681,6 +721,7 @@
     }, {
         "question": "De acuerdo con el derecho a la transparencia de la información regulado en el artículo 12 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, ¿puede el responsable del tratamiento negarse a dar curso a la solicitud del interesado?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Nunca, dado el carácter prioritario del derecho de “Transparencia de la información”."
@@ -698,6 +739,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, cuando se vaya a realizar un tratamiento por cuenta de un responsable del tratamiento, este elegirá únicamente un encargado que:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Tenga el visto bueno de los interesados."
@@ -715,6 +757,7 @@
     }, {
         "question": "De acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el derecho de supresión es conocido también como:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Derecho al olvido."
@@ -732,6 +775,7 @@
     }, {
         "question": "De acuerdo con el derecho a la transparencia de la información regulado en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos, el responsable del tratamiento facilitará a los interesados información relativa a sus actuaciones en el plazo de un mes:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Con posibilidad de una prórroga de tres meses."
@@ -749,6 +793,7 @@
     }, {
         "question": "Indique cuál de las siguientes respuestas no es un principio de la protección de datos de acuerdo con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, Reglamento general de protección de datos.",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Limitación de la finalidad."
@@ -766,6 +811,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, indique la respuesta correcta en relación a la prescripción de las sanciones impuestas en aplicación del Reglamento (UE) 2016/679 y de esta ley orgánica:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las sanciones impuestas por infracciones graves prescriben en el plazo de 3 años."
@@ -783,6 +829,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, los derechos de acceso, rectificación, cancelación, oposición o cualesquiera otros que pudieran corresponderles en el contexto de la presente ley orgánica podrán ser ejercitados por los titulares de la patria potestad en nombre y representación:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "De los menores de 16 años."
@@ -800,6 +847,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, ¿qué implica el derecho a la educación digital?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "El sistema educativo garantizará la plena inserción del alumnado en la sociedad digital y el aprendizaje de un consumo responsable y un uso crítico y seguro de los medios digitales."
@@ -817,6 +865,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, indique cual de las siguientes es una infracción muy grave:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "No disponer del registro de actividades de tratamiento establecido en el artículo 30 del Reglamento (UE) 2016/679."
@@ -834,6 +883,7 @@
     }, {
         "question": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, el personal al servicio de la Agencia Española de Protección de Datos:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Tendrá el mismo régimen que el personal del Comité Europeo de Protección de Datos."

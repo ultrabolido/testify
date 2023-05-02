@@ -1,6 +1,7 @@
 [{
         "question": "Indique la respuesta correcta en relación con las acciones positivas que establece la Ley orgánica3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -18,6 +19,7 @@
     }, {
         "question": "Una de las competencias que tiene que ejercer la Dirección General de Función Pública en esta legislatura es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La gestión, el impulso y la coordinación de los planes estratégicos del sector público instrumental autonómico."
@@ -35,6 +37,7 @@
     }, {
         "question": "La Directiva 2004/113/CE del Consejo de Europa, de 13 de diciembre de 2004, por la que se aplica el principio de igualdad de trato entre hombres y mujeres en el acceso a los bienes y servicios y a su suministro:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Establece la distinción entre discriminación directa y discriminación indirecta."
@@ -52,6 +55,7 @@
     }, {
         "question": "De acuerdo con la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las administraciones públicas tienen que tomar medidas de conciliación solo en casos de familias numerosas."
@@ -69,6 +73,7 @@
     }, {
         "question": "Señale cuál de las normas de ámbito estatal siguientes se ha aprobado recientemente en materia de no discriminación:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La Ley 17/2021, de 20 de diciembre, para atender las desigualdades y las discriminaciones."
@@ -86,6 +91,7 @@
     }, {
         "question": "Indique la respuesta incorrecta de acuerdo con lo que la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres establece como violencia machista:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La violencia económica, que incluye la privación intencionada, y no justificada legalmente, de recursos para el bienestar físico o psicológico."
@@ -103,6 +109,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con el V Plan Estratégico de Igualdad entre Mujeres y Hombres de las Illes Balears (2021-2023):",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Tienen que participar en él los agentes sociales y económicos y las asociaciones en defensa de los derechos de las mujeres de las Illes Balears."
@@ -120,6 +127,7 @@
     }, {
         "question": "De acuerdo con la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Constituye discriminación indirecta por razón de sexo cualquier trato desfavorable relacionado con el embarazo o la maternidad."
@@ -137,6 +145,7 @@
     }, {
         "question": "¿Quién ejerce actualmente las competencias de coordinación en materia de igualdad y diversidad de Gobierno de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La directora del Instituto Balear de la Mujer."
@@ -154,6 +163,7 @@
     }, {
         "question": "El seguimiento y la evaluación del Plan de Igualdad del personal de servicios generales de la Administración de la Comunidad Autónoma de las Illes Balears se realizará:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "A partir de una batería de indicadores directamente relacionados con los objetivos que se pretenden lograr."
@@ -171,6 +181,7 @@
     }, {
         "question": "El Convenio del Consejo de Europa sobre prevención y lucha contra la violencia contra la mujer y la violencia doméstica:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "b",
                 "name": "Fue ratificado por España en marzo del 2014."
@@ -188,6 +199,7 @@
     }, {
         "question": "El órgano colegiado encargado de coordinar las poli?ticas y los programas que realizan las administraciones autonómica, insular y local en materia de igualdad de mujeres y hombres, es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La Comisión para la Igualdad de Sexos."
@@ -205,6 +217,7 @@
     }, {
         "question": "Según la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "El principio de igualdad de trato y de oportunidades entre mujeres y hombres no hace falta que se integre, de forma activa, en la adopción y la ejecución de disposiciones normativas."
@@ -222,6 +235,7 @@
     }, {
         "question": "Verificar la incorporación de la perspectiva de género en las memorias de los programas presupuestarios de la Comunidad Autónoma corresponde:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "A la consejería competente en materia de fondos europeos."
@@ -239,6 +253,7 @@
     }, {
         "question": "Señale la respuesta incorrecta en relación con los derechos de las mujeres víctimas de violencia de género, que regula la Ley orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las mujeres víctimas de violencia de género no tienen derecho a servicios de emergencia."
@@ -256,6 +271,7 @@
     }, {
         "question": "Señale la respuesta incorrecta en relación con cuáles son las áreas de intervención del Observatorio para la Igualdad, regulado por el Decreto 1/2018, de 2 de febrero:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La violencia machista."
@@ -273,6 +289,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la Guía para una comunicación no sexista de la Administración de la Comunidad Autónoma de las Illes Balears:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Hay que tenerla en cuenta solo para redactar textos normativos."
@@ -290,6 +307,7 @@
     }, {
         "question": "Indique la respuesta incorrecta de acuerdo con el Estatuto de autonomía de las Illes Balears, cuando establece que las administraciones públicas de las Illes Balears se tienen que centrar, primordialmente, en los ámbitos siguientes:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La protección social contra la violencia, especialmente contra la violencia de género."
@@ -307,6 +325,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la Ley 6/2022, de 31 de marzo, de modificación del Texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La modificación no prevé establecer ninguna condición básica de accesibilidad cognitiva."
@@ -324,6 +343,7 @@
     }, {
         "question": "¿En qué Ley se transpuso en España la Directiva del Consejo de Europa que prohíbe la discriminación por origen racial o étnico?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Mediante la Ley 17/2014, de 30 de diciembre, de medidas fiscales, administrativas y de orden social."
@@ -341,6 +361,7 @@
     }, {
         "question": "Indique la respuesta incorrecta en relación con el fomento de la igualdad, que regula el artículo 6 de la Ley orgánica1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las administraciones educativas velarán para que todos los materiales educativos fomenten el igual valor de hombres y de mujeres."
@@ -358,6 +379,7 @@
     }, {
         "question": "Según la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres, ¿cuál es el máximo órgano de participación de carácter autonómico que tiene la finalidad de favorecer el asociacionismo y la participación de las mujeres en los temas que les puedan afectar?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Consejo de Participación de la Mujer Trabajadora."
@@ -375,6 +397,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con el objeto de la Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI-fobia:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Establecer y regular los principios para promover los derechos de las personas trans e intersexuales."
@@ -392,6 +415,7 @@
     }, {
         "question": "El ámbito de aplicación del Plan de Igualdad entre Mujeres y Hombres de la Administración de la Comunidad Autónoma de las Illes Balears (servicios generales):",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Se hace extensivo a todo el personal funcionario representado a Mesa Sectorial de Servicios Generales y al personal laboral de servicios generales que presta servicios en la Administración de la Comunidad Autónoma de las Illes Balears."
@@ -409,6 +433,7 @@
     }, {
         "question": "Las acreditaciones de víctimas de violencia de género, que regula la Ley orgánica1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Se podrán realizar mediante declaraciones de familiares ante las fuerzas y cuerpos de seguridad del Estado.                                                                                       "
@@ -426,6 +451,7 @@
     }, {
         "question": "Indique la respuesta incorrecta en relación con las medidas del Plan de Igualdad entre Mujeres y Hombres de la Administración de la Comunidad Autónoma de las Illes Balears (servicios generales):",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se tienen que realizar estudios para saber si hay diferencias retributivas no fundamentadas en criterios objetivos."
@@ -443,6 +469,7 @@
     }, {
         "question": "El artículo 14 de la Constitución española proclama el derecho a la igualdad y a la no discriminación por motivos de:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Nacimiento, raza, sexo, nacionalidad y opinión."
@@ -460,6 +487,7 @@
     }, {
         "question": "De acuerdo con la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las administraciones públicas de las Illes Balears no pueden interferir en el uso del lenguaje sexista."
@@ -477,6 +505,7 @@
     }, {
         "question": "¿Qué directiva del Consejo de Europa prohíbe la discriminación por origen racial o étnico en cualquier ámbito?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "No hay ninguna directiva que prohíba esta discriminación a la Unión Europea."
@@ -494,6 +523,7 @@
     }, {
         "question": "El Observatorio para la Igualdad, regulado por el Decreto 1/2018, de 2 de febrero, tiene, entre otras, las funciones siguientes:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Promover la elaboración de estudios, informes técnicos y evaluaciones comparables."
@@ -511,6 +541,7 @@
     }, {
         "question": "Son objetivos del Plan de Igualdad entre Mujeres y Hombres de la Administración de la Comunidad Autónoma de las Illes Balears (servicios generales):",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -528,6 +559,7 @@
     }, {
         "question": "Según dispone el Estatuto de autonomía de las Illes Balears en el artículo 17 «no discriminación por razón de sexo»:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -545,6 +577,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la definición de planes de igualdad de las empresas en conformidad con la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Son un conjunto ordenado de medidas, adoptadas después de realizar un diagnóstico de situación, con la intención de lograr la igualdad de trato y de oportunidades entre mujeres y hombres."
@@ -562,6 +595,7 @@
     }, {
         "question": "De acuerdo con la Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI-fobia y la discriminación por asociación es:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La situación en que una persona activista por los derechos de las personas gays es discriminada."
@@ -579,6 +613,7 @@
     }, {
         "question": "El Decreto 12/2014, de 28 de febrero, de la Comunidad Autónoma de las Illes Balears (modificado por el Decreto 12/2017 de 31 de marzo), creó:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La Comisión de Evaluación de las Políticas de Igualdad."
@@ -596,6 +631,7 @@
     }, {
         "question": "La Carta de los Derechos Fundamentales de la Unión Europea:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Contiene un artículo sobre no discriminación."
@@ -613,6 +649,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la definición de perspectiva de género que establece la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Es la toma en consideración de las diferencias entre mujeres y hombres en un a?mbito o una actividad para el análisis, la planificación, el diseño y la ejecución de poli?ticas."
@@ -630,6 +667,7 @@
     }, {
         "question": "Señale la respuesta correcta en relación con el Decreto de traspaso de competencias en materia de políticas de género y mujer:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Es el Decreto 46/2018, de 21 de diciembre, de traspaso a los consejos insulares de las funciones y los servicios inherentes a las competencias propias de estos consejos insulares que actualmente ejerce la Administración de la Comunidad Autónoma de las Illes Balears en materia de políticas de corresponsabilidad."
@@ -647,6 +685,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con lo que dispone la Recomendación CM/Rec (2019) del Comité de Ministros a los Estados miembros para prevenir y combatir el sexismo, adoptada el 27 de marzo de 2019:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Afirma que el sexismo se refuerza por los estereotipos de género que afectan a mujeres y hombres, niñas y niños, e impide la consecución de la igualdad de género y el establecimiento de sociedades inclusivas."
@@ -664,6 +703,7 @@
     }, {
         "question": "De conformidad con el artículo 3 de la Ley orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El principio de igualdad de trato entre mujeres y hombres supone un trato no igualitario y no discriminatorio entre mujeres y hombres."
@@ -681,6 +721,7 @@
     }, {
         "question": "Según la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "d",
                 "name": "Las respuestas a)y b)son correctas."
@@ -698,6 +739,7 @@
     }, {
         "question": "¿Qué Tratado marcó un hito en la lucha contra la discriminación en la Unión Europea cuando empezó a vigir el 1 de mayo de 1999?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El Tratado de Milán."
@@ -715,6 +757,7 @@
     }, {
         "question": "Señale la respuesta correcta en relación con el informe de evaluación de impacto de género, regulado por la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La Comisión de Paridad tiene que aprobar las pautas que se deben seguir para realizar el informe de evaluación de impacto de género."
@@ -732,6 +775,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con el Plan de Igualdad entre Mujeres y Hombres de la Administración de la Comunidad Autónoma de las Illes Balears (servicios generales) en vigor:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En el título se indica la periodicidad: 2021-2025."
@@ -749,6 +793,7 @@
     }, {
         "question": "Diseñar los procedimientos básicos que permiten poner en marcha los sistemas de acreditación de las situaciones de violencia de género regulados por la Ley orgánica1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, es una competencia que corresponde:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Al Gobierno central."
@@ -766,6 +811,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la obligatoriedad de las empresas de disponer de un plan de igualdad según la normativa en vigor:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Están obligadas a disponer de planes de igualdad las empresas de más de ciento cincuenta personas trabajadoras."
@@ -783,6 +829,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la evaluación de impacto sobre orientación sexual e identidad de género que establece la Ley 8/2016, de 30 de mayo, para garantizar los derechos de lesbianas, gays, trans, bisexuales e intersexuales y para erradicar la LGTBI-fobia:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "b",
                 "name": "Esta evaluación se tiene que incorporar sobre algunas disposiciones legales o reglamentarias concretas que se impulsen dentro del territorio de la comunidad autónoma."
@@ -800,6 +847,7 @@
     }, {
         "question": "Según la Ley 11/2016, de 28 de julio, de igualdad de mujeres y hombres:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "También se consideran víctimas las hijas y los hijos de la madre víctima de la violencia."
@@ -817,6 +865,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con los derechos de las funcionarias públicas víctimas de violencia de género según el que establece la Ley orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La funcionaria víctima de violencia de género tendrá acceso a servicios específicos de atención."
@@ -834,6 +883,7 @@
     }, {
         "question": "El Consejo de la Unión Europea, por unanimidad, y previa aprobación del Parlamento Europeo, podrá adoptar acciones adecuadas para luchar:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La discriminación por motivos de sexo, de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual."

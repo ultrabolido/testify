@@ -24,7 +24,7 @@ onMounted( async () => {
 function randomize() {
   shuffle(questions.value);
   questions.value.forEach((q) => {
-    shuffle(q.options);
+    if (q.shuffle) shuffle(q.options);
   })
 }
 

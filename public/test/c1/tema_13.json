@@ -1,6 +1,7 @@
 [{
         "question": "De acuerdo con la Ley 31/1995, de 8 de noviembre, de prevención de riesgo laborales, la función de la Inspección de Trabajo y Seguridad Social es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Sancionar en temas relativos a la seguridad social exclusivamente."
@@ -18,6 +19,7 @@
     }, {
         "question": "¿Qué son los delegados de prevención?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Son elegidos en las elecciones sindicales."
@@ -35,6 +37,7 @@
     }, {
         "question": "¿Qué establece el artículo 41 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Los fabricantes, los importadores y suministradores de maquinaria, equipos, productos y útiles de trabajo están obligados a asegurar que éstos no constituyan una fuente de peligro para el trabajador."
@@ -52,6 +55,7 @@
     }, {
         "question": "¿Cuál es la definición de equipo de protección individual según la Ley 31/1995 de Prevención de riesgos laborales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Es cualquier elemento que protege de un riesgo laboral a varios trabajadores."
@@ -69,6 +73,7 @@
     }, {
         "question": "El Real decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los puestos de trabajo no es aplicable:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "A los centros de trabajo de la administración pública."
@@ -86,6 +91,7 @@
     }, {
         "question": "Es un principio básico de la política de prevención de riesgos laborales",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La participación de empresarios y de trabajadores, mediante las organizaciones empresariales y sindicales más representativas, en la planificación, programación, organización y control de la gestión relacionadas con la mejora de las condiciones de trabajo y la protección de la seguridad y salud de los trabajadores."
@@ -103,6 +109,7 @@
     }, {
         "question": "De acuerdo con el artículo 32 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, las mutuas de accidentes de trabajo y enfermedades profesionales",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Ejercen sus funciones de acuerdo con lo establecido en la ley."
@@ -120,6 +127,7 @@
     }, {
         "question": "¿Cuál es la definición de condición de trabajo según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Es cualquier característica del trabajo que pueda tener una influencia significativa en la generación de riesgos para la seguridad y salud del trabajador o trabajadora."
@@ -137,6 +145,7 @@
     }, {
         "question": "¿Cuál es la definición de daños derivados del trabajo según la Ley de Prevención de riesgos laborales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las lesiones corporales y psíquicas que el trabajador sufra con ocasión o por consecuencia del trabajo."
@@ -154,6 +163,7 @@
     }, {
         "question": "¿Cuándo es necesaria la presencia de los recursos preventivos?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las anteriores respuestas son correctas."
@@ -171,6 +181,7 @@
     }, {
         "question": "El derecho de participación regulado en el Capítulo V de la Ley de Prevención de Riesgos Laborales:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Se ejerce siempre y únicamente a través de los trabajadores, tanto en el ámbito de la empresa privada como en el ámbito de las administraciones públicas."
@@ -188,6 +199,7 @@
     }, {
         "question": "La Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales es de aplicación en el ámbito de:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Servicios operativos de protección civil y peritaje forense en los casos de grave riesgo, catástrofe y calamidad pública."
@@ -205,6 +217,7 @@
     }, {
         "question": "La formación en el ámbito de la prevención de riesgos laborales debe ser:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La formación no debe centrarse específicamente en el puesto de trabajo o la función del personal."
@@ -222,6 +235,7 @@
     }, {
         "question": "¿Cuál es la definición de prevención según la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los procedimientos de trabajo y normativas derivadas."
@@ -239,6 +253,7 @@
     }, {
         "question": "El principio de sustituir lo que sea peligroso por lo que comporte poco peligro o no comporte ninguno es:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "No es un principio de acción preventiva."
@@ -256,6 +271,7 @@
     }, {
         "question": "Señale la respuesta correcta en relación al Plan de Prevención de riesgos laborales:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las empresas, según el número de trabajadores y la naturaleza y peligrosidad de las actividades realizadas, pueden realizar el Plan de prevención de riesgos laborales de forma simplificada."
@@ -273,6 +289,7 @@
     }, {
         "question": "El artículo 17 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales dice que:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Son necesarios los equipos de trabajo y los equipos de protección individual."
@@ -290,6 +307,7 @@
     }, {
         "question": "La política en materia de prevención de riesgos laborales tiene como objetivo:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Promover la mejora de las condiciones de trabajo a fin de elevar el nivel de protección de la seguridad y la salud de los trabajadores en el trabajo."
@@ -307,6 +325,7 @@
     }, {
         "question": "El artículo 14 de la Ley de Prevención de Riesgos Laborales establece:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Que cuando se haya producido un daño para la salud (física o psíquica) debe investigarse."
@@ -324,6 +343,7 @@
     }, {
         "question": "¿Qué documentación debe elaborar y conservar el empresario de acuerdo con la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El plan de prevención y la relación de accidentes laborales, pero no la de enfermedades profesionales."
@@ -341,6 +361,7 @@
     }, {
         "question": "En referencia a lo establecido en el artículo 22 de la Ley de Prevención de Riesgos Laborales en cuanto a la vigilancia de la salud, señale la respuesta incorrecta:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Los resultados de la vigilancia se comunicarán a los trabajadores afectados, al empresario ya los representantes de los trabajadores."
@@ -358,6 +379,7 @@
     }, {
         "question": "Las obligaciones del personal en materia de prevención de riesgos laborales son:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Velar por su propia seguridad y salud en el trabajo y por la de aquellas otras personas cuya actividad profesional pueda afectar, debido a sus actos y omisiones en el trabajo."
@@ -375,6 +397,7 @@
     }, {
         "question": "De acuerdo con el artículo 4 de la Ley de Prevención de riesgos laborales, el riesgo laboral es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
@@ -392,6 +415,7 @@
     }, {
         "question": "Cuando el personal esté o puedan estar expuesto a un riesgo grave e inminente a causa de su trabajo, el empresario está obligado a:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Precintar el centro de trabajo."
@@ -409,6 +433,7 @@
     }, {
         "question": "Las administraciones públicas competentes en materia laboral deben llevar a cabo las funciones de:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Promoción de la seguridad y asesoramiento jurídico en su ámbito de aplicación."
@@ -426,6 +451,7 @@
     }, {
         "question": "El comité de seguridad y salud:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Es el órgano científico y técnico especializado cuya misión es el análisis y estudio de las condiciones de seguridad y salud en el trabajo."
@@ -443,6 +469,7 @@
     }, {
         "question": "En relación a la información a la que se refiere el artículo 18 de la Ley de Prevención de Riesgos Laborales establece que:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La información se establece en el artículo 23 de la Ley de prevención de riesgos laborales."
@@ -460,6 +487,7 @@
     }, {
         "question": "La Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales tiene por objeto:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Establecer la forma de evaluación de los riesgos en los puestos de trabajo."
@@ -477,6 +505,7 @@
     }, {
         "question": "El artículo 25 de la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales establece que:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El plan de prevención debe revisarse anualmente."
@@ -494,6 +523,7 @@
     }, {
         "question": "De acuerdo con el artículo 18 de la Ley de Prevención de Riesgos Laborales, el empresario debe adoptar las medidas adecuadas para que los trabajadores reciban todas las informaciones necesarias en relación con:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los derechos laborales que les corresponden."
@@ -511,6 +541,7 @@
     }, {
         "question": "De acuerdo con el artículo 16 de la Ley de Prevención de Riesgos Laborales, cuando se haya producido un daño para la salud de los trabajadores, el empresario:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Debe realizar un nuevo Plan de Prevención que incluya los daños de los trabajadores."
@@ -528,6 +559,7 @@
     }, {
         "question": "¿Cuál es la definición de equipo de trabajo según la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Es cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo."
@@ -545,6 +577,7 @@
     }, {
         "question": "¿Cuál es la definición de riesgo laboral grave e inminente según la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Es aquél en el que las consecuencias y el daño tienen lugar a corto plazo."
@@ -562,6 +595,7 @@
     }, {
         "question": "Indique la respuesta incorrecta en referencia al Comité de Seguridad y Salud:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El Comité está formado por los delegados de prevención, por un lado, y por el empresario y/o sus representantes en número igual al de los delegados de prevención, por otro."
@@ -579,6 +613,7 @@
     }, {
         "question": "¿Cuál es la definición de riesgo laboral según la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Es la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo."
@@ -596,6 +631,7 @@
     }, {
         "question": "¿Cuáles son las competencias y facultades del Comité de Seguridad y Salud?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Elaborar el plan de prevención y evaluar las consecuencias en la aplicación."
@@ -613,6 +649,7 @@
     }, {
         "question": "¿Cuántos delegados de prevención son necesarios en la Administración Autonómica de las Islas Baleares con más de 5000 trabajadores?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Ocho delegados de prevención."
@@ -630,6 +667,7 @@
     }, {
         "question": "Para calificar un riesgo laboral desde el punto de vista de su gravedad debe valorarse conjuntamente:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La probabilidad de que se produzca el daño y su severidad."
@@ -647,6 +685,7 @@
     }, {
         "question": "¿Qué es un servicio de prevención de acuerdo con el artículo 31 de la Ley de Prevención de riesgos laborales?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Es una empresa que se contrata para gestionar los reconocimientos médicos y la asistencia a accidentes de trabajo y enfermedades profesionales."
@@ -664,6 +703,7 @@
     }, {
         "question": "En relación al derecho a la vigilancia de la salud:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Se prolongará más allá de la finalización de la relación laboral sólo cuando el trabajador lo solicite expresamente."
@@ -681,6 +721,7 @@
     }, {
         "question": "¿A qué están obligados los delegados de prevención con arreglo al artículo 37 de la Ley 31/1995, de prevención de riesgos laborales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "A seguir las indicaciones y instrucciones del empresario."
@@ -698,6 +739,7 @@
     }, {
         "question": "La normativa sobre prevención de riesgos laborales queda constituida por:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Por la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales, las disposiciones de desarrollo o complementarias, y las normas internacionales."
@@ -715,6 +757,7 @@
     }, {
         "question": "La Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales no es aplicable en las actividades cuyas particularidades lo impidan en el ámbito de las funciones públicas de:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Fuerzas armadas y actividades militares de la Guardia Civil."
@@ -732,6 +775,7 @@
     }, {
         "question": "¿Cuál de las siguientes no es una competencia de los delegados de prevención?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Promover y fomentar la cooperación de los trabajadores en la ejecución de la normativa sobre prevención de riesgos laborales"
@@ -749,6 +793,7 @@
     }, {
         "question": "El artículo 15 de la Ley 31/1995, de 8 de noviembre, de Prevención de riesgos laborales establece que:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las empresas de más de 150 empleados deben disponer de plan de emergencias."
@@ -766,6 +811,7 @@
     }, {
         "question": "Los delegados de prevención están facultados para:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Realizar visitas a los puestos de trabajo para desempeñar una tarea de vigilancia y control del estado de las condiciones de trabajo."
@@ -783,6 +829,7 @@
     }, {
         "question": "La coordinación de actividades empresariales implica que:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En un centro de trabajo hay más de tres empresas trabajando a la vez, pero no implica ninguna responsabilidad al titular del centro."
@@ -800,6 +847,7 @@
     }, {
         "question": "De acuerdo con el artículo 26 de la Ley de Prevención de Riesgos Laborales, las mujeres embarazadas tienen derecho:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "A ausentarse del trabajo, con derecho a remuneración, para realizar exámenes prenatales y técnicas de preparación al parto, con aviso previo al empresario y justificando la necesidad de hacerlo dentro de la jornada de trabajo."
@@ -817,6 +865,7 @@
     }, {
         "question": "Las disposiciones de carácter laboral que contiene la Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales tendrán el carácter de:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "De derecho mínimo indispensable, pero no se pueden desarrollar con los convenios colectivos."
@@ -834,6 +883,7 @@
     }, {
         "question": "En relación al Instituto Nacional de Seguridad y Salud en el Trabajo (anteriormente, Instituto Nacional de Seguridad e Higiene en el Trabajo), cuál no es una función de este organismo:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Promoción y, en su caso, realización de actividades de formación, información, investigación, estudio y divulgación en materia de prevención de riesgos laborales."

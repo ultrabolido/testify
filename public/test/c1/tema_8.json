@@ -1,6 +1,7 @@
 [{
         "question": "Según el art. 35.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, deben ser motivados:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los actos que limiten derechos subjetivos o intereses legítimos."
@@ -18,6 +19,7 @@
     }, {
         "question": "Indique cuál de las siguientes afirmaciones es correcta según el art. 36.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los actos administrativos se producirán siempre por escrito."
@@ -35,6 +37,7 @@
     }, {
         "question": "De acuerdo con el art. 39.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿desde cuando producen efectos los actos administrativos como regla general?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Desde la fecha en que se dictan."
@@ -52,6 +55,7 @@
     }, {
         "question": "Según el art. 40.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las notificaciones deben ser cursadas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En el plazo de diez días a partir de la fecha en que el acto haya sido dictado."
@@ -69,6 +73,7 @@
     }, {
         "question": "Según el art. 42.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, cuando la notificación se practique en el domicilio del interesado, de no hallarse presente éste en el momento de entregarse la notificación, podrá hacerse cargo de la misma:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad."
@@ -86,6 +91,7 @@
     }, {
         "question": "El art. 42.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, establece que: ",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El segundo intento de notificación deberá realizarse siempre después de las quince horas."
@@ -103,6 +109,7 @@
     }, {
         "question": "Según el art. 43.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuándo se entenderán practicadas las notificaciones por medios electrónicos?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una vez transcurridos diez días desde el acceso a su contenido."
@@ -120,6 +127,7 @@
     }, {
         "question": "En caso de notificación infructuosa, ¿cuál de los siguientes anuncios tiene carácter facultativo según el art. 44 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El anuncio en el «Boletín Oficial del Estado»."
@@ -137,6 +145,7 @@
     }, {
         "question": "Según el art. 45.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de los siguientes actos administrativos deberá ser publicado? ",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un acto que tenga por destinatario a una pluralidad determinada de personas."
@@ -154,6 +163,7 @@
     }, {
         "question": "Según el art. 47.1.b de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuál de los siguientes actos administrativos es nulo de pleno derecho?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El que se dicte por un órgano manifiestamente incompetente por razón del territorio."
@@ -171,6 +181,7 @@
     }, {
         "question": "Según el art. 48.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Implicará la anulabilidad del acto salvo cuando la ley establezca otra cosa."
@@ -188,6 +199,7 @@
     }, {
         "question": "De acuerdo con el art. 48.1 la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, un acto que tenga un vicio de incompetencia jerárquica incurre en:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Nulidad de pleno derecho."
@@ -205,6 +217,7 @@
     }, {
         "question": "Según el art. 52.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿qué actos administrativos pueden ser convalidados?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los actos nulos de pleno derecho."
@@ -222,6 +235,7 @@
     }, {
         "question": "Según el art. 54 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿de qué formas puede iniciarse el procedimiento administrativo?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De oficio."
@@ -239,6 +253,7 @@
     }, {
         "question": "Según el art. 56 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las medidas provisionales se pueden adoptar:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Antes de la iniciación del procedimiento."
@@ -256,6 +271,7 @@
     }, {
         "question": "Según el art. 56.5 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿cuándo se extinguen las medidas provisionales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una vez transcurridos quince días desde que fueron adoptadas."
@@ -273,6 +289,7 @@
     }, {
         "question": "Según el art. 57 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el órgano administrativo que inicie o tramite un procedimiento puede disponer su acumulación a otros:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Con los que guarde identidad sustancial o íntima conexión, siempre que sea el mismo órgano quien deba tramitar y resolver el procedimiento."
@@ -290,6 +307,7 @@
     }, {
         "question": "Según el art. 59 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, se entiende por propia iniciativa:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La actuación derivada del conocimiento directo o indirecto de las circunstancias, conductas o hechos objeto del procedimiento por el órgano que tiene atribuida la competencia de iniciación."
@@ -307,6 +325,7 @@
     }, {
         "question": "¿Cuál es el plazo para subsanar y mejorar la solicitud según el art. 68.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un mes."
@@ -324,6 +343,7 @@
     }, {
         "question": "Según el art. 70.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, “el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla”, se denomina:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Procedimiento administrativo."
@@ -341,6 +361,7 @@
     }, {
         "question": "Indique cuál de las afirmaciones siguientes es correcta según el art. 71.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El procedimiento se impulsará de oficio o a instancia de parte."
@@ -358,6 +379,7 @@
     }, {
         "question": "Según el art. 74 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las cuestiones incidentales que se susciten en el procedimiento, incluso las que se refieran a la nulidad de actuaciones:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No suspenderán la tramitación del procedimiento, salvo la recusación."
@@ -375,6 +397,7 @@
     }, {
         "question": "Según el art. 76.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados podrán aducir alegaciones y aportar documentos u otros elementos de juicio:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En cualquier momento del procedimiento."
@@ -392,6 +415,7 @@
     }, {
         "question": "Según el art. 76.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los interesados podrán alegar los defectos de tramitación:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En todo momento."
@@ -409,6 +433,7 @@
     }, {
         "question": "Según el art. 77.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, los hechos relevantes para la decisión de un procedimiento podrán acreditarse: ",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por cualquier medio de prueba."
@@ -426,6 +451,7 @@
     }, {
         "question": "Según el art. 77.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, se acordará la apertura de un período de prueba:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Cuando los hechos probados no constituyan, de modo manifiesto, infracción administrativa."
@@ -443,6 +469,7 @@
     }, {
         "question": "Según el art. 77.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo del período ordinario de prueba será:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No inferior a diez días ni superior a quince."
@@ -460,6 +487,7 @@
     }, {
         "question": "Según el art. 77.6 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o Entidad de derecho público, se entenderá que éste tiene carácter:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Preceptivo."
@@ -477,6 +505,7 @@
     }, {
         "question": "Según el art. 80.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, salvo disposición expresa en contrario, los informes serán: ",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Facultativos y no vinculantes."
@@ -494,6 +523,7 @@
     }, {
         "question": "Según el art. 82.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el trámite de audiencia se practicará:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Inmediatamente antes de la fase de prueba."
@@ -511,6 +541,7 @@
     }, {
         "question": "Según el art. 82.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para presentar alegaciones dentro del trámite de audiencia será: ",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No inferior a diez días."
@@ -528,6 +559,7 @@
     }, {
         "question": "Según el art. 83.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la comparecencia en el trámite de información pública:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Impedirá a los interesados interponer los recursos procedentes contra la resolución provisional del procedimiento."
@@ -545,6 +577,7 @@
     }, {
         "question": "Según el art. 84.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, es una forma de terminación del procedimiento:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La continuación por causas sobrevenidas. "
@@ -562,6 +595,7 @@
     }, {
         "question": "Según el art. 87 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para formular alegaciones al acuerdo de realización de actuaciones complementarias será:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No superior a quince días."
@@ -579,6 +613,7 @@
     }, {
         "question": "Según el art. 88.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la resolución será congruente con las peticiones formuladas por el interesado:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En los procedimientos tramitados a solicitud del interesado."
@@ -596,6 +631,7 @@
     }, {
         "question": "Según el art. 93 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, en los procedimientos iniciados de oficio: ",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La Administración no podrá desistir."
@@ -613,6 +649,7 @@
     }, {
         "question": "Según el art. 95.3 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los procedimientos prescritos no interrumpirán el plazo de caducidad."
@@ -630,6 +667,7 @@
     }, {
         "question": "Según el art. 96.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el procedimiento de tramitación simplificada se podrá acordar:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De oficio."
@@ -647,6 +685,7 @@
     }, {
         "question": "Según el art. 96.6 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, el plazo para presentar alegaciones en los procedimientos de tramitación simplificada es:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De cinco días."
@@ -664,6 +703,7 @@
     }, {
         "question": "¿Cuál de los siguientes medios de pago no se cita expresamente en el art. 98.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tarjeta de crédito y débito."
@@ -681,6 +721,7 @@
     }, {
         "question": "Según el art. 99 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, es un requisito necesario para llevar a cabo la ejecución forzosa de los actos administrativos:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El previo apercibimiento."
@@ -698,6 +739,7 @@
     }, {
         "question": "Según el art. 100.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la ejecución forzosa por las Administraciones Públicas se efectuará respetando siempre el principio de:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tipicidad."
@@ -715,6 +757,7 @@
     }, {
         "question": "Según el art. 100.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, si son posibles varios medios de ejecución forzosa:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Se aplicará el elegido por el interesado."
@@ -732,6 +775,7 @@
     }, {
         "question": "Según el art. 101.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, ¿qué medio de ejecución forzosa debe elegirse cuando tenga que satisfacerse una cantidad líquida?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Apremio sobre el patrimonio."
@@ -749,6 +793,7 @@
     }, {
         "question": "Según el art. 102.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, las Administraciones Públicas realizarán la ejecución subsidiaria:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Con la autorización judicial previa, a costa del obligado."
@@ -766,6 +811,7 @@
     }, {
         "question": "Según el art. 103.1 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la multa coercitiva:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Puede ser reiterada por lapsos de tiempo que sean suficientes para cumplir lo ordenado."
@@ -783,6 +829,7 @@
     }, {
         "question": "Según el art. 103.2 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, la multa coercitiva es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Dependiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas."
@@ -800,6 +847,7 @@
     }, {
         "question": "Según el art. 42 de la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la Comunidad Autónoma de las Illes Balears, los actos administrativos de los consejeros adoptan la forma de:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Orden."
@@ -817,6 +865,7 @@
     }, {
         "question": "Según el art. 42 de la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la Comunidad Autónoma de las Illes Balears, adoptan la forma de resolución:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los actos dictados por el presidente."
@@ -834,6 +883,7 @@
     }, {
         "question": "Según el art. 50 de la Ley 3/2003, de 26 de marzo, de régimen jurídico de la administración de la Comunidad Autónoma de las Illes Balears, ¿cuál es el plazo para resolver los procedimientos que sean competencia de la comunidad autónoma?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El que fije la norma reguladora del procedimiento correspondiente, y en su defecto, el plazo será de seis meses."

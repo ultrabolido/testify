@@ -1,6 +1,7 @@
 [{
         "question": "De acuerdo con el artículo 39 del Estatuto de Autonomía de las Illes Balears vigente, el sistema institucional autonómico está integrado:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por el Parlamento, el Gobierno, el presidente de la comunidad autónoma y los consejos insulares de Mallorca, Menorca, Ibiza y Formentera."
@@ -18,6 +19,7 @@
     }, {
         "question": "Pueden ser elegidos diputados del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los ciudadanos españoles mayores de edad residentes en las Illes Balears, inscritos en el censo electoral y en pleno ejercicio de sus derechos civiles y políticos."
@@ -35,6 +37,7 @@
     }, {
         "question": "El Parlamento de las Illes Balears se reúne en sesión extraordinaria:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "A petición del Gobierno o por acuerdo de la Diputación Permanente o del Pleno, a propuesta de una quinta parte de los diputados."
@@ -52,6 +55,7 @@
     }, {
         "question": "Los diputados del Congreso elegidos en las Illes Balears pueden asistir:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "A las sesiones del Pleno y de las comisiones que no tengan carácter secreto."
@@ -69,6 +73,7 @@
     }, {
         "question": "La aprobación y la reforma del Reglamento del Parlamento de las Illes Balears requieren:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La mayoría absoluta de los componentes del Parlamento."
@@ -86,6 +91,7 @@
     }, {
         "question": "¿Cuál de estas funciones corresponde al Parlamento de las Illes Balears?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Designar el senador o los senadores que deben representar a la comunidad autónoma de las Illes Balears en el Senado."
@@ -103,6 +109,7 @@
     }, {
         "question": "El Parlamento de las Illes Balears, mediante ley, crea la institución de la Sindicatura de Greuges:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Para la defensa de las libertades y de los derechos fundamentales de los ciudadanos, así como para supervisar e investigar las actividades de la Administración de la Comunidad Autónoma de las Illes Balears."
@@ -120,6 +127,7 @@
     }, {
         "question": "Indique la respuesta incorrecta. De acuerdo con el Reglamento del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En la votación secreta mediante papeleta, los diputados son llamados con el criterio de menos a más edad y por sexos para depositar la papeleta."
@@ -137,6 +145,7 @@
     }, {
         "question": "La ley que regula el total de diputados que deben integrar el Parlamento de las Illes Balears debe ser aprobada:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por una mayoría calificada de dos tercios."
@@ -154,6 +163,7 @@
     }, {
         "question": "Para adoptar acuerdos, el Parlamento de las Illes Balears y sus órganos:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Deben estar reunidos reglamentariamente y con la asistencia de la mayoría de sus miembros."
@@ -171,6 +181,7 @@
     }, {
         "question": "El orden del día del Pleno del Parlamento de las Illes Balears lo fija la Presidencia:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Oída la Mesa, y de acuerdo con la Junta de Portavoces."
@@ -188,6 +199,7 @@
     }, {
         "question": "Indique la respuesta incorrecta. De acuerdo con el Estatuto de Autonomía, en relación con el Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una ley del Parlamento, aprobada por mayoría absoluta, regula el total de diputados que deben integrarla."
@@ -205,6 +217,7 @@
     }, {
         "question": "La Diputación Permanente tiene por función velar por el poder del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Cuando no esté reunido, haya sido disuelto o haya expirado su mandato."
@@ -222,6 +235,7 @@
     }, {
         "question": "La Mesa del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Es el órgano de gobierno y gestión del Parlamento."
@@ -239,6 +253,7 @@
     }, {
         "question": "La Mesa del Parlamento de las Illes Balears puede acordar que un asunto se tramite por el procedimiento de urgencia:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "A petición motivada del Gobierno, de un grupo parlamentario o de una quinta parte de los diputados."
@@ -256,6 +271,7 @@
     }, {
         "question": "Indique la respuesta incorrecta. De acuerdo con el Reglamento del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El Pleno del Parlamento, a propuesta de dos grupos parlamentarios o de la cuarta parte de los miembros de la cámara, puede acordar la creación de una comisión de investigación."
@@ -273,6 +289,7 @@
     }, {
         "question": "Corresponde al Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Aprobar y decidir transferencias o delegaciones de competencias a favor de los consejos insulares y de otros entes locales de la comunidad autónoma."
@@ -290,6 +307,7 @@
     }, {
         "question": "Indique la respuesta correcta. De acuerdo con el Reglamento del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La sede del Parlamento es la ciudad de Palma."
@@ -307,6 +325,7 @@
     }, {
         "question": "Aprobar el estatuto que regula la ordenación del régimen jurídico del personal al servicio del Parlamento de las Illes Balears corresponde:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "A la Mesa del Parlamento."
@@ -324,6 +343,7 @@
     }, {
         "question": "Indique la respuesta incorrecta respecto del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Ejerce la potestad ejecutiva."
@@ -341,6 +361,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, la sesión solemne de apertura de la legislatura tendrá lugar dentro del plazo de los:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Quince días hábiles siguientes al de la celebración de la sesión constitutiva."
@@ -358,6 +379,7 @@
     }, {
         "question": "No es una función de la Mesa del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Solicitar la convocatoria de una sesión extraordinaria del Pleno."
@@ -375,6 +397,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, la elección de los miembros de la Mesa se produce:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En la sesión constitutiva del Parlamento."
@@ -392,6 +415,7 @@
     }, {
         "question": "La duración del mandato de los diputados del Parlamento de las Illes Balears es:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De cuatro años."
@@ -409,6 +433,7 @@
     }, {
         "question": "El Parlamento de las Illes Balears debe constituirse dentro del plazo máximo:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De treinta días después de la celebración de las elecciones."
@@ -426,6 +451,7 @@
     }, {
         "question": "En las elecciones al Parlamento de las Illes Balears, serán electores:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Todos los ciudadanos españoles mayores de edad que figuren en el censo electoral de las Illes Balears."
@@ -443,6 +469,7 @@
     }, {
         "question": "La Junta de Portavoces del Parlamento de las Illes Balears se reúne bajo la dirección:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Del presidente del Parlamento."
@@ -460,6 +487,7 @@
     }, {
         "question": "El día y la hora señalados en la resolución de convocatoria de la sesión constitutiva del Parlamento de las Illes Balears, los diputados electos, se constituyen:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En asamblea."
@@ -477,6 +505,7 @@
     }, {
         "question": "Inicialmente, la sesión constitutiva del Parlamento de las Illes Balears la preside:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "De entre los presentes, el diputado o la diputada electos de mayor edad."
@@ -494,6 +523,7 @@
     }, {
         "question": "Indique la respuesta incorrecta. Corresponde al Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Determinar, en aplicación del criterio de representación mayoritario, el senador o los senadores que deben representar a la comunidad autónoma de las Illes Balears en el Senado."
@@ -511,6 +541,7 @@
     }, {
         "question": "Indique la respuesta correcta respecto de los diputados y diputadas del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Al final de cada período de sesiones, la Mesa del Parlamento publicará en el Boletín Oficial del Parlamento de las Illes Balears y en el Portal de Transparencia, la asistencia de los diputados y las diputadas a las sesiones del Pleno y de las comisiones de que formen parte."
@@ -528,6 +559,7 @@
     }, {
         "question": "Indique la respuesta incorrecta respecto de los diputados y diputadas del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tienen la obligación de formar parte, al menos, de una comisión."
@@ -545,6 +577,7 @@
     }, {
         "question": "La Sindicatura de Greuges de las Illes Balears debe crearse mediante:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una ley del Parlamento."
@@ -562,6 +595,7 @@
     }, {
         "question": "Indique la respuesta incorrecta. El Parlamento de las Illes Balears elige:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Todos los miembros del Consejo Consultivo."
@@ -579,6 +613,7 @@
     }, {
         "question": "Señala la respuesta incorrecta. Los diputados y diputadas del Parlamento de las Illes Balears perderán la condición como tales por las siguientes causas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por renuncia del diputado o la diputada ante el Pleno del Parlamento."
@@ -596,6 +631,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, los grupos parlamentarios, salvo el Grupo Mixto, serán formados, al menos, por:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por tres diputados."
@@ -613,6 +649,7 @@
     }, {
         "question": "El presidente o la presidenta del Parlamento de las Illes Balears tiene el tratamiento de:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Señor o señora."
@@ -630,6 +667,7 @@
     }, {
         "question": "Indique la respuesta incorrecta sobre las funciones del presidente o presidenta del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tramitar todos los escritos y documentos de índole parlamentaria."
@@ -647,6 +685,7 @@
     }, {
         "question": "Indica una respuesta correcta sobre las funciones del presidente o presidenta del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Convocar y presidir cualquier comisión, pero sólo tendrá voto en aquellas de que forme parte."
@@ -664,6 +703,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, las decisiones de la Junta de Portavoces se adoptarán:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En función del criterio del voto ponderado."
@@ -681,6 +721,7 @@
     }, {
         "question": "Se denominan declaraciones institucionales del Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": " Las acordadas unánimemente por el presidente o la presidenta y por los portavoces de los grupos parlamentarios."
@@ -698,6 +739,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, el número de senadores y senadoras que corresponden proporcionalmente a cada grupo parlamentario lo fija:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La Mesa del Parlamento, de acuerdo con la Junta de Portavoces."
@@ -715,6 +757,7 @@
     }, {
         "question": "Indique la respuesta incorrecta en relación con el Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los diputados tienen el derecho de asistir a las sesiones del Pleno del Parlamento y a las comisiones de que no forman parte."
@@ -732,6 +775,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, la constitución de los grupos parlamentarios se realizará, mediante escrito dirigido a la Mesa de la cámara:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Dentro de los diez días siguientes a la sesión constitutiva del Parlamento."
@@ -749,6 +793,7 @@
     }, {
         "question": "En el Parlamento de las Illes Balears, En caso de ausencia del secretario o secretaria de una comisión, éste o ésta será sustituido o sustituida perseguirá sustituido:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Por un miembro de la comisión del mismo grupo político."
@@ -766,6 +811,7 @@
     }, {
         "question": "El Pleno del Parlamento de las Illes Balears podrá acordar la creación de una comisión de investigación sobre cualquier asunto de interés público, dentro del ámbito competencial de la Comunidad en Autónoma, a propuesta de:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Un grupo parlamentario o de la quinta parte de los diputados o diputadas miembros de la cámara."
@@ -783,6 +829,7 @@
     }, {
         "question": "La Mesa del Parlamento de las Illes Balears, de acuerdo con la Junta de Portavoces, puede acordar constituir intergrupos parlamentarios a iniciativa de:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Dos grupos parlamentarios o de la quinta parte de los miembros del Parlamento."
@@ -800,6 +847,7 @@
     }, {
         "question": "El jefe superior de todo el personal y de todos los servicios del Parlamento de las Illes Balears es:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El oficial del Parlamento."
@@ -817,6 +865,7 @@
     }, {
         "question": "En las votaciones del Parlamento de las Illes Balears, se entiende que hay mayoría simple, cuando:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Los votos favorables superen a los desfavorables, sin contar las abstenciones, los votos en blanco y los votos nulos."
@@ -834,6 +883,7 @@
     }, {
         "question": "Indique la respuesta incorrecta sobre el Parlamento de las Illes Balears:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "En la sesión constitutiva elige al presidente o presidenta de las Illes Balears."

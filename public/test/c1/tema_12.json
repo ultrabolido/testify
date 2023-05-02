@@ -1,6 +1,7 @@
 [{
         "question": "En materia de servicios de tráfico de la Dirección General de Tráfico que se ofrecen a través de la Plataforma de Interoperabilidad de las Illes Balears, ¿se puede conocer la fecha de caducidad de la Inspección Técnica de Vehículos de un vehículo?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "No, actualmente este dato todavía no puede obtenerse a través de la plataforma."
@@ -18,6 +19,7 @@
     }, {
         "question": "Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios es un servicio propio?",
         "answer": "",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Consulta de datos de identidad."
@@ -35,6 +37,7 @@
     }, {
         "question": "Si un empleado público tiene dudas sobre la veracidad de una copia de un documento aportado por el interesado debido a una mala calidad de la copia, ¿qué puede hacer?",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "d",
                 "name": "Las respuestas a)y c)son correctas."
@@ -52,6 +55,7 @@
     }, {
         "question": "¿Qué norma hace referencia al Sistema de Interconexión de Registros?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "El artículo 16 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas."
@@ -69,6 +73,7 @@
     }, {
         "question": "Según el Decreto 6/2013, de 8 de febrero, de medidas de simplificación documental de los procedimientos administrativos, la Administración autonómica no puede exigir a la ciudadanía la presentación de documentos:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "Cuando estén incorporados en la carpeta documental."
@@ -86,6 +91,7 @@
     }, {
         "question": "En particular, ¿qué permite gestionar la Plataforma de Interoperabilidad de las Illes Balears?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Órganos, procedimientos, servicios y usuarios."
@@ -103,6 +109,7 @@
     }, {
         "question": "¿Cuál de las siguientes no forma parte de la información necesaria que debe publicar toda sede electrónica?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Información relativa a la protección de datos personales."
@@ -120,6 +127,7 @@
     }, {
         "question": "Señala la respuesta incorrecta en relación con las normas técnicas de interoperabilidad:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El Ministerio de Asuntos Económicos y Transformación Digital podrá aprobar futuras normas, siempre que sean necesarias para garantizar el adecuado nivel de interoperabilidad."
@@ -137,6 +145,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la aportación de documentos por parte de los interesados:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las administraciones no deben exigir a los interesados la presentación de documentos originales, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario."
@@ -154,6 +163,7 @@
     }, {
         "question": "¿Cómo se accede a la Plataforma de Interoperabilidad de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "A través de una aplicación de escritorio."
@@ -171,6 +181,7 @@
     }, {
         "question": "¿Cuál de las siguientes opciones no es una Norma Técnica de Interoperabilidad?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Relación de modelos de datos."
@@ -188,6 +199,7 @@
     }, {
         "question": "La titularidad de la sede electrónica corresponde a:",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "b",
                 "name": "Un único organismo público o entidad de derecho público o privado, entre otros."
@@ -205,6 +217,7 @@
     }, {
         "question": "¿Cuál de las siguientes opciones son agentes que participan en los intercambios intermediados de datos entre administraciones públicas?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Cedente, cesionario, emisor y requirente."
@@ -222,6 +235,7 @@
     }, {
         "question": "Una sede electrónica de una administración pública es:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Una dirección de correo electrónico habilitada."
@@ -239,6 +253,7 @@
     }, {
         "question": "Uno de los contenidos mínimos que debe disponer una sede electrónica es:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "El calendario de días hábiles a efectos de cómputo de plazos."
@@ -256,6 +271,7 @@
     }, {
         "question": "La sede electrónica de la Administración de la Comunidad Autónoma de las Illes Balears es accesible públicamente en la dirección:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "https://www.goib.es/seucaib"
@@ -273,6 +289,7 @@
     }, {
         "question": "¿Cuál de estos documentos no puede exigir la Administración de la Comunidad Autónoma de las Illes Balears a la ciudadanía de acuerdo con el Catálogo de simplificación documental?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Un título universitario."
@@ -290,6 +307,7 @@
     }, {
         "question": "El justificante de una consulta dentro de la Plataforma de Interoperabilidad de las Illes Balears:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -307,6 +325,7 @@
     }, {
         "question": "¿Puede exigir la Administración Pública a un interesado que presente documentos originales?",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "b",
                 "name": "No, salvo que lo establezca la normativa reguladora del correspondiente procedimiento."
@@ -324,6 +343,7 @@
     }, {
         "question": "Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Ambas respuestas son correctas."
@@ -341,6 +361,7 @@
     }, {
         "question": "¿Cuál de las siguientes opciones no se considera un principio específico del Esquema Nacional de Interoperabilidad?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La interoperabilidad como calidad integral."
@@ -358,6 +379,7 @@
     }, {
         "question": "¿Cuál es el procedimiento para conocer qué servicios SCSP (Sustitución de Certificados en Soporte Papel)de la Administración General del Estado se pueden consultar a través de la Plataforma de Interoperabilidad de las Illes Balears y así poder solicitar la consulta?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Consultar al órgano competente del servicio la información pertinente."
@@ -375,6 +397,7 @@
     }, {
         "question": "En materia de funcionamiento del sector público por medios electrónicos, ¿se pueden crear sedes electrónicas asociadas?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Sí, por razones técnicas y procedimentales."
@@ -392,6 +415,7 @@
     }, {
         "question": "De acuerdo con uno de los principios específicos del Esquema Nacional de Interoperabilidad, ¿cuáles son las dimensiones que le dan el carácter multidimensional a la interoperabilidad?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Funcional, temporal y tecnológica."
@@ -409,6 +433,7 @@
     }, {
         "question": "Si el empleado público que instruye un procedimiento administrativo tiene dudas sobre la veracidad de una copia de un documento aportado por el interesado:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Debe presentar la correspondiente denuncia ante la Fiscalía si sospecha que puede ser falso."
@@ -426,6 +451,7 @@
     }, {
         "question": "¿Cuál de las siguientes opciones no es una característica de la Plataforma de Interoperabilidad de las Illes Balears?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Auditorías."
@@ -443,6 +469,7 @@
     }, {
         "question": "¿Puede corresponder la titularidad de una sede electrónica a más de una entidad de derecho público?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Sí, siempre que sea titular a la vez la administración pública de la que depende."
@@ -460,6 +487,7 @@
     }, {
         "question": "En el ámbito de la administración electrónica y de acuerdo con la Norma Técnica del Expediente Electrónico, ¿cómo pueden incluirse documentos electrónicos en un expediente electrónico?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Directamente como elementos independientes."
@@ -477,6 +505,7 @@
     }, {
         "question": "Las copias de documentos que el interesado aporta en un procedimiento administrativo:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Con carácter general, el interesado no puede presentar copias sino los originales."
@@ -494,6 +523,7 @@
     }, {
         "question": "Señala la respuesta correcta:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La titularidad de la sede electrónica corresponde al máximo órgano responsable en materia de transformación digital de cada administración pública."
@@ -511,6 +541,7 @@
     }, {
         "question": "El principio de interoperabilidad hace referencia a la capacidad de compartir datos y posibilitar el intercambio de información.¿Qué elementos debe tener esa capacidad?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Los sistemas de información y los procedimientos a los que dan soporte."
@@ -528,6 +559,7 @@
     }, {
         "question": "¿Cuál es el elemento a través del cual se efectúan todas las actuaciones y trámites referidos a procedimientos o servicios que requieren la identificación de la Administración Pública?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El portal de Internet."
@@ -545,6 +577,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con la aportación de documentos por parte de los interesados.Con carácter general:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La Administración de la Comunidad Autónoma de las Illes Balears no podrá exigir la presentación de documentos si constan en el Catálogo de simplificación documental."
@@ -562,6 +595,7 @@
     }, {
         "question": "En el ámbito de la administración electrónica y de acuerdo con la Norma Técnica de Digitalización de Documentos, señale cuál es el nivel de resolución mínimo para imágenes electrónicas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, como en color o escala de grises."
@@ -579,6 +613,7 @@
     }, {
         "question": "El Esquema Nacional de Interoperabilidad establece que las administraciones públicas españolas deben conectarse a una red de comunicaciones para comunicarse entre sí.¿De qué red se trata?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El Esquema Nacional de Interoperabilidad no hace referencia a ninguna red concreta."
@@ -596,6 +631,7 @@
     }, {
         "question": "De acuerdo con el artículo 38 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, señale la respuesta incorrecta:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La publicación en las sedes electrónicas de informaciones, servicios y transacciones debe respetar los principios de accesibilidad y uso de acuerdo con las normas establecidas al respecto."
@@ -613,6 +649,7 @@
     }, {
         "question": "Señale la respuesta incorrecta con relación a los aspectos temporales que intervienen en las comunicaciones de las administraciones públicas y de acuerdo con los aspectos de interoperabilidad:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Si es posible, la sincronización de la fecha y hora debe realizarse con la hora oficial en el ámbito europeo."
@@ -630,6 +667,7 @@
     }, {
         "question": "Como agente que participa en los intercambios intermediados de datos entre administraciones públicas, ¿qué es un cedente?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Desde el punto de vista tecnológico, aquél que facilita la cesión de los datos."
@@ -647,6 +685,7 @@
     }, {
         "question": "¿Dónde se detallan los servicios que se ofrecen mediante la Plataforma de Interoperabilidad de las Illes Balears?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "En el convenio de colaboración en materia de interoperabilidad telemática entre las administraciones públicas del ámbito territorial de las Illes Balears."
@@ -664,6 +703,7 @@
     }, {
         "question": "De acuerdo con el artículo 38 de la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público, señale la respuesta correcta:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las sedes electrónicas deben utilizar, para identificarse y garantizar una comunicación segura con estas sedes, certificados reconocidos y calificados de persona física o de representante de persona jurídica, o un medio equivalente."
@@ -681,6 +721,7 @@
     }, {
         "question": "En materia de servicios de identidad y extranjería de la Dirección General de Policía que se ofrecen a través de la Plataforma de Interoperabilidad de las Illes Balears, qué diferencia existe entre la consulta de datos de identidad y la verificación de datos de identidad?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "La verificación de datos de identidad no es un servicio intermediado que se ofrezca a través de la plataforma."
@@ -698,6 +739,7 @@
     }, {
         "question": "Las administraciones públicas, al tomar aquellas decisiones tecnológicas para garantizar la interoperabilidad, deben tener en cuenta el Esquema Nacional de Interoperabilidad.¿Qué comprende este esquema?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Protocolos y especificaciones técnicas."
@@ -715,6 +757,7 @@
     }, {
         "question": "De acuerdo con la Norma Técnica de Documento Electrónico, ¿cuáles son los componentes de un documento electrónico?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Contenido, índice electrónico y metadatos del documento electrónico."
@@ -732,6 +775,7 @@
     }, {
         "question": "Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, si las administraciones públicas no pueden obtener telemáticamente los documentos del interesado que están en poder de otra administración:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Deben comunicarlo al interesado, quien decidirá si aporta o no el documento."
@@ -749,6 +793,7 @@
     }, {
         "question": "En relación con la aportación de documentos por parte de los interesados, ¿en qué caso las administraciones públicas no deben exigir la presentación de documentos originales?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son incorrectas."
@@ -766,6 +811,7 @@
     }, {
         "question": "De acuerdo con el Real Decreto 4/2010, por el que se regula el Esquema Nacional de Interoperatividad, qué dimensión de la interoperabilidad es aquélla que hace referencia a la capacidad de las entidades y de los procesos a través de los cuales se llevan a cabo sus actividades para colaborar con el objetivo de conseguir logros mutuamente acordados relativos a los servicios que prestan?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Interoperabilidad, por lo general."
@@ -783,6 +829,7 @@
     }, {
         "question": "En la Plataforma de Interoperabilidad de las Illes Balears y haciendo uso del servicio de consulta del distintivo medioambiental de un vehículo, ¿cuáles de los siguientes conjuntos de datos podemos obtener a partir de una matrícula de coche?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Distintivo medioambiental, fecha de alta y nivel de contaminación."
@@ -800,6 +847,7 @@
     }, {
         "question": "¿El interesado de un procedimiento puede oponerse a que la Administración consulte sus datos que están en poder de otra administración?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "No puede oponerse si la obtención de los datos se exige en el marco de un procedimiento sancionador."
@@ -817,6 +865,7 @@
     }, {
         "question": "Como agente que participa en los intercambios intermediados de datos entre administraciones públicas, ¿qué es un emisor?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Cualquier organización autorizada a consultar varios datos de la ciudadanía en poder de un emisor."
@@ -834,6 +883,7 @@
     }, {
         "question": "¿Dónde se aloja la dirección de correo electrónico habilitada única?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "En la sede electrónica de cada administración pública y en todas sus sedes electrónicas asociadas."

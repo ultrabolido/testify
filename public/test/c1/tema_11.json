@@ -1,6 +1,7 @@
 [{
         "question": "De acuerdo con el artículo 37 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, las administraciones públicas deben disponer de registros electrónicos para recibir y enviar:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Solicitudes, escritos, oficios y comunicaciones."
@@ -18,6 +19,7 @@
     }, {
         "question": "¿Se puede presentar una queja o sugerencia de forma verbal a través del teléfono de información 012?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "No."
@@ -35,6 +37,7 @@
     }, {
         "question": "¿Se puede presentar una queja o sugerencia con carácter anónimo?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Solo en el caso de las quejas."
@@ -52,6 +55,7 @@
     }, {
         "question": "De acuerdo con el artículo 38 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿qué elementos tienen plena eficacia y validez para todas las administraciones públicas?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las notificaciones por medios electrónicos que se practiquen mediante comparecencia en la sede electrónica."
@@ -69,6 +73,7 @@
     }, {
         "question": "Según el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, un canal es:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Una estructura o medio de difusión de los contenidos y el procedimiento, incluyendo el canal presencial y el electrónico, así como otros que existen en la actualidad o pueda haber en el futuro (dispositivos móviles, etc.)."
@@ -86,6 +91,7 @@
     }, {
         "question": "Según el artículo 37.2 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, el Registro Electrónico General es:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "El registro central de la Administración General del Estado."
@@ -103,6 +109,7 @@
     }, {
         "question": "Las personas que tienen la condición de interesadas en un procedimiento administrativo y se relacionan con las administraciones públicas a través de medios electrónicos tienen derecho a consultar en el Punto de Acceso General electrónico la siguiente información:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "d",
                 "name": "Las respuestas a)y b)son correctas."
@@ -120,6 +127,7 @@
     }, {
         "question": "¿Una persona física tiene la obligación de relacionarse a través de medios electrónicos con las administraciones públicas para realizar un trámite administrativo?",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "En determinados casos, sí."
@@ -137,6 +145,7 @@
     }, {
         "question": "¿La práctica de notificaciones electrónicas es una función de las oficinas de asistencia en materia de registros que prevé la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "En determinados casos."
@@ -154,6 +163,7 @@
     }, {
         "question": "En relación con las actuaciones y relaciones electrónicas, el sector público debe respetar los siguientes principios generales:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "El principio de personalización."
@@ -171,6 +181,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con las quejas y sugerencias:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "El derecho a presentar una queja o sugerencia, así como el sistema para presentarlas y tramitarlas, debe indicarse en el Portal de Participación Ciudadana del Gobierno de las Illes Balears."
@@ -188,6 +199,7 @@
     }, {
         "question": "¿Cuál de estas funciones han asumido las oficinas de registro desde que han sido transformadas en oficinas de asistencia en materia de registros?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
@@ -205,6 +217,7 @@
     }, {
         "question": "Indique la respuesta correcta.Los documentos presentados de manera presencial ante las administraciones públicas deben digitalizarse por parte de:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Las oficinas del Registro Central."
@@ -222,6 +235,7 @@
     }, {
         "question": "¿Quién coordina las oficinas de asistencia en materia de registros según el Decreto 11/2021, de 15 de febrero, relativo a la estructura de las consejerías de la Administración autonómica?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Todas las respuestas son incorrectas."
@@ -239,6 +253,7 @@
     }, {
         "question": "Si la Consejería de Modelo Económico, Turismo y Trabajo debe notificar el inicio de un procedimiento sancionador en materia de turismo contra una sociedad anónima y no dispone de los datos de contacto electrónicos para hacer el aviso de su puesta a disposición, se le puede notificar en papel?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Sí."
@@ -256,6 +271,7 @@
     }, {
         "question": "¿Cuáles de estos sujetos están obligados a relacionarse a través de medios electrónicos con las administraciones públicas para realizar cualquier trámite de un procedimiento administrativo?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las personas jurídicas."
@@ -273,6 +289,7 @@
     }, {
         "question": "Una vez digitalizado un documento presentado por un interesado, ¿qué debe hacer la oficina de asistencia en materia de registros (OAMR)?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Archivar el documento presentado."
@@ -290,6 +307,7 @@
     }, {
         "question": "Según el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, están obligados a relacionarse a través de medios electrónicos con las administraciones públicas:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las personas físicas."
@@ -307,6 +325,7 @@
     }, {
         "question": "Señale la respuesta correcta en materia de registro electrónico:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los registros electrónicos deben admitir documentos electrónicos desnormalizados correspondientes a los servicios, procedimientos y trámites que se especifiquen de conformidad con lo que disponga la norma de creación del registro, cumplimentados de acuerdo con cualquier formato."
@@ -324,6 +343,7 @@
     }, {
         "question": "Señala la respuesta correcta en relación con las quejas y sugerencias:",
         "answer": "c",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "En la formulación de las quejas sólo se puede exigir la identificación de la persona física o jurídica que las presenta, una exposición sucinta de los hechos que las motivan y la designación del medio seleccionado para recibir la respuesta (fax, correo electrónico o postal)o cualquier otra comunicación inherente a la tramitación."
@@ -341,6 +361,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con los derechos y obligaciones de relacionarse electrónicamente con las administraciones:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "Las personas jurídicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública en cualquier momento del procedimiento."
@@ -358,6 +379,7 @@
     }, {
         "question": "Indique la respuesta correcta en relación con las quejas y sugerencias:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La formulación de una queja no tiene, en ningún caso, la calificación de recurso administrativo, pero paraliza los plazos establecidos para su interposición."
@@ -375,6 +397,7 @@
     }, {
         "question": "Indique la respuesta correcta.Según la Resolución de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información de 21 de noviembre de 2012, por la que se atribuye el número 012 al servicio de información de las administraciones autonómicas, cuál de estas prestaciones no es obligatorio ofrecer a la ciudadanía?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Información sobre la presentación de quejas o reclamaciones y recepción de sugerencias."
@@ -392,6 +415,7 @@
     }, {
         "question": "Una vez digitalizados los documentos presentados por un interesado en una oficina de asistencia en materia de registros (OAMR):",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Serán devueltos al interesado."
@@ -409,6 +433,7 @@
     }, {
         "question": "¿Qué anotaciones forman parte del conjunto agregado de elementos que configura el Registro Electrónico General de la Administración General del Estado?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Las anotaciones que se practiquen electrónicamente a través de solicitudes o escritos que dispongan de modelos normalizados de presentación, siempre que vayan dirigidos a la Administración General del Estado."
@@ -426,6 +451,7 @@
     }, {
         "question": "¿Dónde debe estar publicada la información sujeta a las obligaciones de transparencia según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
         "answer": "a",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "En el Punto de Acceso General electrónico de la Administración pública correspondiente."
@@ -443,6 +469,7 @@
     }, {
         "question": "Según el Decreto 82/2009, de 13 de noviembre, por el que se regula la gestión de las quejas y sugerencias sobre el funcionamiento de los servicios públicos de la Administración de la Comunidad Autónoma de las Illes Balears, el plazo para responder a las quejas y las sugerencias es de quince días hábiles desde que:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Ninguna respuesta es correcta."
@@ -460,6 +487,7 @@
     }, {
         "question": "Señale la respuesta correcta en materia de registros electrónicos de que deben disponer las administraciones públicas, de acuerdo con el artículo 37 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Los registros electrónicos deben ser totalmente accesibles."
@@ -477,6 +505,7 @@
     }, {
         "question": "Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Las administraciones públicas deben garantizar que las personas jurídicas se puedan relacionar con la Administración a través de medios electrónicos, para lo que pondrán a su disposición los canales de acceso que sean necesarios."
@@ -494,6 +523,7 @@
     }, {
         "question": "¿Se pueden presentar quejas y sugerencias de forma verbal?",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "Sí, presentándose en una unidad de registro de cualquier consejería de la Administración de la Comunidad Autónoma de las Illes Balears."
@@ -511,6 +541,7 @@
     }, {
         "question": "¿Qué ministerio debe gestionar el Registro Electrónico General de la Administración General del Estado?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "El Ministerio de Asuntos Económicos y Transformación Digital, en colaboración con el Ministerio de Política Territorial y Función Pública."
@@ -528,6 +559,7 @@
     }, {
         "question": "¿Puede la Administración de la Comunidad Autónoma de las Illes Balears establecer la obligación de las personas físicas de relacionarse electrónicamente en determinados procedimientos?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Sí, en el caso de las convocatorias de subvenciones."
@@ -545,6 +577,7 @@
     }, {
         "question": "Según el Decreto 11/2021, de 15 de febrero, relativo a la estructura de las consejerías de la Administración de la Comunidad Autónoma de las Illes Balears, ¿qué consejería ejerce las funciones en materia de atención a la ciudadanía?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La Consejería de Salud y Consumo."
@@ -562,6 +595,7 @@
     }, {
         "question": "¿A quiénes deben asistir en el uso de medios electrónicos las administraciones públicas?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "A los interesados no incluidos en los apartados 2 y 3 del artículo 14 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas que así lo soliciten."
@@ -579,6 +613,7 @@
     }, {
         "question": "¿Cuál de estas funciones no pertenece a las oficinas de asistencia en materia de registros?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Digitalizar documentos."
@@ -596,6 +631,7 @@
     }, {
         "question": "Las anotaciones en el Registro General de la Administración General del Estado:",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Tienen plena eficacia y validez para todas las administraciones públicas."
@@ -613,6 +649,7 @@
     }, {
         "question": "Señale la respuesta incorrecta.Las personas físicas y jurídicas pueden presentar las quejas y sugerencias en cualquiera de las siguientes formas y medios:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "Por telefax, mediante escrito sin ninguna formalidad especial o cumplimentando el impreso normalizado."
@@ -630,6 +667,7 @@
     }, {
         "question": "Qué dirección general de la Administración de la Comunidad Autónoma de las Illes Balears se encarga de la “modernización y atención e información ciudadana” según el Decreto 11/2021, de 15 de febrero, relativo a la estructura de las consejerías de la Administración de la Comunidad Autónoma de las Illes Balears?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La Dirección General de Modernización y Atención Ciudadana."
@@ -647,6 +685,7 @@
     }, {
         "question": "¿Cuál de estos canales no es un canal de asistencia para el acceso a servicios electrónicos?",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las sedes electrónicas."
@@ -664,6 +703,7 @@
     }, {
         "question": "De acuerdo con lo que prevé la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, un empleado público que debe solicitar una comisión de servicios para acceder a un determinado puesto de trabajo de otra consejería de la Administración autonómica, ¿está obligado a hacerlo por medios electrónicos?",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Sólo en caso de que el procedimiento telemático correspondiente esté publicado en la Sede Electrónica."
@@ -681,6 +721,7 @@
     }, {
         "question": "Quien tiene las funciones de coordinar las oficinas de asistencia en materia de registro (OAMR)de la Administración de la Comunidad Autónoma de las Illes Balears según el Decreto 11/2021, de 15 de febrero, relativo a la estructura de las consejerías de la Administración autonómica?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "La secretaría general de cada consejería de la Administración autonómica."
@@ -698,6 +739,7 @@
     }, {
         "question": "¿En qué casos las oficinas de asistencia en materia de registros deben practicar electrónicamente una notificación según el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "No es una función suya."
@@ -715,6 +757,7 @@
     }, {
         "question": "¿Puede considerarse la plataforma Youtube como un canal de asistencia para el acceso a los servicios electrónicos?",
         "answer": "a",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Sólo si cumple con los requisitos estándares de seguridad."
@@ -732,6 +775,7 @@
     }, {
         "question": "Señale la respuesta correcta en materia de registro electrónico:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "d",
                 "name": "Los registros electrónicos deben admitir cualquier solicitud, escrito o comunicación distintos a los mencionados en el apartado a)del artículo 37.3 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, dirigido a cualquier administración pública."
@@ -749,6 +793,7 @@
     }, {
         "question": "Señala la respuesta correcta en relación con las quejas y sugerencias:",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "La respuesta debe contener las acciones ya emprendidas o las actuaciones que se adoptarán para atender las demandas o propuestas aducidas por los ciudadanos y ciudadanas."
@@ -766,6 +811,7 @@
     }, {
         "question": "El Decreto 82/2009, de 13 de noviembre, por el que se regula la gestión de las quejas y sugerencias sobre el funcionamiento de los servicios públicos de la Administración de la Comunidad Autónoma de las Illes Balears es aplicable a:",
         "answer": "d",
+		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "Los consejos insulares y los ayuntamientos."
@@ -783,6 +829,7 @@
     }, {
         "question": "Indique la respuesta incorrecta.Con carácter general, están obligadas a relacionarse electrónicamente con las administraciones públicas para realizar un trámite de un procedimiento administrativo:",
         "answer": "d",
+		"shuffle": true,
         "options": [{
                 "id": "a",
                 "name": "Las entidades sin personalidad jurídica."
@@ -800,6 +847,7 @@
     }, {
         "question": "Dentro de la estructura orgánica básica de las consejerías de la Administración de la Comunidad Autónoma de las Illes Balears, ¿qué órgano ejerce las funciones en materia de información y atención a la ciudadanía?",
         "answer": "b",
+		"shuffle": true,
         "options": [{
                 "id": "b",
                 "name": "La Oficina de Administración Electrónica."
@@ -817,6 +865,7 @@
     }, {
         "question": "De acuerdo con el artículo 37 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, las administraciones públicas deben disponer de registros electrónicos para:",
         "answer": "c",
+		"shuffle": true,
         "options": [{
                 "id": "c",
                 "name": "Recibir y enviar solicitudes, escritos y comunicaciones."
@@ -834,6 +883,7 @@
     }, {
         "question": "Si una oficina de asistencia en materia de registros (OAMR)no puede enviar, por exceso de capacidad, un documento a través del Sistema de interconexión de registros (SIR)a otra administración, que debe hacer según el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos?",
         "answer": "b",
+		"shuffle": false,
         "options": [{
                 "id": "a",
                 "name": "Si las OAMR son de la Administración general del Estado pueden utilizar el portal de intercambio de archivos SIRES."
