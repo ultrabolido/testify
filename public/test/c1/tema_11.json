@@ -451,7 +451,6 @@
     }, {
         "question": "¿Dónde debe estar publicada la información sujeta a las obligaciones de transparencia según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
         "answer": "a",
-		"shuffle": false,
         "options": [{
                 "id": "c",
                 "name": "En el Punto de Acceso General electrónico de la Administración pública correspondiente."
