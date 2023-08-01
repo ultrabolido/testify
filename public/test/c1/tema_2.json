@@ -867,10 +867,10 @@
 		"shuffle": false,
         "options": [{
                 "id": "a",
-                "name": "La organización de sus instituciones de gobierno."
+                "name": "La organización de sus instituciones de autogobierno."
             }, {
                 "id": "b",
-                "name": "Los espacios forestales y su aprovechamiento."
+                "name": "Los montes y aprovechamientos forestales."
             }, {
                 "id": "c",
                 "name": "La ordenación del territorio, urbanismo y vivienda."

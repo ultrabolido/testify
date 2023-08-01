@@ -256,7 +256,7 @@
 		"shuffle": true,
         "options": [{
                 "id": "b",
-                "name": "Sí."
+                "name": "Sí, es obligatorio."
             }, {
                 "id": "c",
                 "name": "Es opcional."
@@ -459,10 +459,10 @@
                 "name": "En la carpeta ciudadana."
             }, {
                 "id": "a",
-                "name": "En la página web de la Administración pública correspondiente."
+                "name": "En la página web o sede electrónica de la Administración pública correspondiente."
             }, {
                 "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
+                "name": "Todas las respuestas son incorrectas."
             }
         ]
     }, {
@@ -714,7 +714,7 @@
                 "name": "Sólo si hace el trámite como persona física."
             }, {
                 "id": "c",
-                "name": "Sí."
+                "name": "Sí, en los términos establecidos reglamentariamente."
             }
         ]
     }, {
@@ -741,7 +741,7 @@
 		"shuffle": true,
         "options": [{
                 "id": "a",
-                "name": "No es una función suya."
+                "name": "Ninguna respuesta es correcta."
             }, {
                 "id": "c",
                 "name": "Cuando el interesado es un sujeto obligado a relacionarse electrónicamente con la administración."

@@ -850,7 +850,7 @@
 		"shuffle": true,
         "options": [{
                 "id": "a",
-                "name": "El oficial del Parlamento."
+                "name": "El oficial mayor del Parlamento."
             }, {
                 "id": "b",
                 "name": "El letrado mayor del Parlamento."

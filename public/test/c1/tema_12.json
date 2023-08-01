@@ -17,7 +17,7 @@
             }
         ]
     }, {
-        "question": "Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios es un servicio propio?",
+        "question": "Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios no es un servicio propio?",
         "answer": "",
 		"shuffle": true,
         "options": [{
@@ -46,7 +46,7 @@
                 "name": "Debe requerir al interesado para que aporte el original, en cualquier circunstancia."
             }, {
                 "id": "c",
-                "name": "Puede optar por no requerir el original, en caso de que el documento no sea relevante para resolver el procedimiento."
+                "name": "Excepcionalmente, si considera que es un documento relevante para resolver el procedimiento, puede requerir el original, de manera motivada."
             }, {
                 "id": "a",
                 "name": "Excepcionalmente puede requerir el original, de forma motivada."
@@ -287,21 +287,21 @@
             }
         ]
     }, {
-        "question": "¿Cuál de estos documentos no puede exigir la Administración de la Comunidad Autónoma de las Illes Balears a la ciudadanía de acuerdo con el Catálogo de simplificación documental?",
+        "question": "Según el Decreto 6/2013, de 8 de febrero, de medidas de simplificación documental de los procedimientos administrativos, qué de estos documentos no puede exigir la Administración de la Comunidad Autónoma de las Islas Baleares a la ciudadanía?",
         "answer": "d",
 		"shuffle": true,
         "options": [{
                 "id": "c",
-                "name": "Un título universitario."
+                "name": "Los documentos que consten en el Catálogo de simplificación documental."
             }, {
                 "id": "d",
                 "name": "Todas las respuestas son correctas."
             }, {
                 "id": "b",
-                "name": "Un certificado de empadronamiento."
+                "name": "Los datos de residencia."
             }, {
                 "id": "a",
-                "name": "Un certificado de discapacidad."
+                "name": "Los datos de identidad (DNI)."
             }
         ]
     }, {
@@ -331,10 +331,10 @@
                 "name": "No, salvo que lo establezca la normativa reguladora del correspondiente procedimiento."
             }, {
                 "id": "c",
-                "name": "Sí, cuando excepcionalmente la normativa reguladora de aplicación así lo establezca."
+                "name": "Sí, cuando la administración lo considere necesario para resolver el procedimiento."
             }, {
                 "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
+                "name": "Las respuestas a)y b)son correctas."
             }, {
                 "id": "a",
                 "name": "No, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario."
@@ -439,7 +439,7 @@
                 "name": "Debe presentar la correspondiente denuncia ante la Fiscalía si sospecha que puede ser falso."
             }, {
                 "id": "c",
-                "name": "Puede requerirlo en todo caso si se trata de un documento relevante para dictar la resolución del procedimiento."
+                "name": "Puede requerirlo en todo caso si se trata de un documento irrelevante para dictar la resolución del procedimiento."
             }, {
                 "id": "d",
                 "name": "Todas las respuestas son incorrectas."
