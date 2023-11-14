@@ -756,7 +756,7 @@
         ]
     }, {
         "question": "Indique la respuesta incorrecta en relación con el Parlamento de las Illes Balears:",
-        "answer": "a",
+        "answer": "d",
 		"shuffle": true,
         "options": [{
                 "id": "a",

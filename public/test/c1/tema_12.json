@@ -18,7 +18,7 @@
         ]
     }, {
         "question": "Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios no es un servicio propio?",
-        "answer": "",
+        "answer": "d",
 		"shuffle": true,
         "options": [{
                 "id": "d",
@@ -270,7 +270,7 @@
         ]
     }, {
         "question": "La sede electrónica de la Administración de la Comunidad Autónoma de las Illes Balears es accesible públicamente en la dirección:",
-        "answer": "a",
+        "answer": "c",
 		"shuffle": true,
         "options": [{
                 "id": "a",
@@ -324,7 +324,7 @@
         ]
     }, {
         "question": "¿Puede exigir la Administración Pública a un interesado que presente documentos originales?",
-        "answer": "d",
+        "answer": "a",
 		"shuffle": false,
         "options": [{
                 "id": "b",
@@ -774,7 +774,7 @@
         ]
     }, {
         "question": "Según la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas, si las administraciones públicas no pueden obtener telemáticamente los documentos del interesado que están en poder de otra administración:",
-        "answer": "d",
+        "answer": "b",
 		"shuffle": true,
         "options": [{
                 "id": "c",

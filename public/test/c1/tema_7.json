@@ -342,7 +342,7 @@
         ]
     }, {
         "question": "El Reglamento es, jerárquicamente:",
-        "answer": "d",
+        "answer": "b",
 		"shuffle": true,
         "options": [{
                 "id": "a",

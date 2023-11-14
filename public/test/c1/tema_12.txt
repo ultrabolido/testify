@@ -69,7 +69,7 @@ a)https://www.goib.es/seucaib
 b)http://www.illesbalears.cat
 c)http://www.caib.es
 d)https://intranet.caib.es/seucaib
-a
+c
 13.El principio de interoperabilidad hace referencia a la capacidad de compartir datos y posibilitar el intercambio de información.¿Qué elementos debe tener esa capacidad?
 a)Los sistemas de información.
 b)Los sistemas de información y los procedimientos a los que dan soporte.
@@ -208,7 +208,7 @@ b)La primera devuelve el nombre completo y la dirección del ciudadano una vez i
 c)Ambas consultas devuelven la misma información: los datos completos que figuran en un DNI o NIE de un ciudadano.
 d)La verificación de datos de identidad no es un servicio intermediado que se ofrezca a través de la plataforma.
 a
-36.Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios es un servicio propio?
+36.Referente a los servicios que ofrece la Plataforma de Interoperabilidad de las Illes Balears, ¿cuál de los siguientes servicios no es un servicio propio?
 a)Consulta de datos de convivencia sobre los padrones municipales.
 b)Consulta de datos históricos sobre los padrones municipales.
 c)Verificación y consulta de datos de familia numerosa.
@@ -229,7 +229,7 @@ b
 39.¿Puede exigir la Administración Pública a un interesado que presente documentos originales?
 a)No, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario.
 b)No, salvo que lo establezca la normativa reguladora del correspondiente procedimiento.
-c)Sí, cuando excepcionalmente la normativa reguladora de aplicación así lo establezca.
+c)Sí, cuando la administración lo considere necesario para resolver el procedimiento.
 d)Las respuestas a)y c)son correctas.
 d
 40.Indique la respuesta correcta en relación con la aportación de documentos por parte de los interesados.Con carácter general:
