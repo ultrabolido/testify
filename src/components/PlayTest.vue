@@ -1,7 +1,8 @@
 <script setup>
 import { onMounted, ref } from 'vue';
-import { getQuestions, getAllQuestions, shuffle } from '../utils/utils.js'
+import { getAllQuestions, shuffle } from '../utils/utils.js'
 
+const TOP_COUNT = 100;
 const props = defineProps({
   category: Object,
   test: Object
@@ -11,7 +12,7 @@ const emit = defineEmits(['closeTest', 'endTest']);
 
 const currentQuestion = ref(0);
 const score = ref(0);
-const questions = ref((props.test.id === 'tot') ? await getAllQuestions(props.category) : await getQuestions(props.category, props.test));
+const questions = ref(await getAllQuestions(props.category, props.test));
 const selectedOption = ref({});
 const answered = ref(false);
 
@@ -23,9 +24,12 @@ onMounted( async () => {
 
 function randomize() {
   shuffle(questions.value);
-  questions.value.forEach((q) => {
+  if (questions.value.length > TOP_COUNT) {
+    questions.value = questions.value.slice(questions.value.length - TOP_COUNT);
+  }
+  /*questions.value.forEach((q) => {
     if (q.shuffle) shuffle(q.options);
-  })
+  })*/
 }
 
 function nextQuestion() {

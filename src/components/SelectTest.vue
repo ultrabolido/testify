@@ -38,7 +38,7 @@ onMounted( async () => {
 
         <footer>
             <button :style="{visibility: (page == 0 ? 'hidden' : 'visible')}" @click="page--"><i class="fa fa-arrow-left"></i></button>
-            <div class="total_que">Página {{  page + 1 }}/{{ tests.length / 4 }}</div>
+            <div class="total_que">Página {{  page + 1 }}/{{ Math.ceil(tests.length / 4) }}</div>
             <button :style="{visibility: (page == (tests.length / 4) - 1 ? 'hidden' : 'visible')}" @click="page++"><i class="fa fa-arrow-right"></i></button>
         </footer>
     </div>

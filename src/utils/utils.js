@@ -15,27 +15,38 @@ async function getTests(category) {
   if (!CACHE[`category_${category.id}`]) {
     let response = await fetch(`test/${category.id}.json`);
     CACHE[`category_${category.id}`] = await response.json();
-    CACHE[`category_${category.id}`].unshift({id: 'tot', nom: 'Tot el temari'});
+    CACHE[`category_${category.id}`].unshift({id: 'all_tema_11_15', nom: 'Tema 11 al 15'});
+    CACHE[`category_${category.id}`].unshift({id: 'all_tema_6_10', nom: 'Tema 6 al 10'});
+    CACHE[`category_${category.id}`].unshift({id: 'all_tema_1_5', nom: 'Tema 1 al 5'});
+    CACHE[`category_${category.id}`].unshift({id: 'all_tema_1_15', nom: 'Tot el temari'});
   }
 
   return CACHE[`category_${category.id}`]
 }
 
-async function getQuestions(category, test) {
+async function getQuestions(category, test_id) {
 
-  if (test.format == 'txt')
-    return fetch(`test/${category.id}/${test.id}.txt`)
-    .then((response) => response.text())
-    .then((data) => parse(data) );
-  else
-    return fetch(`test/${category.id}/${test.id}.json`)
+    return fetch(`test/${category.id}/${test_id}.json`)
     .then((response) => response.json())
   
 }
 
-async function getAllQuestions(category) {
+async function getAllQuestions(category, test) {
 
-  let allTests = CACHE[`category_${category.id}`].slice(1);
+  let allTests = [];
+  if (test.id.startsWith('all')) {
+  
+    let temp = test.id.split('_');
+    for (var i = Number(temp[2]); i <= Number(temp[3]); i++) {
+      allTests.push('tema_' + i);
+    }
+  
+  } else {
+
+    allTests.push(test.id);
+
+  }
+  
   return Promise.all( allTests.map( t => getQuestions(category, t))).then(data => 
       Promise.all ( data.flat(1) ));
 }
