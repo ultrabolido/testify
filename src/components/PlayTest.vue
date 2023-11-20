@@ -27,9 +27,9 @@ function randomize() {
   if (questions.value.length > TOP_COUNT) {
     questions.value = questions.value.slice(questions.value.length - TOP_COUNT);
   }
-  /*questions.value.forEach((q) => {
+  questions.value.forEach((q) => {
     if (q.shuffle) shuffle(q.options);
-  })*/
+  });
 }
 
 function nextQuestion() {
@@ -83,6 +83,7 @@ function closeTest() {
                   :class="{correct: answered && correctAnswer(option),
                           incorrect: answered && incorrectAnswer(option),
                           disabled: answered }"
+                  :key="option.id"
                   @click="checkOption(option)"><span>[{{ String.fromCharCode(65 + index) }}] {{ option.name }}</span>
                   <div v-if="answered && correctAnswer(option)" class="icon tick"><i class="fa-regular fa-circle-check"></i></div>
                   <div v-if="answered && incorrectAnswer(option)" class="icon cross"><i class="fa-regular fa-circle-xmark"></i></div>
