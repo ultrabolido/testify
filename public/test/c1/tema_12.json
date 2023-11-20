@@ -39,8 +39,8 @@
         "answer": "a",
 		"shuffle": false,
         "options": [{
-                "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
+                "id": "a",
+                "name": "Excepcionalmente puede requerir el original, de forma motivada."
             }, {
                 "id": "b",
                 "name": "Debe requerir al interesado para que aporte el original, en cualquier circunstancia."
@@ -48,8 +48,8 @@
                 "id": "c",
                 "name": "Excepcionalmente, si considera que es un documento relevante para resolver el procedimiento, puede requerir el original, de manera motivada."
             }, {
-                "id": "a",
-                "name": "Excepcionalmente puede requerir el original, de forma motivada."
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
             }
         ]
     }, {
@@ -75,17 +75,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "c",
-                "name": "Cuando estén incorporados en la carpeta documental."
-            }, {
                 "id": "a",
                 "name": "Cuando consten en el Catálogo de simplificación documental."
             }, {
-                "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
-            }, {
                 "id": "b",
                 "name": "Cuando se trate de un documento custodiado en el archivo electrónico."
+            }, {
+                "id": "c",
+                "name": "Cuando estén incorporados en la carpeta documental."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
             }
         ]
     }, {
@@ -201,11 +201,11 @@
         "answer": "a",
 		"shuffle": false,
         "options": [{
-                "id": "b",
-                "name": "Un único organismo público o entidad de derecho público o privado, entre otros."
-            }, {
                 "id": "a",
                 "name": "Una administración pública, entre otros."
+            }, {
+                "id": "b",
+                "name": "Un único organismo público o entidad de derecho público o privado, entre otros."
             }, {
                 "id": "c",
                 "name": "Uno o más organismos públicos o entidades de derecho público o privado, entre otros."
@@ -327,6 +327,9 @@
         "answer": "a",
 		"shuffle": false,
         "options": [{
+                "id": "a",
+                "name": "No, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario."
+            }, {
                 "id": "b",
                 "name": "No, salvo que lo establezca la normativa reguladora del correspondiente procedimiento."
             }, {
@@ -334,10 +337,7 @@
                 "name": "Sí, cuando la administración lo considere necesario para resolver el procedimiento."
             }, {
                 "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
-            }, {
-                "id": "a",
-                "name": "No, salvo que, con carácter excepcional, la normativa reguladora aplicable establezca lo contrario."
+                "name": "Las respuestas a) y b) son correctas."
             }
         ]
     }, {

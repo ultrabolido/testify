@@ -111,17 +111,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
+                "id": "a",
+                "name": "El estado de tramitación del procedimiento."
             }, {
                 "id": "b",
                 "name": "El órgano competente para instruir el procedimiento."
             }, {
-                "id": "a",
-                "name": "El estado de tramitación del procedimiento."
-            }, {
                 "id": "c",
                 "name": "La identificación del empleado público responsable del procedimiento."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a)y b)son correctas."
             }
         ]
     }, {
@@ -129,14 +129,14 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "c",
-                "name": "En determinados casos, sí."
+                "id": "a",
+                "name": "Con carácter general, no."
             }, {
                 "id": "b",
                 "name": "Sí."
             }, {
-                "id": "a",
-                "name": "Con carácter general, no."
+                "id": "c",
+                "name": "En determinados casos, sí."
             }, {
                 "id": "d",
                 "name": "Las respuestas a)y c)son correctas."
@@ -345,14 +345,14 @@
         "answer": "c",
 		"shuffle": false,
         "options": [{
-                "id": "c",
-                "name": "En la formulación de las quejas sólo se puede exigir la identificación de la persona física o jurídica que las presenta, una exposición sucinta de los hechos que las motivan y la designación del medio seleccionado para recibir la respuesta (fax, correo electrónico o postal)o cualquier otra comunicación inherente a la tramitación."
+                "id": "a",
+                "name": "En la formulación de las quejas y sugerencias sólo puede exigirse la identificación de la persona física o jurídica que las presenta, una exposición sucinta de los hechos que las motivan y la designación del medio seleccionado para recibir la respuesta (fax, correo electrónico o postal )o cualquier otra comunicación inherente a la tramitación."
             }, {
                 "id": "b",
                 "name": "Las quejas y sugerencias pueden presentarse con carácter anónimo.Ahora bien, deben contener una breve descripción de su contenido esencial."
             }, {
-                "id": "a",
-                "name": "En la formulación de las quejas y sugerencias sólo puede exigirse la identificación de la persona física o jurídica que las presenta, una exposición sucinta de los hechos que las motivan y la designación del medio seleccionado para recibir la respuesta (fax, correo electrónico o postal )o cualquier otra comunicación inherente a la tramitación."
+                "id": "c",
+                "name": "En la formulación de las quejas sólo se puede exigir la identificación de la persona física o jurídica que las presenta, una exposición sucinta de los hechos que las motivan y la designación del medio seleccionado para recibir la respuesta (fax, correo electrónico o postal)o cualquier otra comunicación inherente a la tramitación."
             }, {
                 "id": "d",
                 "name": "Las respuestas b)y c)son correctas."
@@ -363,17 +363,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
+                "id": "a",
+                "name": "Las personas físicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública en cualquier momento del procedimiento."
+            }, {
+                "id": "b",
+                "name": "Las personas físicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública al inicio del procedimiento."
+            }, {
                 "id": "c",
                 "name": "Las personas jurídicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública en cualquier momento del procedimiento."
             }, {
                 "id": "d",
                 "name": "Las respuestas a)y b)son correctas."
-            }, {
-                "id": "b",
-                "name": "Las personas físicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública al inicio del procedimiento."
-            }, {
-                "id": "a",
-                "name": "Las personas físicas pueden ejercer su derecho a relacionarse electrónicamente con la administración pública en cualquier momento del procedimiento."
             }
         ]
     }, {
@@ -420,14 +420,14 @@
                 "id": "a",
                 "name": "Serán devueltos al interesado."
             }, {
-                "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
-            }, {
                 "id": "b",
                 "name": "Se conservarán durante seis meses, en el supuesto de que no se le hayan podido devolver los documentos."
             }, {
                 "id": "c",
                 "name": "No es una función del OAMR digitalizar documentos."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b)son correctas."
             }
         ]
     }, {
@@ -524,17 +524,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "c",
-                "name": "Sí, presentándose en una unidad de registro de cualquier consejería de la Administración de la Comunidad Autónoma de las Illes Balears."
+                "id": "a",
+                "name": "Sí, a través del teléfono de información 012."
             }, {
                 "id": "b",
                 "name": "No."
             }, {
+                "id": "c",
+                "name": "Sí, presentándose en una unidad de registro de cualquier consejería de la Administración de la Comunidad Autónoma de las Illes Balears."
+            }, {
                 "id": "d",
                 "name": "Las respuestas a)y c)son correctas."
-            }, {
-                "id": "a",
-                "name": "Sí, a través del teléfono de información 012."
             }
         ]
     }, {
@@ -557,7 +557,7 @@
         ]
     }, {
         "question": "¿Puede la Administración de la Comunidad Autónoma de las Illes Balears establecer la obligación de las personas físicas de relacionarse electrónicamente en determinados procedimientos?",
-        "answer": "d",
+        "answer": "c",
 		"shuffle": true,
         "options": [{
                 "id": "a",
@@ -812,17 +812,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "c",
-                "name": "Los consejos insulares y los ayuntamientos."
-            }, {
-                "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
+                "id": "a",
+                "name": "La Administración de la Comunidad Autónoma de las Illes Balears."
             }, {
                 "id": "b",
                 "name": "Las empresas públicas."
             }, {
-                "id": "a",
-                "name": "La Administración de la Comunidad Autónoma de las Illes Balears."
+                "id": "c",
+                "name": "Los consejos insulares y los ayuntamientos."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y b) son correctas."
             }
         ]
     }, {
@@ -887,14 +887,14 @@
                 "id": "a",
                 "name": "Si las OAMR son de la Administración general del Estado pueden utilizar el portal de intercambio de archivos SIRES."
             }, {
+                "id": "b",
+                "name": "Puede sustituir el envío a través del SIR por la puesta a disposición de los documentos, previamente depositados en un repositorio de intercambio de ficheros.Enviar el documento mediante el repositorio de intercambio de archivos RIPEA."
+            }, {
                 "id": "c",
                 "name": "Enviar el documento mediante el repositorio de intercambio de archivos RIPEA."
             }, {
                 "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
-            }, {
-                "id": "b",
-                "name": "Puede sustituir el envío a través del SIR por la puesta a disposición de los documentos, previamente depositados en un repositorio de intercambio de ficheros."
+                "name": "Las respuestas a) y b) son correctas."
             }
         ]
     }

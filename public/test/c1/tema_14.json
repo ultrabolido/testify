@@ -45,11 +45,11 @@
                 "id": "b",
                 "name": "Establece la distinción entre discriminación múltiple y orden de discriminar."
             }, {
-                "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
-            }, {
                 "id": "c",
                 "name": "Establece la distinción entre acoso y acoso sexual."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a) y c) son correctas."
             }
         ]
     }, {
@@ -183,11 +183,11 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "b",
-                "name": "Fue ratificado por España en marzo del 2014."
-            }, {
                 "id": "a",
                 "name": "Se firmó en Estambul el 11 de mayo de 2011."
+            }, {
+                "id": "b",
+                "name": "Fue ratificado por España en marzo del 2014."
             }, {
                 "id": "c",
                 "name": "Todavía no está ratificado por España."
@@ -654,11 +654,11 @@
                 "id": "a",
                 "name": "Es la toma en consideración de las diferencias entre mujeres y hombres en un a?mbito o una actividad para el análisis, la planificación, el diseño y la ejecución de poli?ticas."
             }, {
-                "id": "c",
-                "name": "Es tener en cuenta la manera en que las diversas actuaciones, situaciones y necesidades afectan a los hombres."
-            }, {
                 "id": "b",
                 "name": "Es la toma en consideración de las similitudes entre hombres y mujeres para la ejecución de las políticas."
+            }, {
+                "id": "c",
+                "name": "Es tener en cuenta la manera en que las diversas actuaciones, situaciones y necesidades afectan a los hombres."
             }, {
                 "id": "d",
                 "name": "Las respuestas a)y c)son correctas."
@@ -723,17 +723,17 @@
         "answer": "a",
 		"shuffle": false,
         "options": [{
-                "id": "d",
-                "name": "Las respuestas a)y b)son correctas."
-            }, {
-                "id": "c",
-                "name": "Las mujeres víctimas de violencia de género solo tendrán prioridad para acceder a residencias privadas."
-            }, {
                 "id": "a",
                 "name": "Las mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a viviendas de protección oficial."
             }, {
                 "id": "b",
                 "name": "Las mujeres víctimas de violencia de género serán consideradas colectivos prioritarios en el acceso a residencias públicas por gente mayor."
+            }, {
+                "id": "c",
+                "name": "Las mujeres víctimas de violencia de género solo tendrán prioridad para acceder a residencias privadas."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a)y b)son correctas."
             }
         ]
     }, {
@@ -831,17 +831,17 @@
         "answer": "d",
 		"shuffle": false,
         "options": [{
-                "id": "b",
-                "name": "Esta evaluación se tiene que incorporar sobre algunas disposiciones legales o reglamentarias concretas que se impulsen dentro del territorio de la comunidad autónoma."
-            }, {
                 "id": "a",
                 "name": "Esta evaluación se tiene que incorporar sobre todas las disposiciones legales o reglamentarias que se impulsen dentro del territorio de la comunidad autónoma."
             }, {
-                "id": "d",
-                "name": "Las respuestas a)y c)son correctas."
+                "id": "b",
+                "name": "Esta evaluación se tiene que incorporar sobre algunas disposiciones legales o reglamentarias concretas que se impulsen dentro del territorio de la comunidad autónoma."
             }, {
                 "id": "c",
                 "name": "Esta evaluación tiene que garantizar la integración del principio de igualdad y no discriminación de las personas LGTBI."
+            }, {
+                "id": "d",
+                "name": "Las respuestas a)y c)son correctas."
             }
         ]
     }, {
